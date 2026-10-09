@@ -2248,8 +2248,8 @@
     {
       "logicalPath": "data/scenario/title.ks",
       "outputPath": "data/scenario/title.ks",
-      "bytes": 1485,
-      "sha256": "4ecf0f267c24b7cf395eba3b23a1cea63dc4fbb4ee5715505d78985ef9eb481b",
+      "bytes": 1285,
+      "sha256": "2377e7d130cd5f093375f651e6b1296ed8055606aa470a0cfaf9591f31c43d3d",
       "fingerprinted": false
     },
     {
@@ -3276,7 +3276,7 @@
     }
   ],
   "totalFiles": 427,
-  "totalBytes": 130278229,
+  "totalBytes": 130278029,
   "fixedNameReason": "official runtime contracts, entry HTML and scenario loading (cache:false); af112e11",
   "manifestSelf": "excluded from self-referential checksum; all other output files covered",
   "templateDataKept": [],
