@@ -168,7 +168,7 @@ _ 으엑. 큐베.[p]
 
 [chara_show name="sayaka" face="school-coat_standing_grin_01" left="650" top="37" width="495" height="720"]
 
-[chara_show name="kyoko" face="school-coat_hand-in-pocket_smile_01" left="412" top="15" width="485" height="705"]
+[chara_show name="kyoko" face="school-coat_hand-in-pocket_smile_01" left="144" top="15" width="485" height="705"]
 
 
 #
