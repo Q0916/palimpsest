@@ -2185,8 +2185,8 @@
     {
       "logicalPath": "data/scenario/d1_07_patrol.ks",
       "outputPath": "data/scenario/d1_07_patrol.ks",
-      "bytes": 152086,
-      "sha256": "5a2f695dbece3b245270773c1dbe873c8eed675e2ef67f01c821b45dcaec1483",
+      "bytes": 152125,
+      "sha256": "7fb1d1136576fa01418fd01f69f3c11f3df0b0fd6e67c917f73f55f7520d673f",
       "fingerprinted": false
     },
     {
@@ -3276,7 +3276,7 @@
     }
   ],
   "totalFiles": 427,
-  "totalBytes": 129840613,
+  "totalBytes": 129840652,
   "fixedNameReason": "official runtime contracts, entry HTML and scenario loading (cache:false); af112e11",
   "manifestSelf": "excluded from self-referential checksum; all other output files covered",
   "templateDataKept": [],

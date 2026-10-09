@@ -195,15 +195,15 @@ window.__hcS2eMotion.decorate('fx_s2e_e07_snow_1','hc/s2e/h841245810c8c_e07_snow
 
 
 [iscript]
-window.__hcS2eWraith.prepareShot({"sourceId":"part-1-day-1-7-순찰:0210","sourceLine":617,"mode":"E","existingUnits":[],"visibleUnits":[],"camera":{"base":{"zoom":1,"x":0,"y":0},"0":{"zoom":1,"x":0,"y":0}},"split":false,"actorVisibility":"none"});
+window.__hcS2eWraith.prepareShot({"sourceId":"part-1-day-1-7-순찰:0326","sourceLine":617,"mode":"E","existingUnits":[],"visibleUnits":[],"camera":{"base":{"zoom":1,"x":0,"y":0},"0":{"zoom":1,"x":0,"y":0}},"split":false,"actorVisibility":"none"});
 [endscript]
 [iscript]
-window.__hcS2eWraith.applyShot({"sourceId":"part-1-day-1-7-순찰:0210","sourceLine":617,"mode":"E","existingUnits":[],"visibleUnits":[],"camera":{"base":{"zoom":1,"x":0,"y":0},"0":{"zoom":1,"x":0,"y":0}},"split":false,"actorVisibility":"none"});
+window.__hcS2eWraith.applyShot({"sourceId":"part-1-day-1-7-순찰:0326","sourceLine":617,"mode":"E","existingUnits":[],"visibleUnits":[],"camera":{"base":{"zoom":1,"x":0,"y":0},"0":{"zoom":1,"x":0,"y":0}},"split":false,"actorVisibility":"none"});
 [endscript]
 
 
 #사야카
-와, 첫눈이다![p]
+와, 첫눈이다! 눈 오는 거 진짜 오랜만이네.[p]
 
 
 [iscript]
