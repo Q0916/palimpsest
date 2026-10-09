@@ -1,0 +1,30 @@
+<div id="menu_menu_wrapper" class="hc_overlay hc_menu_screen" role="dialog" aria-label="메뉴">
+<button type="button" class="menu_close hc_x" aria-label="닫기"><svg viewBox="0 0 48 48"><path d="M10 10L38 38M38 10L10 38"/><path class="hc_x_star" d="M24 17l1.6 5.4L31 24l-5.4 1.6L24 31l-1.6-5.4L17 24l5.4-1.6z"/></svg></button>
+<!-- 마기아 엑세드라 통합 메뉴의 문법: 구역 머리줄(이름 ◇──── ◈) + 4열 타일(아이콘 위·이름 아래) + 오른쪽 위 ✕ -->
+<section class="hc_sect">
+<h2><span>메뉴</span><i class="hc_rule"></i><b class="hc_gem">◈</b></h2>
+<div class="hc_tiles">
+<button class="hc_action" data-role="save" type="button"><svg viewBox="0 0 34 34"><path d="M7 5h16l5 5v19H7z"/><path d="M11 5v8h11V5M11 29v-9h12v9"/></svg><b>저장</b></button>
+<button class="hc_action" data-role="load" type="button"><svg viewBox="0 0 34 34"><path d="M5 10h9l3 3h12v14H5z"/></svg><b>불러오기</b></button>
+<button class="hc_action" data-role="quicksave" type="button"><svg viewBox="0 0 34 34"><path d="M17 6v16M10 15l7 7 7-7M7 28h20"/></svg><b>퀵 저장</b></button>
+<button class="hc_action" data-role="quickload" type="button"><svg viewBox="0 0 34 34"><path d="M17 22V6M10 13l7-7 7 7M7 28h20"/></svg><b>퀵 불러오기</b></button>
+<button class="hc_action" data-role="sleepgame" type="button"><svg viewBox="0 0 34 34"><circle cx="17" cy="17" r="4.5"/><path d="M17 4v4M17 26v4M4 17h4M26 17h4M7.8 7.8l2.8 2.8M23.4 23.4l2.8 2.8M7.8 26.2l2.8-2.8M23.4 10.6l2.8-2.8"/></svg><b>설정</b></button>
+<button class="hc_action" data-role="window" type="button"><svg viewBox="0 0 34 34"><path d="M4 17s5-8 13-8 13 8 13 8-5 8-13 8S4 17 4 17z"/><path d="M6 28L28 6"/></svg><b>대사창 숨기기</b></button>
+<button class="hc_action" data-role="fullscreen" type="button"><svg viewBox="0 0 34 34"><path d="M6 13V6h7M21 6h7v7M28 21v7h-7M13 28H6v-7"/></svg><b>전체 화면</b></button>
+<button class="hc_action" data-role="rotate" type="button"><svg viewBox="0 0 34 34"><rect x="10" y="5" width="14" height="24" rx="2.5"/><path d="M29 14a12 12 0 0 1-4 13M27 24l-2 3-3-1.5"/></svg><b>화면 돌리기</b></button>
+<button class="hc_action" data-role="title" type="button"><svg viewBox="0 0 34 34"><path d="M7 6h12v22H7z"/><path d="M19 17h10M25 13l4 4-4 4"/></svg><b>타이틀로</b></button>
+</div>
+</section>
+<script>
+// 공식 [button role] 프록시를 누르는 다리. 저장·불러오기·설정 등 실제 동작은 엔진 기본 그대로.
+// 휴대폰에서는 엔진이 닫기 버튼에 click 대신 tap을 붙인다(10-06 발견) → 붙어 있는 쪽으로 누른다.
+function hcCloseMenu(){ const b=$('#menu_menu_wrapper .menu_close'); const ev=b.length&&$._data(b[0],'events')||{}; b.trigger(ev.tap?'tap':'click'); }
+$('#menu_menu_wrapper .hc_action').on('click',function(e){
+ e.stopPropagation();
+ $('#menu_menu_wrapper .hc_action').prop('disabled',true);
+ const role=this.dataset.role, kag=TYRANO.kag;
+ if(role==='rotate'){ hcCloseMenu(); kag.layer.getMenuLayer().promise().done(function(){ window.hcRotateCycle&&window.hcRotateCycle(); }); return; } // 메뉴가 다 닫힌 뒤 돌린다(열린 채 화면 맞춤을 다시 하면 메뉴가 안 닫힘)
+ hcCloseMenu();
+ kag.layer.getMenuLayer().promise().done(function(){ $('.hc_proxy_'+role).first().trigger('click'); });
+});
+</script></div>

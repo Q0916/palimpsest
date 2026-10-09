@@ -1,0 +1,157 @@
+/* 회천 UI v1 (Claude 설계, 2026-10-06). 엔진 JS 수정 없음 — 공식 [button role] 위에 모양만 입힌다.
+   톤: 지금 대사창(반투명 어둠·흰 글자)과 한 벌. 바탕 = 짙은 남보라 유리, 강조 = 옅은 금빛 가는 선 하나. */
+:root{
+  --hc-glass: rgba(12,10,26,.72);
+  --hc-glass-deep: rgba(10,8,22,.90);
+  --hc-line: rgba(222,200,146,.55);
+  --hc-line-strong: #e8cf8f;
+  --hc-ink: #f4f0fa;
+  --hc-ink-sub: #b9b0cc;
+}
+
+/* ── 대사창: 상자 대신 아래로 짙어지는 유리 ── */
+.message0_fore .message_outer{
+  background: linear-gradient(180deg, rgba(12,10,26,.30) 0%, rgba(12,10,26,.78) 38%, rgba(10,8,22,.86) 100%) !important;
+  border-top: 1px solid var(--hc-line) !important;
+  border-radius: 14px !important;
+  opacity: 1 !important;
+}
+.message0_fore .message_inner{ color: var(--hc-ink); text-shadow: 0 1px 2px rgba(0,0,0,.55); }
+
+/* ── 오른쪽 위 원형 아이콘 ── */
+.hc_btn{ cursor:pointer !important; border-radius:50%; transition: filter .12s; }
+/* hover는 마우스 기기에서만 — 아이폰은 hover가 있으면 첫 탭을 '올려놓기'로 쓴다(10-06) */
+@media (hover:hover){ .hc_btn:hover{ filter: brightness(1.15); } }
+.hc_btn:active{ filter: brightness(.85); }
+.hc_proxy{ display:none !important; }
+
+/* ── 메뉴 패널 ── */
+.hc_overlay{ position:absolute; inset:0; width:1280px; height:720px; background: rgba(6,5,14,.55);
+  font-family:"Gowun Dodum",sans-serif; color:var(--hc-ink); }
+.hc_panel{ box-sizing:border-box; position:absolute; top:118px; left:190px; width:900px; padding:26px 32px 32px;
+  background: var(--hc-glass-deep); border:1px solid var(--hc-line); border-radius:18px;
+  box-shadow: 0 0 0 1px rgba(0,0,0,.4), 0 18px 60px rgba(0,0,0,.55); }
+.hc_panel header{ display:flex; align-items:center; justify-content:space-between; margin-bottom:20px;
+  padding-bottom:14px; border-bottom:1px solid rgba(222,200,146,.25); }
+.hc_panel h1{ margin:0; font:700 30px "Gowun Batang",serif; letter-spacing:6px; color:var(--hc-ink); }
+.hc_panel h1::before,.hc_panel h1::after{ content:"◇"; font-size:14px; color:var(--hc-line-strong); margin:0 12px; vertical-align:middle; }
+.hc_close{ min-height:60px; padding:0 22px; border:1px solid var(--hc-line); border-radius:30px; background:transparent;
+  color:var(--hc-ink); font:700 22px "Gowun Dodum",sans-serif; cursor:pointer; }
+.hc_grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:12px; }
+.hc_action{ display:flex; align-items:center; gap:14px; min-height:84px; padding:10px 16px; text-align:left;
+  background: rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.10); border-radius:12px;
+  color:var(--hc-ink); cursor:pointer; font-family:"Gowun Dodum",sans-serif; }
+.hc_action svg{ flex:0 0 34px; width:34px; height:34px; stroke:var(--hc-line-strong); fill:none; stroke-width:2.2;
+  stroke-linecap:round; stroke-linejoin:round; }
+.hc_action b{ display:block; font-size:23px; font-weight:700; white-space:nowrap; }
+.hc_action small{ display:block; margin-top:4px; font-size:15px; color:var(--hc-ink-sub); white-space:nowrap; }
+@media (hover:hover){ .hc_action:hover,.hc_close:hover{ background: rgba(232,207,143,.10); border-color: var(--hc-line-strong); } }
+.hc_action:active,.hc_close:active{ background: rgba(232,207,143,.18); }
+.hc_action:focus-visible,.hc_close:focus-visible{ outline:2px solid var(--hc-line-strong); outline-offset:3px; }
+.hc_action.hc_sep{ grid-column: 1 / -1; min-height:0; padding:0; border:0; background:none; cursor:default; }
+
+/* 폰 가로(짧은 높이): 설명 글자 숨기고 칸을 키운다 */
+@media (max-height:500px) and (min-width:501px){
+  .hc_action small{ display:none; }
+  .hc_action{ min-height:92px; }
+  .hc_action b{ font-size:28px; }
+}
+
+/* ── 하위 화면: 저장·불러오기·로그 (엔진 기능 클래스는 그대로, 모양만) ── */
+.hc_sub .hc_panel_wide{ top:118px; left:90px; width:1100px; height:584px; display:flex; flex-direction:column; }
+.hc_sub header{ flex:0 0 auto; }
+.hc_scroll{ margin-left:auto; margin-right:16px; display:flex; gap:10px; }
+.hc_sub .button_smart{ position:static !important; }
+.hc_arrow{ width:60px; height:60px; border:1px solid var(--hc-line); border-radius:50%; background:transparent;
+  color:var(--hc-line-strong); font-size:20px; cursor:pointer; }
+.hc_sub .hc_list{ flex:1 1 auto; width:auto !important; height:auto !important; margin:0 !important; min-height:0;
+  overflow-y:auto; scrollbar-color: rgba(232,207,143,.5) transparent; }
+.hc_sub .area_save_list::-webkit-scrollbar-thumb,.hc_sub .log_body::-webkit-scrollbar-thumb{ background:rgba(232,207,143,.5); border-radius:6px; }
+.hc_sub .area_save_list::-webkit-scrollbar-track{ background:transparent; }
+.hc_sub .save_list{ display:flex !important; flex-direction:column; gap:10px; width:100% !important; height:auto !important; }
+.hc_sub .save_list_item{ display:flex !important; align-items:center; gap:18px; width:auto !important; height:auto !important;
+  padding:10px 14px; background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.10) !important; border-radius:12px; cursor:pointer; }
+@media (hover:hover){ .hc_sub .save_list_item:hover{ background:rgba(232,207,143,.10) !important; border-color:var(--hc-line-strong) !important; } }
+.hc_sub .save_list_item_thumb{ display:block !important; flex:0 0 192px; width:192px !important; height:108px !important; padding:0 !important;
+  background:rgba(0,0,0,.35) !important; border:1px solid rgba(222,200,146,.25); border-radius:8px; overflow:hidden; }
+.hc_sub .save_list_item_thumb img{ width:100% !important; height:100% !important; margin:0 !important; object-fit:cover; display:block; }
+.hc_sub .save_list_item_area{ display:grid !important; grid-template-columns:auto 1fr; grid-template-rows:auto auto; column-gap:14px;
+  width:auto !important; height:auto !important; padding:0 !important; background:none !important; }
+.hc_slot_no{ grid-row:1 / 3; align-self:center; font:700 30px "Gowun Batang",serif; color:var(--hc-line-strong); min-width:34px; text-align:center; }
+.hc_sub .save_list_item_date{ padding:0 !important; color:var(--hc-ink-sub) !important; font-size:18px !important; font-weight:400 !important; }
+.hc_sub .save_list_item_text{ height:auto !important; padding:6px 0 0 !important; color:var(--hc-ink) !important; font-size:22px !important;
+  line-height:1.4 !important; display:-webkit-box !important; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+.hc_sub .log_body{ padding:6px 18px !important; border:0 !important; border-radius:0 !important; background:none !important;
+  color:var(--hc-ink) !important; font-size:23px !important; line-height:1.75 !important; }
+.hc_sub .log_body .backlog_chara_name, .hc_sub .log_body b{ color:var(--hc-line-strong); }
+@media (max-height:500px) and (min-width:501px){
+  .hc_sub .save_list_item_text{ font-size:26px !important; }
+  .hc_sub .log_body{ font-size:28px !important; }
+}
+.hc_sub{ background: rgba(6,5,14,.82) !important; }
+.layer_mask{ background-size:cover; background-position:center; }
+
+/* ── 메뉴 v2(10-06): 마기아 엑세드라 통합 메뉴 문법 — 화면 전체 덮개 + 구역 머리줄 + 4열 깎은 모서리 타일 + 오른쪽 위 ✕ ── */
+.hc_menu_screen{ background: radial-gradient(ellipse 80% 70% at 50% 45%, rgba(26,22,44,.90), rgba(8,6,16,.96)) !important; }
+.hc_x{ position:absolute; left:1196px; top:0; width:84px; height:84px; padding:16px; /* 메뉴 아이콘 자리(10-06 축소) */ border:0; background:none; cursor:pointer; }
+.hc_x svg{ width:52px; height:52px; stroke:var(--hc-ink); stroke-width:2.4; stroke-linecap:round; fill:none; }
+.hc_x .hc_x_star{ fill:var(--hc-line-strong); stroke:none; }
+.hc_x:focus-visible svg{ stroke:var(--hc-line-strong); }
+@media (hover:hover){ .hc_x:hover svg{ stroke:var(--hc-line-strong); } }
+.hc_sect{ position:absolute; left:147px; top:128px; width:986px; }
+.hc_sect h2{ display:flex; align-items:center; gap:14px; margin:0 0 22px; font:700 24px "Gowun Batang",serif; letter-spacing:.5em; color:var(--hc-ink); }
+.hc_rule{ flex:1; height:1px; position:relative; background:linear-gradient(90deg, rgba(222,200,146,.75), rgba(222,200,146,.25)); }
+.hc_rule::before{ content:""; position:absolute; left:-2px; top:-5px; width:9px; height:9px; transform:rotate(45deg); border:1px solid var(--hc-line-strong); background:#120f22; }
+.hc_gem{ color:var(--hc-line-strong); font-size:18px; letter-spacing:0; }
+.hc_tiles{ display:grid; grid-template-columns:repeat(4,230px); gap:22px; }
+.hc_menu_screen .hc_action{ position:relative; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:12px;
+  height:118px; min-height:0; padding:0; text-align:center; border:0; border-radius:0; cursor:pointer;
+  clip-path: polygon(10px 0,calc(100% - 10px) 0,100% 10px,100% calc(100% - 10px),calc(100% - 10px) 100%,10px 100%,0 calc(100% - 10px),0 10px);
+  background: linear-gradient(180deg, rgba(64,58,88,.95), rgba(30,26,48,.95)); color:var(--hc-ink); font-family:"Gowun Batang",serif; }
+.hc_menu_screen .hc_action::before{ content:""; position:absolute; inset:5px; pointer-events:none;
+  clip-path: polygon(7px 0,calc(100% - 7px) 0,100% 7px,100% calc(100% - 7px),calc(100% - 7px) 100%,7px 100%,0 calc(100% - 7px),0 7px);
+  box-shadow: inset 0 0 0 1px rgba(222,200,146,.38); }
+.hc_menu_screen .hc_action svg{ flex:none; width:40px; height:40px; stroke:#e9e2f4; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+.hc_menu_screen .hc_action b{ font-size:23px; font-weight:700; letter-spacing:.06em; white-space:nowrap; }
+.hc_menu_screen .hc_action:focus-visible{ background: linear-gradient(180deg, rgba(92,82,118,.98), rgba(44,38,66,.98)); outline:none; }
+.hc_menu_screen .hc_action:focus-visible::before{ box-shadow: inset 0 0 0 1px var(--hc-line-strong); }
+@media (hover:hover){
+ .hc_menu_screen .hc_action:hover{ background: linear-gradient(180deg, rgba(92,82,118,.98), rgba(44,38,66,.98)); }
+ .hc_menu_screen .hc_action:hover::before{ box-shadow: inset 0 0 0 1px var(--hc-line-strong); }
+ .hc_menu_screen .hc_action:hover svg{ stroke:var(--hc-line-strong); }
+}
+.hc_menu_screen .hc_action:active{ filter:brightness(.85); }
+@media (max-height:500px) and (min-width:501px){ .hc_menu_screen .hc_action b{ font-size:26px; } }
+
+/* 크레딧·고지(10-06): 메뉴와 같은 남보라 바탕, 세로 스크롤 한 장. 닫기는 메뉴 ✕ 자리. */
+.hc_credits{ position:absolute; left:0; top:0; width:1280px; height:720px; box-sizing:border-box; overflow-y:auto; -webkit-overflow-scrolling:touch;
+  padding:72px 200px 120px; background: radial-gradient(ellipse 80% 70% at 50% 40%, rgba(26,22,44,.97), rgba(8,6,16,1)); color:var(--hc-ink); font-family:'Gowun Dodum', sans-serif; text-align:center; word-break:keep-all; }
+.hc_credits h1{ font-family:'Gowun Batang', serif; font-size:44px; margin:0; letter-spacing:.04em; }
+.hc_credits .sub{ color:var(--hc-ink-sub); font-size:20px; margin:8px 0 48px; letter-spacing:.2em; }
+.hc_credits section{ margin:0 0 44px; }
+.hc_credits h2{ font-family:'Gowun Batang', serif; font-size:24px; color:var(--hc-line-strong); margin:0 0 14px; font-weight:normal; }
+.hc_credits h2::before, .hc_credits h2::after{ content:'◇'; font-size:14px; margin:0 14px; vertical-align:middle; opacity:.8; }
+.hc_credits p{ font-size:21px; line-height:1.6; margin:0 0 10px; }
+.hc_credits .r{ display:block; color:var(--hc-ink-sub); font-size:17px; }
+.hc_credits .u{ color:var(--hc-ink-sub); font-size:15px; word-break:break-all; }
+.hc_credits .notice p{ font-size:19px; color:var(--hc-ink-sub); }
+
+/* 10-06 화면 돌리기(R08): 세로 잠금 상태로 누워서 할 때 게임만 90° 돌린다. 터치 기기에서는 쓸모없는 「전체 화면」 자리를 대신한다. */
+@media (hover:none){ .hc_menu_screen .hc_action[data-role="fullscreen"]{ display:none; } }
+@media (hover:hover){ .hc_menu_screen .hc_action[data-role="rotate"]{ display:none; } }
+html.hc-rot90 body, html.hc-rot-90 body{ position:fixed; top:0; left:0; width:100vh; height:100vw; transform-origin:0 0; overflow:hidden; }
+html.hc-rot90 body{ transform: rotate(90deg) translateY(-100%); }
+html.hc-rot-90 body{ transform: rotate(-90deg) translateX(-100%); }
+
+/* FX2 K1: Claude-specified stock glink choices. Coordinates use the 1280x720 stage. */
+.glink_button.hc_fx2_choice{
+  left:50% !important; transform:translateX(-50%); width:min(420px,80vw) !important;
+  height:56px !important; box-sizing:border-box; margin:0 !important; padding:0 !important;
+  display:flex; align-items:center; justify-content:center;
+  background:rgba(20,16,30,.85) !important; color:#f3e9c8 !important;
+  font:400 22px "Gowun Dodum",sans-serif !important; text-shadow:none !important;
+  border:1px solid rgba(243,233,200,.45) !important; border-radius:10px !important;
+  box-shadow:none !important;
+}
+@media (hover:hover){.glink_button.hc_fx2_choice:hover{background:rgba(243,233,200,.85) !important;color:#1a1424 !important;}}
+.glink_button.hc_fx2_choice:active,.glink_button.hc_fx2_choice:focus-visible{background:rgba(243,233,200,.85) !important;color:#1a1424 !important;}

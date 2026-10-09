@@ -1,0 +1,7 @@
+.tyrano_chara.kyubey_portrait {pointer-events:none;width:144px!important;height:144px!important;overflow:hidden;background:rgba(35,25,38,.90);border:2px solid #d6bd92;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,.35);clip-path:none;}
+.tyrano_chara.kyubey_portrait img {position:absolute;object-fit:contain;padding:0;box-sizing:content-box;}
+.tyrano_chara.kyubey_portrait img[src$="s1/h45cd85f47c27_kyubey_none_sitting_neutral_01.webp"] {width:244.021622px!important;height:244.021622px!important;left:-48.648649px;top:-50.594595px;}
+.tyrano_chara.kyubey_portrait img[src$="s1/h5bfbffa66eb7_kyubey_none_sitting_neutral_02.webp"] {width:244.021622px!important;height:244.021622px!important;left:-56.432432px;top:-36.972973px;}
+.tyrano_chara.kyubey_portrait img[src$="s1/h1d6317c4d77e_kyubey_none_tail-curled_neutral_01.webp"] {width:244.021622px!important;height:244.021622px!important;left:-47.675676px;top:-42.810811px;}
+.tyrano_chara.kyubey_portrait img[src$="s1/heb2376b3776c_kyubey_none_walking_neutral_01.webp"] {width:260.195965px!important;height:260.195965px!important;left:-116.195965px;top:-80.922190px;}
+.tyrano_chara.kyubey_portrait img[src$="s1/hc8308b490e2a_kyubey_none_walking_neutral_02.webp"] {width:260.195965px!important;height:260.195965px!important;left:0.000000px;top:-80.922190px;}

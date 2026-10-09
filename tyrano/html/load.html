@@ -1,0 +1,14 @@
+<div id="menu_load_wrapper" class="hc_overlay hc_sub">
+<section class="hc_panel hc_panel_wide" role="dialog" aria-label="불러오기">
+<header><h1>불러오기</h1>
+<span class="hc_scroll"><button type="button" class="button_smart button_arrow_up hc_arrow" aria-label="위로">▲</button><button type="button" class="button_smart button_arrow_down hc_arrow" aria-label="아래로">▼</button></span>
+<button type="button" class="menu_close hc_close">닫기</button></header>
+<div class="area_save_list hc_list">
+<ul class="save_list">
+{{for array_save}}
+<li class="save_display_area save_list_item" data-num="{{>num}}">
+<span class="save_list_item_thumb">{{if img_data != ""}}<img src="{{>img_data}}" />{{/if}}</span>
+<span class="save_list_item_area"><span class="hc_slot_no">{{:#index+1}}</span><span class="save_list_item_date">{{:save_date}}</span><span class="save_list_item_text">{{if save_date == ""}}빈 칸{{else}}{{:title}}{{/if}}</span></span>
+</li>
+{{/for}}
+</ul></div></section></div>

@@ -1,0 +1,3284 @@
+{
+  "schema": 1,
+  "projectID": "hoicheon_palimpsest",
+  "entry": "index.html",
+  "assets": {
+    "data/bgimage/hc/fx_replay_00.png": "data/bgimage/hc/h75f0b683ad1d_fx_replay_00.png",
+    "data/bgimage/hc/fx_replay_01.png": "data/bgimage/hc/h037587b06a41_fx_replay_01.png",
+    "data/bgimage/hc/fx_replay_02.png": "data/bgimage/hc/hee4e753d539e_fx_replay_02.png",
+    "data/bgimage/hc/fx_replay_03.png": "data/bgimage/hc/hd6593282cf2c_fx_replay_03.png",
+    "data/bgimage/hc/fx_replay_04.png": "data/bgimage/hc/h3df35290d261_fx_replay_04.png",
+    "data/bgimage/hc/fx_replay_05.png": "data/bgimage/hc/h62afafdc8b14_fx_replay_05.png",
+    "data/bgimage/hc/fx_replay_06.png": "data/bgimage/hc/hd0cdd6ce558e_fx_replay_06.png",
+    "data/bgimage/hc/fx_replay_07.png": "data/bgimage/hc/he470ead58734_fx_replay_07.png",
+    "data/bgimage/hc/fx_replay_08.png": "data/bgimage/hc/h467f4b6a3a85_fx_replay_08.png",
+    "data/bgimage/hc/fx_replay_09.png": "data/bgimage/hc/ha3f7f52c0d50_fx_replay_09.png",
+    "data/bgimage/hc/fx_replay_10.png": "data/bgimage/hc/h2bb74a340f7a_fx_replay_10.png",
+    "data/bgimage/hc_title.jpg": "data/bgimage/h7e6da5c7a032_hc_title.jpg",
+    "data/bgimage/s1/back_alley_evening.webp": "data/bgimage/s1/h52ac7ec6fe3d_back_alley_evening.webp",
+    "data/bgimage/s1/back_alley_night.jpg": "data/bgimage/s1/h423be8b12940_back_alley_night.jpg",
+    "data/bgimage/s1/black.png": "data/bgimage/s1/h7efdbbfeb59e_black.png",
+    "data/bgimage/s1/card_end.png": "data/bgimage/s1/hc2cb265b7fcf_card_end.png",
+    "data/bgimage/s1/classroom_day.webp": "data/bgimage/s1/heb0cd7bdd72f_classroom_day.webp",
+    "data/bgimage/s1/club_room_day.webp": "data/bgimage/s1/h8fe801daffaa_club_room_day.webp",
+    "data/bgimage/s1/homura_room_night.webp": "data/bgimage/s1/haf20515c2456_homura_room_night.webp",
+    "data/bgimage/s1/homura_room_night_off.webp": "data/bgimage/s1/h09a9c212bd76_homura_room_night_off.webp",
+    "data/bgimage/s1/kaname_entry_day.jpg": "data/bgimage/s1/he09ebca244c5_kaname_entry_day.jpg",
+    "data/bgimage/s1/kaname_entry_night.jpg": "data/bgimage/s1/hb8f472710de7_kaname_entry_night.jpg",
+    "data/bgimage/s1/kaname_kitchen_day.png": "data/bgimage/s1/hb99c02e1f516_kaname_kitchen_day.png",
+    "data/bgimage/s1/kaname_kitchen_night.png": "data/bgimage/s1/h56d9bb756250_kaname_kitchen_night.png",
+    "data/bgimage/s1/mami_living_night.webp": "data/bgimage/s1/hc39183a87218_mami_living_night.webp",
+    "data/bgimage/s1/miki_house_day.webp": "data/bgimage/s1/hb6eeddca9e6b_miki_house_day.webp",
+    "data/bgimage/s1/outskirts_passage_evening.webp": "data/bgimage/s1/hfaf3b5018782_outskirts_passage_evening.webp",
+    "data/bgimage/s1/school_route_day.webp": "data/bgimage/s1/h1144f25a4c7a_school_route_day.webp",
+    "data/bgm/s1/foreboding.mp3": "data/bgm/s1/he2775e16311f_foreboding.mp3",
+    "data/bgm/s1/last_embrace.mp3": "data/bgm/s1/h5e8d4afd281a_last_embrace.mp3",
+    "data/bgm/s1/mu1_crisis.mp3": "data/bgm/s1/h1bbdbe71d325_mu1_crisis.mp3",
+    "data/bgm/s1/mu1_ominous.mp3": "data/bgm/s1/h63f6f21a6b12_mu1_ominous.mp3",
+    "data/bgm/s1/obsession.mp3": "data/bgm/s1/h828afc2f15d7_obsession.mp3",
+    "data/bgm/s1/pale_warmth.mp3": "data/bgm/s1/h93e8c5099bcb_pale_warmth.mp3",
+    "data/bgm/s1/petite_walk.mp3": "data/bgm/s1/hea7617f7f9bc_petite_walk.mp3",
+    "data/fgimage/hc/alley_sky_snow_evening.webp": "data/fgimage/hc/h53e87c686e91_alley_sky_snow_evening.webp",
+    "data/fgimage/hc/black.png": "data/fgimage/hc/h88023d90926d_black.png",
+    "data/fgimage/hc/black_arrow.webp": "data/fgimage/hc/h38b9e59a9307_black_arrow.webp",
+    "data/fgimage/hc/black_soul_gem.webp": "data/fgimage/hc/h3477e4217427_black_soul_gem.webp",
+    "data/fgimage/hc/fx_phone_family.png": "data/fgimage/hc/hc78cb0898f5e_fx_phone_family.png",
+    "data/fgimage/hc/fx_phone_group.png": "data/fgimage/hc/h52d7e653694c_fx_phone_group.png",
+    "data/fgimage/hc/ga2/fill_dark.png": "data/fgimage/hc/ga2/h63144d2e0165_fill_dark.png",
+    "data/fgimage/hc/ga2/fill_dark_body.png": "data/fgimage/hc/ga2/hfb83174c8739_fill_dark_body.png",
+    "data/fgimage/hc/ga2/fill_dark_left.png": "data/fgimage/hc/ga2/hfe948c9fd944_fill_dark_left.png",
+    "data/fgimage/hc/ga2/fill_dark_right.png": "data/fgimage/hc/ga2/h8c8b9e951aeb_fill_dark_right.png",
+    "data/fgimage/hc/ga2/fill_light.png": "data/fgimage/hc/ga2/hed2c5d60bf6b_fill_light.png",
+    "data/fgimage/hc/ga2/fill_light_black.png": "data/fgimage/hc/ga2/h06c72da8f1a4_fill_light_black.png",
+    "data/fgimage/hc/ga2/fill_light_body.png": "data/fgimage/hc/ga2/h0b2df26aef4b_fill_light_body.png",
+    "data/fgimage/hc/ga2/fill_light_body_black.png": "data/fgimage/hc/ga2/h7b1b68471f9d_fill_light_body_black.png",
+    "data/fgimage/hc/ga2/fill_light_left.png": "data/fgimage/hc/ga2/h26d0c3b22570_fill_light_left.png",
+    "data/fgimage/hc/ga2/fill_light_left_black.png": "data/fgimage/hc/ga2/hf687ce2062da_fill_light_left_black.png",
+    "data/fgimage/hc/ga2/fill_light_right.png": "data/fgimage/hc/ga2/h472260a0bb99_fill_light_right.png",
+    "data/fgimage/hc/ga2/fill_light_right_black.png": "data/fgimage/hc/ga2/h982d3498b0df_fill_light_right_black.png",
+    "data/fgimage/hc/ga2/flash_once.png": "data/fgimage/hc/ga2/hd324f68de484_flash_once.png",
+    "data/fgimage/hc/ga2/glow_once.png": "data/fgimage/hc/ga2/h2ce90a12ed80_glow_once.png",
+    "data/fgimage/hc/ga2/head.png": "data/fgimage/hc/ga2/had775028194a_head.png",
+    "data/fgimage/hc/ga2/head_black.png": "data/fgimage/hc/ga2/h8c57b006df7e_head_black.png",
+    "data/fgimage/hc/ga2/pressure_once.png": "data/fgimage/hc/ga2/h29408d7aba9e_pressure_once.png",
+    "data/fgimage/hc/ga2/scar.png": "data/fgimage/hc/ga2/hd83ca10efe4b_scar.png",
+    "data/fgimage/hc/ga2/shatter_once.png": "data/fgimage/hc/ga2/h20238a28b71d_shatter_once.png",
+    "data/fgimage/hc/ga2/shell.png": "data/fgimage/hc/ga2/h464fc3d52bf1_shell.png",
+    "data/fgimage/hc/ga2/shell_black.png": "data/fgimage/hc/ga2/hd2e4a1460f3f_shell_black.png",
+    "data/fgimage/hc/ga2/veil.png": "data/fgimage/hc/ga2/hee9d09008adb_veil.png",
+    "data/fgimage/hc/ga2/web.png": "data/fgimage/hc/ga2/h6537163124e8_web.png",
+    "data/fgimage/hc/ga2/web_once.png": "data/fgimage/hc/ga2/hbc0a5e6f27f2_web_once.png",
+    "data/fgimage/hc/red_edge.png": "data/fgimage/hc/h9b75da35729b_red_edge.png",
+    "data/fgimage/hc/red_flash.png": "data/fgimage/hc/h3e3fec4dab0b_red_flash.png",
+    "data/fgimage/hc/s2e/e07_snow_1_visible.svg": "data/fgimage/hc/s2e/h841245810c8c_e07_snow_1_visible.svg",
+    "data/fgimage/hc/s2e/e07_snow_1_visible_static.svg": "data/fgimage/hc/s2e/h4ae1d138a13b_e07_snow_1_visible_static.svg",
+    "data/fgimage/hc/s2e/e07_snow_add_2.svg": "data/fgimage/hc/s2e/h7339874135d7_e07_snow_add_2.svg",
+    "data/fgimage/hc/s2e/e07_snow_add_2_static.svg": "data/fgimage/hc/s2e/h52dccf54d576_e07_snow_add_2_static.svg",
+    "data/fgimage/hc/s2e/e07_snow_add_3_heavy.svg": "data/fgimage/hc/s2e/h3ac2925b0be7_e07_snow_add_3_heavy.svg",
+    "data/fgimage/hc/s2e/e07_snow_add_3_heavy_static.svg": "data/fgimage/hc/s2e/h5345f2bfa90d_e07_snow_add_3_heavy_static.svg",
+    "data/fgimage/hc/s2e/e07_snow_heavy_full.svg": "data/fgimage/hc/s2e/hf2ddf8b79bb7_e07_snow_heavy_full.svg",
+    "data/fgimage/hc/s2e/e07_snow_heavy_full_static.svg": "data/fgimage/hc/s2e/hc1afe9af9457_e07_snow_heavy_full_static.svg",
+    "data/fgimage/hc/s2e/e11_lamp_pool.svg": "data/fgimage/hc/s2e/hc05f3aa42edb_e11_lamp_pool.svg",
+    "data/fgimage/hc/s2e/e11_lamp_pool_static.svg": "data/fgimage/hc/s2e/hc05f3aa42edb_e11_lamp_pool_static.svg",
+    "data/fgimage/hc/s2e/fx_dim_40.png": "data/fgimage/hc/s2e/hfdf0d75d61c1_fx_dim_40.png",
+    "data/fgimage/hc/s2e/fx_paper_blank.png": "data/fgimage/hc/s2e/h135a95aac850_fx_paper_blank.png",
+    "data/fgimage/hc/s2e/fx_paper_first.png": "data/fgimage/hc/s2e/h3c3e1d64c9c9_fx_paper_first.png",
+    "data/fgimage/hc/s2e/fx_paper_name.png": "data/fgimage/hc/s2e/h0058207f6e2b_fx_paper_name.png",
+    "data/fgimage/hc/s2e/fx_room_night.png": "data/fgimage/hc/s2e/hff043b170b4e_fx_room_night.png",
+    "data/fgimage/hc/wraith/wraith_none_body-asymmetric_none_01.webp": "data/fgimage/hc/wraith/h862ce9483228_wraith_none_body-asymmetric_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_body-hunched_none_01.webp": "data/fgimage/hc/wraith/he81b06552b51_wraith_none_body-hunched_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_body-low_none_01.webp": "data/fgimage/hc/wraith/h2925811fd738_wraith_none_body-low_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_body-reaching_none_01.webp": "data/fgimage/hc/wraith/h771bd91ada8b_wraith_none_body-reaching_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_body-twisted_none_01.webp": "data/fgimage/hc/wraith/h0c96b8262228_wraith_none_body-twisted_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_head-front-closed_none_01.webp": "data/fgimage/hc/wraith/hb919c54a0da5_wraith_none_head-front-closed_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_head-front-open_none_01.webp": "data/fgimage/hc/wraith/h23bf36602f30_wraith_none_head-front-open_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_head-threequarter-closed_none_01.webp": "data/fgimage/hc/wraith/h613146eb57c0_wraith_none_head-threequarter-closed_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_head-threequarter-open_none_01.webp": "data/fgimage/hc/wraith/h4dbad7d24270_wraith_none_head-threequarter-open_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_head-tilted_none_01.webp": "data/fgimage/hc/wraith/h731fa3016d44_wraith_none_head-tilted_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_smoke-cluster-a_none_01.webp": "data/fgimage/hc/wraith/he5ce1f807a6b_wraith_none_smoke-cluster-a_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_smoke-cluster-b_none_01.webp": "data/fgimage/hc/wraith/h7de5ef783dec_wraith_none_smoke-cluster-b_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_smoke-cluster-c_none_01.webp": "data/fgimage/hc/wraith/h9a5306cb6a63_wraith_none_smoke-cluster-c_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_smoke-sparse_none_01.webp": "data/fgimage/hc/wraith/h1b08763d0dd2_wraith_none_smoke-sparse_none_01.webp",
+    "data/fgimage/hc/wraith/wraith_none_smoke-spread_none_01.webp": "data/fgimage/hc/wraith/h6efd1dd0dc41_wraith_none_smoke-spread_none_01.webp",
+    "data/fgimage/s1/junko_home_arms-folded_serious_01.webp": "data/fgimage/s1/hf8c054e6e7de_junko_home_arms-folded_serious_01.webp",
+    "data/fgimage/s1/junko_home_hand-on-chin_smile_01.webp": "data/fgimage/s1/ha96e24e29517_junko_home_hand-on-chin_smile_01.webp",
+    "data/fgimage/s1/junko_home_hands-clasped_grin_01.webp": "data/fgimage/s1/hc1f1b4d44326_junko_home_hands-clasped_grin_01.webp",
+    "data/fgimage/s1/junko_pajamas_hand-on-head_yawning_01.webp": "data/fgimage/s1/h0dedcb09b1af_junko_pajamas_hand-on-head_yawning_01.webp",
+    "data/fgimage/s1/junko_pajamas_holding-cup_smile_01.webp": "data/fgimage/s1/h5b90373589b3_junko_pajamas_holding-cup_smile_01.webp",
+    "data/fgimage/s1/junko_pajamas_pointing_angry_01.webp": "data/fgimage/s1/hfc75c11b11d5_junko_pajamas_pointing_angry_01.webp",
+    "data/fgimage/s1/junko_suit_hands-clasped_grin_01.webp": "data/fgimage/s1/hcff166da65df_junko_suit_hands-clasped_grin_01.webp",
+    "data/fgimage/s1/junko_suit_hands-clasped_smile_01.webp": "data/fgimage/s1/hb811b8275458_junko_suit_hands-clasped_smile_01.webp",
+    "data/fgimage/s1/kazuko_teacher_arms-folded_serious_01.webp": "data/fgimage/s1/ha49dbaf8eb0b_kazuko_teacher_arms-folded_serious_01.webp",
+    "data/fgimage/s1/kazuko_teacher_fist-raised_angry_01.webp": "data/fgimage/s1/he47ec673c959_kazuko_teacher_fist-raised_angry_01.webp",
+    "data/fgimage/s1/kazuko_teacher_fist-raised_comic-rage_01.webp": "data/fgimage/s1/h5db1746dbea4_kazuko_teacher_fist-raised_comic-rage_01.webp",
+    "data/fgimage/s1/kazuko_teacher_hand-at-mouth_serious_01.webp": "data/fgimage/s1/h1c3a1c026363_kazuko_teacher_hand-at-mouth_serious_01.webp",
+    "data/fgimage/s1/kazuko_teacher_hand-on-cheek_gentle_01.webp": "data/fgimage/s1/hf9e79aa415ed_kazuko_teacher_hand-on-cheek_gentle_01.webp",
+    "data/fgimage/s1/kyoko_school-coat_hand-in-pocket_serious_01.webp": "data/fgimage/s1/he9e979fbe1dc_kyoko_school-coat_hand-in-pocket_serious_01.webp",
+    "data/fgimage/s1/kyoko_school-coat_hand-in-pocket_smile_01.webp": "data/fgimage/s1/h63721ec5db7e_kyoko_school-coat_hand-in-pocket_smile_01.webp",
+    "data/fgimage/s1/kyoko_school-coat_hand-in-pocket_worried_01.webp": "data/fgimage/s1/h965f75bf9fce_kyoko_school-coat_hand-in-pocket_worried_01.webp",
+    "data/fgimage/s1/kyoko_school-coat_hand-on-head_neutral_01.webp": "data/fgimage/s1/h10d4aa5b19f4_kyoko_school-coat_hand-on-head_neutral_01.webp",
+    "data/fgimage/s1/kyoko_school-coat_looking-down_surprised_01.webp": "data/fgimage/s1/h32c2dfeccae5_kyoko_school-coat_looking-down_surprised_01.webp",
+    "data/fgimage/s1/kyoko_school-coat_standing_grin_01.webp": "data/fgimage/s1/h0947534a436a_kyoko_school-coat_standing_grin_01.webp",
+    "data/fgimage/s1/kyoko_school-coat_standing_neutral_01.webp": "data/fgimage/s1/hd8d1504174c4_kyoko_school-coat_standing_neutral_01.webp",
+    "data/fgimage/s1/kyoko_school-coat_standing_surprised_01.webp": "data/fgimage/s1/hb22cf1684e7d_kyoko_school-coat_standing_surprised_01.webp",
+    "data/fgimage/s1/kyoko_school_arms-folded_angry_02.webp": "data/fgimage/s1/h3a074e573053_kyoko_school_arms-folded_angry_02.webp",
+    "data/fgimage/s1/kyoko_school_hand-at-mouth_grin_01.webp": "data/fgimage/s1/h6fd7071fb0b3_kyoko_school_hand-at-mouth_grin_01.webp",
+    "data/fgimage/s1/kyoko_school_hand-on-chest_angry_01.webp": "data/fgimage/s1/hd17d345d4c97_kyoko_school_hand-on-chest_angry_01.webp",
+    "data/fgimage/s1/kyoko_school_hand-on-chin_neutral_01.webp": "data/fgimage/s1/h4a6acd33de4b_kyoko_school_hand-on-chin_neutral_01.webp",
+    "data/fgimage/s1/kyoko_school_hand-on-chin_smile_01.webp": "data/fgimage/s1/haa6e46c4e33e_kyoko_school_hand-on-chin_smile_01.webp",
+    "data/fgimage/s1/kyoko_school_hand-on-head_angry_01.webp": "data/fgimage/s1/h18a9df9c4337_kyoko_school_hand-on-head_angry_01.webp",
+    "data/fgimage/s1/kyoko_school_hand-on-head_bored_01.webp": "data/fgimage/s1/h5ed5e0a30217_kyoko_school_hand-on-head_bored_01.webp",
+    "data/fgimage/s1/kyoko_school_pointing_neutral_01.webp": "data/fgimage/s1/h31e6fbe6a3b7_kyoko_school_pointing_neutral_01.webp",
+    "data/fgimage/s1/kyoko_school_standing_grin_01.webp": "data/fgimage/s1/h44d806d4f6e6_kyoko_school_standing_grin_01.webp",
+    "data/fgimage/s1/kyubey_none_sitting_neutral_01.webp": "data/fgimage/s1/h45cd85f47c27_kyubey_none_sitting_neutral_01.webp",
+    "data/fgimage/s1/kyubey_none_sitting_neutral_02.webp": "data/fgimage/s1/h5bfbffa66eb7_kyubey_none_sitting_neutral_02.webp",
+    "data/fgimage/s1/kyubey_none_tail-curled_neutral_01.webp": "data/fgimage/s1/h1d6317c4d77e_kyubey_none_tail-curled_neutral_01.webp",
+    "data/fgimage/s1/kyubey_none_walking_neutral_01.webp": "data/fgimage/s1/heb2376b3776c_kyubey_none_walking_neutral_01.webp",
+    "data/fgimage/s1/kyubey_none_walking_neutral_02.webp": "data/fgimage/s1/hc8308b490e2a_kyubey_none_walking_neutral_02.webp",
+    "data/fgimage/s1/mami_home_arms-raised_surprised_01.webp": "data/fgimage/s1/h743ffb8fffcd_mami_home_arms-raised_surprised_01.webp",
+    "data/fgimage/s1/mami_home_sitting_gentle_01.webp": "data/fgimage/s1/hbefdaf486801_mami_home_sitting_gentle_01.webp",
+    "data/fgimage/s1/mami_home_standing_embarrassed_01.webp": "data/fgimage/s1/hb683e8e2c197_mami_home_standing_embarrassed_01.webp",
+    "data/fgimage/s1/mami_home_standing_gentle_01.webp": "data/fgimage/s1/h96495e2bd787_mami_home_standing_gentle_01.webp",
+    "data/fgimage/s1/mami_home_standing_serious_01.webp": "data/fgimage/s1/h5df0ba390711_mami_home_standing_serious_01.webp",
+    "data/fgimage/s1/mami_home_standing_serious_02.webp": "data/fgimage/s1/hfd1d95c75c72_mami_home_standing_serious_02.webp",
+    "data/fgimage/s1/mami_home_standing_smile_01.webp": "data/fgimage/s1/h96495e2bd787_mami_home_standing_smile_01.webp",
+    "data/fgimage/s1/mami_home_standing_surprised_01.webp": "data/fgimage/s1/h849fb541d80d_mami_home_standing_surprised_01.webp",
+    "data/fgimage/s1/mami_home_standing_worried_01.webp": "data/fgimage/s1/hfe06527f0364_mami_home_standing_worried_01.webp",
+    "data/fgimage/s1/mami_magical_reaching_determined_01.webp": "data/fgimage/s1/h2101c99010be_mami_magical_reaching_determined_01.webp",
+    "data/fgimage/s1/mami_school_hand-on-chin_embarrassed_01.webp": "data/fgimage/s1/h4531ffe3f1f5_mami_school_hand-on-chin_embarrassed_01.webp",
+    "data/fgimage/s1/mami_school_hands-at-face_embarrassed_01.webp": "data/fgimage/s1/hecfc00f64893_mami_school_hands-at-face_embarrassed_01.webp",
+    "data/fgimage/s1/mami_school_palms-open_smile_01.webp": "data/fgimage/s1/hbbd5cc538eea_mami_school_palms-open_smile_01.webp",
+    "data/fgimage/s1/mami_school_palms-open_smile_02.webp": "data/fgimage/s1/habf5f1896582_mami_school_palms-open_smile_02.webp",
+    "data/fgimage/s1/mami_school_standing_gentle_01.webp": "data/fgimage/s1/h2baf3e3ff4fd_mami_school_standing_gentle_01.webp",
+    "data/fgimage/s1/mami_school_standing_sad_01.webp": "data/fgimage/s1/hf5031687c7c3_mami_school_standing_sad_01.webp",
+    "data/fgimage/s1/mami_school_standing_serious_01.webp": "data/fgimage/s1/h09146681925c_mami_school_standing_serious_01.webp",
+    "data/fgimage/s1/nagisa_pink-dress_arms-raised_grin_01.webp": "data/fgimage/s1/h9eabd5c25b6c_nagisa_pink-dress_arms-raised_grin_01.webp",
+    "data/fgimage/s1/nagisa_pink-dress_eating_neutral_01.webp": "data/fgimage/s1/h4c675a306b12_nagisa_pink-dress_eating_neutral_01.webp",
+    "data/fgimage/s1/nagisa_pink-dress_fists-clenched_proud_01.webp": "data/fgimage/s1/h97aba1230870_nagisa_pink-dress_fists-clenched_proud_01.webp",
+    "data/fgimage/s1/nagisa_pink-dress_fists-clenched_proud_02.webp": "data/fgimage/s1/hb824a1ad0c06_nagisa_pink-dress_fists-clenched_proud_02.webp",
+    "data/fgimage/s1/nagisa_pink-dress_hand-raised_sad_01.webp": "data/fgimage/s1/hc41fc8a22af6_nagisa_pink-dress_hand-raised_sad_01.webp",
+    "data/fgimage/s1/nagisa_pink-dress_hands-on-hips_proud_01.webp": "data/fgimage/s1/hf194731a9fec_nagisa_pink-dress_hands-on-hips_proud_01.webp",
+    "data/fgimage/s1/nagisa_pink-dress_hands-on-hips_serious_01.webp": "data/fgimage/s1/h6c5fd5c78dfc_nagisa_pink-dress_hands-on-hips_serious_01.webp",
+    "data/fgimage/s1/nagisa_pink-dress_standing_sad_01.webp": "data/fgimage/s1/h8dc9de833a42_nagisa_pink-dress_standing_sad_01.webp",
+    "data/fgimage/s1/sayaka_magical_hand-on-chest_determined_01.webp": "data/fgimage/s1/h9a7707a23386_sayaka_magical_hand-on-chest_determined_01.webp",
+    "data/fgimage/s1/sayaka_magical_hand-on-chest_shocked_01.webp": "data/fgimage/s1/h6edd8cef1abd_sayaka_magical_hand-on-chest_shocked_01.webp",
+    "data/fgimage/s1/sayaka_magical_hand-on-chest_shocked_02.webp": "data/fgimage/s1/h4da861357b94_sayaka_magical_hand-on-chest_shocked_02.webp",
+    "data/fgimage/s1/sayaka_magical_healing_crying_01.webp": "data/fgimage/s1/h9b61d76686f6_sayaka_magical_healing_crying_01.webp",
+    "data/fgimage/s1/sayaka_magical_healing_determined_01.webp": "data/fgimage/s1/hcbca30c38417_sayaka_magical_healing_determined_01.webp",
+    "data/fgimage/s1/sayaka_magical_healing_determined_02.webp": "data/fgimage/s1/ha50c744f743b_sayaka_magical_healing_determined_02.webp",
+    "data/fgimage/s1/sayaka_magical_healing_smile_01.webp": "data/fgimage/s1/hc56a16bd2117_sayaka_magical_healing_smile_01.webp",
+    "data/fgimage/s1/sayaka_magical_kneeling_worried_01.webp": "data/fgimage/s1/h40364e05e022_sayaka_magical_kneeling_worried_01.webp",
+    "data/fgimage/s1/sayaka_magical_reaching_serious_01.webp": "data/fgimage/s1/hcf8f97a38cbf_sayaka_magical_reaching_serious_01.webp",
+    "data/fgimage/s1/sayaka_magical_reaching_worried_01.webp": "data/fgimage/s1/h9ad44be57069_sayaka_magical_reaching_worried_01.webp",
+    "data/fgimage/s1/sayaka_magical_standing_gentle_01.webp": "data/fgimage/s1/hf733b9da6134_sayaka_magical_standing_gentle_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_hand-in-pocket_neutral_01.webp": "data/fgimage/s1/h1637db56679e_sayaka_school-coat_hand-in-pocket_neutral_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_hand-on-chest_worried_01.webp": "data/fgimage/s1/hddb8acd861fd_sayaka_school-coat_hand-on-chest_worried_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_hand-on-chest_worried_02.webp": "data/fgimage/s1/h87067ce79748_sayaka_school-coat_hand-on-chest_worried_02.webp",
+    "data/fgimage/s1/sayaka_school-coat_hand-raised_surprised_01.webp": "data/fgimage/s1/he6f5af10bf9b_sayaka_school-coat_hand-raised_surprised_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_holding-coat_angry_01.webp": "data/fgimage/s1/h8d5fa452fb4a_sayaka_school-coat_holding-coat_angry_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_holding-coat_angry_02.webp": "data/fgimage/s1/h8702cb91a8ff_sayaka_school-coat_holding-coat_angry_02.webp",
+    "data/fgimage/s1/sayaka_school-coat_palms-open_grin_01.webp": "data/fgimage/s1/hcb5069879c11_sayaka_school-coat_palms-open_grin_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_reaching_serious_01.webp": "data/fgimage/s1/hef9bed543894_sayaka_school-coat_reaching_serious_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_reaching_worried_01.webp": "data/fgimage/s1/h3ce80e8fc61c_sayaka_school-coat_reaching_worried_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_running_surprised_01.webp": "data/fgimage/s1/he52dc5148c04_sayaka_school-coat_running_surprised_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_standing_grin_01.webp": "data/fgimage/s1/hbb08b1003c12_sayaka_school-coat_standing_grin_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_standing_sad_01.webp": "data/fgimage/s1/ha98442e2dfbb_sayaka_school-coat_standing_sad_01.webp",
+    "data/fgimage/s1/sayaka_school-coat_standing_smile_01.webp": "data/fgimage/s1/hf0736f9c68c6_sayaka_school-coat_standing_smile_01.webp",
+    "data/fgimage/s1/sayaka_school_arms-folded_angry_01.webp": "data/fgimage/s1/h8c2425ca913f_sayaka_school_arms-folded_angry_01.webp",
+    "data/fgimage/s1/sayaka_school_fists-clenched_grin_01.webp": "data/fgimage/s1/h3e49ff24ebbc_sayaka_school_fists-clenched_grin_01.webp",
+    "data/fgimage/s1/sayaka_school_fists-clenched_grin_02.webp": "data/fgimage/s1/hd9144e17cd15_sayaka_school_fists-clenched_grin_02.webp",
+    "data/fgimage/s1/sayaka_school_hand-at-mouth_embarrassed_01.webp": "data/fgimage/s1/hda79808f62c8_sayaka_school_hand-at-mouth_embarrassed_01.webp",
+    "data/fgimage/s1/sayaka_school_hand-on-chest_worried_01.webp": "data/fgimage/s1/h709e533b86de_sayaka_school_hand-on-chest_worried_01.webp",
+    "data/fgimage/s1/sayaka_school_hand-raised_grin_01.webp": "data/fgimage/s1/h5a442ae6ef22_sayaka_school_hand-raised_grin_01.webp",
+    "data/fgimage/s1/sayaka_school_holding-arm_neutral_02.webp": "data/fgimage/s1/h957470707a63_sayaka_school_holding-arm_neutral_02.webp",
+    "data/fgimage/s1/sayaka_school_holding-arm_serious_01.webp": "data/fgimage/s1/h34f45987aa42_sayaka_school_holding-arm_serious_01.webp",
+    "data/fgimage/s1/sayaka_school_holding-arm_serious_02.webp": "data/fgimage/s1/h3fc922e606e9_sayaka_school_holding-arm_serious_02.webp",
+    "data/fgimage/s1/sayaka_school_holding-belly_grin_01.webp": "data/fgimage/s1/h78048be3f140_sayaka_school_holding-belly_grin_01.webp",
+    "data/fgimage/s1/sayaka_school_holding-wrist_sad_01.webp": "data/fgimage/s1/h97ab784b0100_sayaka_school_holding-wrist_sad_01.webp",
+    "data/fgimage/s1/sayaka_school_palms-open_neutral_01.webp": "data/fgimage/s1/h2cc00fb6b3ea_sayaka_school_palms-open_neutral_01.webp",
+    "data/fgimage/s1/sayaka_school_palms-open_shocked_01.webp": "data/fgimage/s1/h36095de36405_sayaka_school_palms-open_shocked_01.webp",
+    "data/fgimage/s1/sayaka_school_palms-open_shocked_02.webp": "data/fgimage/s1/h59745b7cf91e_sayaka_school_palms-open_shocked_02.webp",
+    "data/fgimage/s1/sayaka_school_palms-open_smile_01.webp": "data/fgimage/s1/h30d27468af1a_sayaka_school_palms-open_smile_01.webp",
+    "data/fgimage/s1/sayaka_school_palms-open_surprised_01.webp": "data/fgimage/s1/h1fe19e13e5c0_sayaka_school_palms-open_surprised_01.webp",
+    "data/fgimage/s1/sayaka_school_pointing_proud_01.webp": "data/fgimage/s1/h8c63b9bc99b0_sayaka_school_pointing_proud_01.webp",
+    "data/fgimage/s1/sayaka_school_reaching_angry_01.webp": "data/fgimage/s1/h66579a46b01b_sayaka_school_reaching_angry_01.webp",
+    "data/fgimage/s1/sayaka_school_standing_angry_01.webp": "data/fgimage/s1/hee281ef8382e_sayaka_school_standing_angry_01.webp",
+    "data/fgimage/s1/sayaka_school_standing_sad_01.webp": "data/fgimage/s1/h756de7a211f7_sayaka_school_standing_sad_01.webp",
+    "data/fgimage/s1/sayaka_school_standing_surprised_01.webp": "data/fgimage/s1/h5bdfa75a7f76_sayaka_school_standing_surprised_01.webp",
+    "data/fgimage/s1/sayaka_winter_hands-clasped_gentle_01.webp": "data/fgimage/s1/h9c40dcb97fff_sayaka_winter_hands-clasped_gentle_01.webp",
+    "data/fgimage/s1/tatsuya_home_arms-raised_grin_01.webp": "data/fgimage/s1/h467b71feeb1d_tatsuya_home_arms-raised_grin_01.webp",
+    "data/fgimage/s1/tatsuya_pajamas_rubbing-eyes_tired_01.webp": "data/fgimage/s1/h09e0ab2254ad_tatsuya_pajamas_rubbing-eyes_tired_01.webp",
+    "data/fgimage/s1/tomohisa_apron_hand-on-chin_worried_01.webp": "data/fgimage/s1/h13a5b5578436_tomohisa_apron_hand-on-chin_worried_01.webp",
+    "data/fgimage/s1/tomohisa_apron_hand-on-head_grin_01.webp": "data/fgimage/s1/hc4e34cee3bca_tomohisa_apron_hand-on-head_grin_01.webp",
+    "data/fgimage/s1/tomohisa_apron_hand-raised_gentle_01.webp": "data/fgimage/s1/haacdcde873b7_tomohisa_apron_hand-raised_gentle_01.webp",
+    "data/image/config/hc_back.png": "data/image/config/h67ca772b5ded_hc_back.png",
+    "data/image/config/hc_back2.png": "data/image/config/h4e064c337408_hc_back2.png",
+    "data/image/config/hc_bg_config.png": "data/image/config/h26acac41d286_hc_bg_config.png",
+    "data/image/config/hc_bg_config2.png": "data/image/config/h8dc768654ea1_hc_bg_config2.png",
+    "data/image/config/hc_bg_gallery.png": "data/image/config/h01ff742a711e_hc_bg_gallery.png",
+    "data/image/config/hc_bg_replay.png": "data/image/config/hf7f941179f74_hc_bg_replay.png",
+    "data/image/config/hc_close_s.png": "data/image/config/h18059b844820_hc_close_s.png",
+    "data/image/config/hc_close_s2.png": "data/image/config/he3feeb2ea1c2_hc_close_s2.png",
+    "data/image/config/hc_dot.png": "data/image/config/h7eef860aa172_hc_dot.png",
+    "data/image/config/hc_dot_on.png": "data/image/config/h900af1954c9b_hc_dot_on.png",
+    "data/image/config/hc_locked.png": "data/image/config/h63d9bbdcccdc_hc_locked.png",
+    "data/image/config/hc_off_idle.png": "data/image/config/hb25d90201d51_hc_off_idle.png",
+    "data/image/config/hc_off_sel.png": "data/image/config/h384c32736429_hc_off_sel.png",
+    "data/image/config/hc_on_idle.png": "data/image/config/ha974201d2bbf_hc_on_idle.png",
+    "data/image/config/hc_on_sel.png": "data/image/config/h8f0f4b17efd9_hc_on_sel.png",
+    "data/image/hc/auto-on.svg": "data/image/hc/h8fae5ff54fc9_auto-on.svg",
+    "data/image/hc/auto.svg": "data/image/hc/h90a673c183ab_auto.svg",
+    "data/image/hc/card_0120_day.png": "data/image/hc/h7b59f4eb013c_card_0120_day.png",
+    "data/image/hc/card_0120_night.png": "data/image/hc/hbd1d34f7204d_card_0120_night.png",
+    "data/image/hc/card_logo.png": "data/image/hc/h1994546e0e8a_card_logo.png",
+    "data/image/hc/log.svg": "data/image/hc/h747cd3a1afa9_log.svg",
+    "data/image/hc/menu.svg": "data/image/hc/h51e2c8275a69_menu.svg",
+    "data/image/hc/s52_auto-on.svg": "data/image/hc/hb0a6dae71c1c_s52_auto-on.svg",
+    "data/image/hc/s52_auto.svg": "data/image/hc/h3f4011f5a9b4_s52_auto.svg",
+    "data/image/hc/s52_log.svg": "data/image/hc/hb359f2b8a6d8_s52_log.svg",
+    "data/image/hc/s52_menu.svg": "data/image/hc/ha1e62f0505be_s52_menu.svg",
+    "data/image/hc/s52_skip-on.svg": "data/image/hc/h42495c074493_s52_skip-on.svg",
+    "data/image/hc/s52_skip.svg": "data/image/hc/h7036f9319f70_s52_skip.svg",
+    "data/image/hc/skip-on.svg": "data/image/hc/h4c0f8772c275_skip-on.svg",
+    "data/image/hc/skip.svg": "data/image/hc/h5a6e75237476_skip.svg",
+    "data/image/title/hc_button_config.png": "data/image/title/h2a1877141231_hc_button_config.png",
+    "data/image/title/hc_button_config2.png": "data/image/title/he6528b7636da_hc_button_config2.png",
+    "data/image/title/hc_button_credits.png": "data/image/title/h334f5f6cc36c_hc_button_credits.png",
+    "data/image/title/hc_button_credits2.png": "data/image/title/h4262875bc427_hc_button_credits2.png",
+    "data/image/title/hc_button_gallery.png": "data/image/title/hca7d0c18f988_hc_button_gallery.png",
+    "data/image/title/hc_button_gallery2.png": "data/image/title/hbfbfa05dfb1e_hc_button_gallery2.png",
+    "data/image/title/hc_button_load.png": "data/image/title/h5802610b9e28_hc_button_load.png",
+    "data/image/title/hc_button_load2.png": "data/image/title/hb85d1a6eca6a_hc_button_load2.png",
+    "data/image/title/hc_button_replay.png": "data/image/title/h65b6c6e38e9b_hc_button_replay.png",
+    "data/image/title/hc_button_replay2.png": "data/image/title/hb3e14403944e_hc_button_replay2.png",
+    "data/image/title/hc_button_start.png": "data/image/title/h68545be0090d_hc_button_start.png",
+    "data/image/title/hc_button_start2.png": "data/image/title/h4439abc9cdc2_hc_button_start2.png",
+    "data/others/fonts/GowunBatang-Bold.ttf": "data/others/fonts/hdbfcaa646e58_GowunBatang-Bold.ttf",
+    "data/others/fonts/GowunBatang-Regular.ttf": "data/others/fonts/h466c593e7147_GowunBatang-Regular.ttf",
+    "data/others/fonts/GowunDodum-Regular.ttf": "data/others/fonts/ha6e457933227_GowunDodum-Regular.ttf",
+    "data/sound/hc/ga2_glass_crack.mp3": "data/sound/hc/ha9838a815d71_ga2_glass_crack.mp3",
+    "data/sound/hc/ga2_glass_tick.mp3": "data/sound/hc/h8c628e225619_ga2_glass_tick.mp3",
+    "data/sound/hc/ga2_glass_tick2.mp3": "data/sound/hc/h811b535ddb4b_ga2_glass_tick2.mp3",
+    "data/sound/hc/ga2_inhale.mp3": "data/sound/hc/h70f627191966_ga2_inhale.mp3",
+    "data/sound/hc/ga2_rise.mp3": "data/sound/hc/haba9b661511c_ga2_rise.mp3",
+    "data/sound/s1/cough.mp3": "data/sound/s1/h4f38d53260fa_cough.mp3",
+    "data/sound/s1/explosion.mp3": "data/sound/s1/hb3177d9d9e2f_explosion.mp3",
+    "data/sound/s1/footsteps_running_group.mp3": "data/sound/s1/h81840c54e166_footsteps_running_group.mp3",
+    "data/sound/s1/impact.mp3": "data/sound/s1/h394abd589598_impact.mp3",
+    "data/sound/s1/phone_vibrate.mp3": "data/sound/s1/h88921dc6d950_phone_vibrate.mp3",
+    "data/sound/s1/pm1_burst_short.mp3": "data/sound/s1/h3fbbc64862ab_pm1_burst_short.mp3",
+    "data/sound/s1/pm1_footsteps_half.mp3": "data/sound/s1/hc67a8008de08_pm1_footsteps_half.mp3",
+    "data/sound/s1/s2d_ambient_classroom.mp3": "data/sound/s1/h27fa4455d2d7_s2d_ambient_classroom.mp3",
+    "data/sound/s1/s2d_ambient_evening_street.mp3": "data/sound/s1/h75e86bb0e745_s2d_ambient_evening_street.mp3",
+    "data/sound/s1/s2d_ambient_night_room.mp3": "data/sound/s1/hc2aa56423655_s2d_ambient_night_room.mp3",
+    "data/sound/s1/s2d_high_five.mp3": "data/sound/s1/hf5d140aaa981_s2d_high_five.mp3",
+    "data/sound/s1/s2d_inhale.mp3": "data/sound/s1/h28cf22c0cac6_s2d_inhale.mp3",
+    "data/sound/s1/school_bell.mp3": "data/sound/s1/h876521c98701_school_bell.mp3",
+    "data/sound/s1/soul_gem_absorb.mp3": "data/sound/s1/h1b8b15f90af8_soul_gem_absorb.mp3",
+    "data/sound/s1/stairs_down.mp3": "data/sound/s1/h3157951e2c0f_stairs_down.mp3",
+    "data/sound/s1/water_boil.mp3": "data/sound/s1/h3ce01af1efcc_water_boil.mp3",
+    "data/others/day1-fonts.css": "data/others/h33f8bb3d4879_day1-fonts.css",
+    "data/others/hc-ui.css": "data/others/h9b379428a29b_hc-ui.css",
+    "data/others/hc-ui.js": "data/others/hbb11ffc2f655_hc-ui.js",
+    "data/others/kyubey-portrait.css": "data/others/h5642164efd43_kyubey-portrait.css",
+    "data/others/s2e-motion.js": "data/others/hda874f22bafb_s2e-motion.js",
+    "data/others/s2e-wraith.js": "data/others/hc2cacfdb47ca_s2e-wraith.js"
+  },
+  "files": [
+    {
+      "logicalPath": "data/bgimage/hc_title.jpg",
+      "outputPath": "data/bgimage/h7e6da5c7a032_hc_title.jpg",
+      "bytes": 350286,
+      "sha256": "7e6da5c7a032b5e83edf33dfc3f4e65db93fd24dbf61e6560bca3c2763e0e0e4",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_01.png",
+      "outputPath": "data/bgimage/hc/h037587b06a41_fx_replay_01.png",
+      "bytes": 44168,
+      "sha256": "037587b06a4162764c1135ca08d9e28c8cd4fd7636cbd88381028987b9bce254",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_10.png",
+      "outputPath": "data/bgimage/hc/h2bb74a340f7a_fx_replay_10.png",
+      "bytes": 46888,
+      "sha256": "2bb74a340f7a8cb9ff692f784db46a0324dedc09afdc59299cd403544d19d847",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_04.png",
+      "outputPath": "data/bgimage/hc/h3df35290d261_fx_replay_04.png",
+      "bytes": 60239,
+      "sha256": "3df35290d2613ce139c872798b9a68b34e528da3f2cefbc3ad0727146cd8ac02",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_08.png",
+      "outputPath": "data/bgimage/hc/h467f4b6a3a85_fx_replay_08.png",
+      "bytes": 50936,
+      "sha256": "467f4b6a3a85e2639953cbf2fbccdc21373811444461e23c0679242916e31cab",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_05.png",
+      "outputPath": "data/bgimage/hc/h62afafdc8b14_fx_replay_05.png",
+      "bytes": 50246,
+      "sha256": "62afafdc8b14c9b4b5cda29d7320e49f77534ef99d994c88aa875be943647603",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_00.png",
+      "outputPath": "data/bgimage/hc/h75f0b683ad1d_fx_replay_00.png",
+      "bytes": 1705,
+      "sha256": "75f0b683ad1d9cae69381bb57b5c58abe3b79609d28dba88754d8ac2f9403903",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_09.png",
+      "outputPath": "data/bgimage/hc/ha3f7f52c0d50_fx_replay_09.png",
+      "bytes": 45129,
+      "sha256": "a3f7f52c0d5004ee93f0dbdbadad44d9dca7e6c269d0c54f68136c113e6b90ff",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_06.png",
+      "outputPath": "data/bgimage/hc/hd0cdd6ce558e_fx_replay_06.png",
+      "bytes": 55036,
+      "sha256": "d0cdd6ce558e775e3b00937498878ceb2a8e31c0751f6b892dde1c63dcdabb24",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_03.png",
+      "outputPath": "data/bgimage/hc/hd6593282cf2c_fx_replay_03.png",
+      "bytes": 59391,
+      "sha256": "d6593282cf2cb99996f8d487d5fdb9679cb8d2edddde53851f362276e281a8cb",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_07.png",
+      "outputPath": "data/bgimage/hc/he470ead58734_fx_replay_07.png",
+      "bytes": 56723,
+      "sha256": "e470ead5873455765d34de9f02352101eaa5d1661f29f40e802909d9c96b58b0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/hc/fx_replay_02.png",
+      "outputPath": "data/bgimage/hc/hee4e753d539e_fx_replay_02.png",
+      "bytes": 37794,
+      "sha256": "ee4e753d539ea4c0ecf90976eb78db0d55fd8fd262a19aaa3c06a90fb9d026e0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/homura_room_night_off.webp",
+      "outputPath": "data/bgimage/s1/h09a9c212bd76_homura_room_night_off.webp",
+      "bytes": 630190,
+      "sha256": "09a9c212bd76addeffe9232711214a24638f3d308ebde79f8cb704c10b5bbd03",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/school_route_day.webp",
+      "outputPath": "data/bgimage/s1/h1144f25a4c7a_school_route_day.webp",
+      "bytes": 934186,
+      "sha256": "1144f25a4c7a1f05c17c08202a708e9d817be32ff24e120bdf5ff014d4506f44",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/back_alley_night.jpg",
+      "outputPath": "data/bgimage/s1/h423be8b12940_back_alley_night.jpg",
+      "bytes": 2491837,
+      "sha256": "423be8b1294090e108c0606f5871f599772e8aab507f6b0a0120d793b24c814a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/back_alley_evening.webp",
+      "outputPath": "data/bgimage/s1/h52ac7ec6fe3d_back_alley_evening.webp",
+      "bytes": 867276,
+      "sha256": "52ac7ec6fe3d53fb39b02d3fa18e321e9baba2e86138b1f7e9631e6ef4faf673",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/kaname_kitchen_night.png",
+      "outputPath": "data/bgimage/s1/h56d9bb756250_kaname_kitchen_night.png",
+      "bytes": 1405732,
+      "sha256": "56d9bb756250626a34ab90ea17491adfabfa5c6d5133b5b5fe4a2280293458b6",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/black.png",
+      "outputPath": "data/bgimage/s1/h7efdbbfeb59e_black.png",
+      "bytes": 2759,
+      "sha256": "7efdbbfeb59ec43fc9584c5027bfb5a906d7980f68ffa20f617083617c6cf574",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/club_room_day.webp",
+      "outputPath": "data/bgimage/s1/h8fe801daffaa_club_room_day.webp",
+      "bytes": 676522,
+      "sha256": "8fe801daffaad1b2f3bf16185d00675d521f712b4661ec592c8354c2fde40bb6",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/homura_room_night.webp",
+      "outputPath": "data/bgimage/s1/haf20515c2456_homura_room_night.webp",
+      "bytes": 481952,
+      "sha256": "af20515c245678562d2601b8e10dee183e54cb3ec10eb459c42e70eed50b0961",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/miki_house_day.webp",
+      "outputPath": "data/bgimage/s1/hb6eeddca9e6b_miki_house_day.webp",
+      "bytes": 1011268,
+      "sha256": "b6eeddca9e6b0012db6eed5ea11893c76a80c490fbfce886f5d303ccc81f6aae",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/kaname_entry_night.jpg",
+      "outputPath": "data/bgimage/s1/hb8f472710de7_kaname_entry_night.jpg",
+      "bytes": 800582,
+      "sha256": "b8f472710de7c998afc62260e645cb06cb02e83967c80376820ce74c33f3e031",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/kaname_kitchen_day.png",
+      "outputPath": "data/bgimage/s1/hb99c02e1f516_kaname_kitchen_day.png",
+      "bytes": 1334724,
+      "sha256": "b99c02e1f5165cb01fd95e4a0bbdea0d803f722cfe289c52920030520b05522f",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/card_end.png",
+      "outputPath": "data/bgimage/s1/hc2cb265b7fcf_card_end.png",
+      "bytes": 745353,
+      "sha256": "c2cb265b7fcf50185337773d96a154a919093294865f41eb0d1d8ede7bbcb01d",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/mami_living_night.webp",
+      "outputPath": "data/bgimage/s1/hc39183a87218_mami_living_night.webp",
+      "bytes": 612250,
+      "sha256": "c39183a872180c1d6dc726b7b2abf577ac2f55fbb30bef0c2e4779ffdc54e624",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/kaname_entry_day.jpg",
+      "outputPath": "data/bgimage/s1/he09ebca244c5_kaname_entry_day.jpg",
+      "bytes": 775162,
+      "sha256": "e09ebca244c523ea69ca6f0ced2b163f99be4585f69b33537ba7656e48065b28",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/classroom_day.webp",
+      "outputPath": "data/bgimage/s1/heb0cd7bdd72f_classroom_day.webp",
+      "bytes": 553568,
+      "sha256": "eb0cd7bdd72fde3ef134e9e6f385fad5ad5c11cf7480a9a6e724dceeb777575c",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgimage/s1/outskirts_passage_evening.webp",
+      "outputPath": "data/bgimage/s1/hfaf3b5018782_outskirts_passage_evening.webp",
+      "bytes": 515410,
+      "sha256": "faf3b5018782e21bce6beceef44b7624faeac8829c0390019211bea4cdfe8c1a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgm/s1/mu1_crisis.mp3",
+      "outputPath": "data/bgm/s1/h1bbdbe71d325_mu1_crisis.mp3",
+      "bytes": 2619362,
+      "sha256": "1bbdbe71d3251fa6fadcdd823071cab7570c03ee9bd2b72152b6de6749cc982e",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgm/s1/last_embrace.mp3",
+      "outputPath": "data/bgm/s1/h5e8d4afd281a_last_embrace.mp3",
+      "bytes": 3787235,
+      "sha256": "5e8d4afd281ae0f45a13c5ca2419f9ed6d2ca6be3edc5bfe58a7727ed5f2f354",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgm/s1/mu1_ominous.mp3",
+      "outputPath": "data/bgm/s1/h63f6f21a6b12_mu1_ominous.mp3",
+      "bytes": 3637628,
+      "sha256": "63f6f21a6b12dd838cf59adca2b5e67dc764dc89a7d56c555a02878f12110f9b",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgm/s1/obsession.mp3",
+      "outputPath": "data/bgm/s1/h828afc2f15d7_obsession.mp3",
+      "bytes": 5321040,
+      "sha256": "828afc2f15d7ab9b14516e7b07c808dfc580416bb12a970006f90b62400a659d",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgm/s1/pale_warmth.mp3",
+      "outputPath": "data/bgm/s1/h93e8c5099bcb_pale_warmth.mp3",
+      "bytes": 3943644,
+      "sha256": "93e8c5099bcb500a3b1ee2479f0cee529582c3da0bbc572c2e39efc77cfd9e2d",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgm/s1/foreboding.mp3",
+      "outputPath": "data/bgm/s1/he2775e16311f_foreboding.mp3",
+      "bytes": 7871175,
+      "sha256": "e2775e16311f08366659236f00cb607472319a01dc1f8a8f79fd1e6b2dc12201",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/bgm/s1/petite_walk.mp3",
+      "outputPath": "data/bgm/s1/hea7617f7f9bc_petite_walk.mp3",
+      "bytes": 6579323,
+      "sha256": "ea7617f7f9bc3f793fd9d230c8ccaa5ab8741ab5b0116e153ac1f7decc535ce4",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_light_black.png",
+      "outputPath": "data/fgimage/hc/ga2/h06c72da8f1a4_fill_light_black.png",
+      "bytes": 2963,
+      "sha256": "06c72da8f1a4e69d3fffd5ee03c41138f04ac0ca1203879e86d0ee2220b59687",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_light_body.png",
+      "outputPath": "data/fgimage/hc/ga2/h0b2df26aef4b_fill_light_body.png",
+      "bytes": 444,
+      "sha256": "0b2df26aef4b0e039b3fde3709daf53bd176f46f8d995bb533dec5395938090c",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/shatter_once.png",
+      "outputPath": "data/fgimage/hc/ga2/h20238a28b71d_shatter_once.png",
+      "bytes": 16587927,
+      "sha256": "20238a28b71d564e8a3d19acf6543a47ab793a39a9adfda2f8a127685b7245e2",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_light_left.png",
+      "outputPath": "data/fgimage/hc/ga2/h26d0c3b22570_fill_light_left.png",
+      "bytes": 1404,
+      "sha256": "26d0c3b2257046384fb6097ba384340ca35360c955dc9422865420269b0e1b0e",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/pressure_once.png",
+      "outputPath": "data/fgimage/hc/ga2/h29408d7aba9e_pressure_once.png",
+      "bytes": 12854,
+      "sha256": "29408d7aba9ecfaf33c6851cc56ec3503711f963b7a266c6fdd7a1d56146f479",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/glow_once.png",
+      "outputPath": "data/fgimage/hc/ga2/h2ce90a12ed80_glow_once.png",
+      "bytes": 58730,
+      "sha256": "2ce90a12ed80315fe4c2055f52943a9020a19def9535170ed5140a11088d23ef",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/shell.png",
+      "outputPath": "data/fgimage/hc/ga2/h464fc3d52bf1_shell.png",
+      "bytes": 22426,
+      "sha256": "464fc3d52bf10f9057213af7ce6b85119d104d0112d4953fe8262c556a0450f9",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_light_right.png",
+      "outputPath": "data/fgimage/hc/ga2/h472260a0bb99_fill_light_right.png",
+      "bytes": 1442,
+      "sha256": "472260a0bb997269c96a81a3efc46f445d43cef97bae3fb078982d360f58bb00",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_dark.png",
+      "outputPath": "data/fgimage/hc/ga2/h63144d2e0165_fill_dark.png",
+      "bytes": 14729,
+      "sha256": "63144d2e016537b46bb20b22a2ca29b1af53aa343326fa4b9335d175653e8017",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/web.png",
+      "outputPath": "data/fgimage/hc/ga2/h6537163124e8_web.png",
+      "bytes": 47193,
+      "sha256": "6537163124e8e49a1fffd21d0ee922fbb37e5f37d3038d3438cf6a73927bb044",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_light_body_black.png",
+      "outputPath": "data/fgimage/hc/ga2/h7b1b68471f9d_fill_light_body_black.png",
+      "bytes": 83,
+      "sha256": "7b1b68471f9d68c5b53f6e16cb9db18cb53981f6162eca024d0b8207b274eb2e",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/head_black.png",
+      "outputPath": "data/fgimage/hc/ga2/h8c57b006df7e_head_black.png",
+      "bytes": 8774,
+      "sha256": "8c57b006df7e308a09bbf0d453bdb04a8b3b66e3825d901c41b07bd215719a37",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_dark_right.png",
+      "outputPath": "data/fgimage/hc/ga2/h8c8b9e951aeb_fill_dark_right.png",
+      "bytes": 1676,
+      "sha256": "8c8b9e951aebc1186a0f0445378794ca64ffcea8bb7d62c96061227ec838a2f3",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_light_right_black.png",
+      "outputPath": "data/fgimage/hc/ga2/h982d3498b0df_fill_light_right_black.png",
+      "bytes": 441,
+      "sha256": "982d3498b0dfcef3dd72832518d2e8ec70b682bcd63aee238d492bef98cc7f22",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/head.png",
+      "outputPath": "data/fgimage/hc/ga2/had775028194a_head.png",
+      "bytes": 30036,
+      "sha256": "ad775028194a354ca04dfc06368ac4ff40f519fee82a2db3140ac78ca258dcd3",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/web_once.png",
+      "outputPath": "data/fgimage/hc/ga2/hbc0a5e6f27f2_web_once.png",
+      "bytes": 83908,
+      "sha256": "bc0a5e6f27f24956af7685eed445c70f789e07d9afdb3040b70cae29f3382e6a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/shell_black.png",
+      "outputPath": "data/fgimage/hc/ga2/hd2e4a1460f3f_shell_black.png",
+      "bytes": 8541,
+      "sha256": "d2e4a1460f3f6b56a35e83bfe5d97fc2b45a81e8c2db70ac9e64476603892e9a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/flash_once.png",
+      "outputPath": "data/fgimage/hc/ga2/hd324f68de484_flash_once.png",
+      "bytes": 9609,
+      "sha256": "d324f68de4844c5589f757394290a8288a31229a1743b146085c5fccdeb8632b",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/scar.png",
+      "outputPath": "data/fgimage/hc/ga2/hd83ca10efe4b_scar.png",
+      "bytes": 4827,
+      "sha256": "d83ca10efe4b79057aeda0936e63b6f93c3347f3af06934eda2d7fefcab4f29f",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_light.png",
+      "outputPath": "data/fgimage/hc/ga2/hed2c5d60bf6b_fill_light.png",
+      "bytes": 11054,
+      "sha256": "ed2c5d60bf6befd32e94e85fb08cfd6ba4dfefd3724ea0317406f03248663be9",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/veil.png",
+      "outputPath": "data/fgimage/hc/ga2/hee9d09008adb_veil.png",
+      "bytes": 282509,
+      "sha256": "ee9d09008adbcbcfc5197bedea69d4136ed7b4ad18fa43b3ea1680ad56fa5e52",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_light_left_black.png",
+      "outputPath": "data/fgimage/hc/ga2/hf687ce2062da_fill_light_left_black.png",
+      "bytes": 437,
+      "sha256": "f687ce2062da06872c193611268eb9f84b9c2363c93cd1264baf3551fab09509",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_dark_body.png",
+      "outputPath": "data/fgimage/hc/ga2/hfb83174c8739_fill_dark_body.png",
+      "bytes": 454,
+      "sha256": "fb83174c8739ff29a95f220133c7306678f7f1b7b7bb20ab9dcdf2c39eeba9c4",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/ga2/fill_dark_left.png",
+      "outputPath": "data/fgimage/hc/ga2/hfe948c9fd944_fill_dark_left.png",
+      "bytes": 1655,
+      "sha256": "fe948c9fd9449686015024763eb21c87c66b52db43d95fafd63cc437e70af755",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/black_soul_gem.webp",
+      "outputPath": "data/fgimage/hc/h3477e4217427_black_soul_gem.webp",
+      "bytes": 157442,
+      "sha256": "3477e421742778199c17635dc7f780088575090bdaf9137a1caa8fc0fac7d1fd",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/black_arrow.webp",
+      "outputPath": "data/fgimage/hc/h38b9e59a9307_black_arrow.webp",
+      "bytes": 435122,
+      "sha256": "38b9e59a930732c46540070b10adb765e112fe08d24e8cddc794442479724815",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/red_flash.png",
+      "outputPath": "data/fgimage/hc/h3e3fec4dab0b_red_flash.png",
+      "bytes": 1486,
+      "sha256": "3e3fec4dab0b730265a7e9cc16fa57b130cedb9b68465223da0853baa670ca9e",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/fx_phone_group.png",
+      "outputPath": "data/fgimage/hc/h52d7e653694c_fx_phone_group.png",
+      "bytes": 23058,
+      "sha256": "52d7e653694cd88213a0a0e8fec766302e61800efa6df4b8829fe03757db00dc",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/alley_sky_snow_evening.webp",
+      "outputPath": "data/fgimage/hc/h53e87c686e91_alley_sky_snow_evening.webp",
+      "bytes": 409510,
+      "sha256": "53e87c686e91e7f370c3b3e7f88b02e4e9019106ebb4aecae66b5de5b4eeeef0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/black.png",
+      "outputPath": "data/fgimage/hc/h88023d90926d_black.png",
+      "bytes": 750,
+      "sha256": "88023d90926d5a6983bd8d848ab811a63c8684ef9588128d2ba0e7cb57f09145",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/red_edge.png",
+      "outputPath": "data/fgimage/hc/h9b75da35729b_red_edge.png",
+      "bytes": 365454,
+      "sha256": "9b75da35729b3440a98c139911c46aa83fef3a89b688d5da6cd84032bd3800d0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/fx_phone_family.png",
+      "outputPath": "data/fgimage/hc/hc78cb0898f5e_fx_phone_family.png",
+      "bytes": 33030,
+      "sha256": "c78cb0898f5ed3187c46f6b1b2c51781c8801687ece8df91b094f27f2ac656e1",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/fx_paper_name.png",
+      "outputPath": "data/fgimage/hc/s2e/h0058207f6e2b_fx_paper_name.png",
+      "bytes": 174357,
+      "sha256": "0058207f6e2be65621504cb82eb3ee893f3ea06ad86ffefdd41760c7b73369d6",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/fx_paper_blank.png",
+      "outputPath": "data/fgimage/hc/s2e/h135a95aac850_fx_paper_blank.png",
+      "bytes": 164173,
+      "sha256": "135a95aac850f531f3a480e23f69a870d9e3021777a5c04c73c695662d4b1041",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/e07_snow_add_3_heavy.svg",
+      "outputPath": "data/fgimage/hc/s2e/h3ac2925b0be7_e07_snow_add_3_heavy.svg",
+      "bytes": 74836,
+      "sha256": "3ac2925b0be7f4e2fee5db59cb1c5746f6b5641457dcc7f944849b16055c45ae",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/fx_paper_first.png",
+      "outputPath": "data/fgimage/hc/s2e/h3c3e1d64c9c9_fx_paper_first.png",
+      "bytes": 179650,
+      "sha256": "3c3e1d64c9c91a74bce23eea5cd7ebe2d385692ec1746b511a9ddcd483ab734d",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/e07_snow_1_visible_static.svg",
+      "outputPath": "data/fgimage/hc/s2e/h4ae1d138a13b_e07_snow_1_visible_static.svg",
+      "bytes": 1786,
+      "sha256": "4ae1d138a13bb2a4840aebde2a1dc9a9e4f10e87b87126564cc823702bbf9f45",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/e07_snow_add_2_static.svg",
+      "outputPath": "data/fgimage/hc/s2e/h52dccf54d576_e07_snow_add_2_static.svg",
+      "bytes": 2620,
+      "sha256": "52dccf54d5760b5621c35f2a3026ca5e8fceca7e7655d895539de216f4534d38",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/e07_snow_add_3_heavy_static.svg",
+      "outputPath": "data/fgimage/hc/s2e/h5345f2bfa90d_e07_snow_add_3_heavy_static.svg",
+      "bytes": 35398,
+      "sha256": "5345f2bfa90de67cec71d4748769a9c5aab10aeaa6e64713ca437756c0849c80",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/e07_snow_add_2.svg",
+      "outputPath": "data/fgimage/hc/s2e/h7339874135d7_e07_snow_add_2.svg",
+      "bytes": 6085,
+      "sha256": "7339874135d740cd527e51b20be5941844b117b5228916e57a6148074a386f81",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/e07_snow_1_visible.svg",
+      "outputPath": "data/fgimage/hc/s2e/h841245810c8c_e07_snow_1_visible.svg",
+      "bytes": 4096,
+      "sha256": "841245810c8c68b2ab9322d0d9dd01a81938570652c3cd2535fa3a283f16fbb3",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/e11_lamp_pool.svg",
+      "outputPath": "data/fgimage/hc/s2e/hc05f3aa42edb_e11_lamp_pool.svg",
+      "bytes": 833,
+      "sha256": "c05f3aa42edbbe7faccac9d7c004749fbb70be519f4378857c575ba7ba4f1ee4",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/e11_lamp_pool_static.svg",
+      "outputPath": "data/fgimage/hc/s2e/hc05f3aa42edb_e11_lamp_pool_static.svg",
+      "bytes": 833,
+      "sha256": "c05f3aa42edbbe7faccac9d7c004749fbb70be519f4378857c575ba7ba4f1ee4",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/e07_snow_heavy_full_static.svg",
+      "outputPath": "data/fgimage/hc/s2e/hc1afe9af9457_e07_snow_heavy_full_static.svg",
+      "bytes": 40672,
+      "sha256": "c1afe9af94578b8acd4cb629486b62e429d0c838233c7db38872f66de101b5d3",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/e07_snow_heavy_full.svg",
+      "outputPath": "data/fgimage/hc/s2e/hf2ddf8b79bb7_e07_snow_heavy_full.svg",
+      "bytes": 87661,
+      "sha256": "f2ddf8b79bb75ee444f133ec14e18dbce92040f0699e872c120fdc77a84e74cb",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/fx_dim_40.png",
+      "outputPath": "data/fgimage/hc/s2e/hfdf0d75d61c1_fx_dim_40.png",
+      "bytes": 5312,
+      "sha256": "fdf0d75d61c12e140d0cdc12b6fcd293737152619096cf303b06b9fa4502ab1b",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/s2e/fx_room_night.png",
+      "outputPath": "data/fgimage/hc/s2e/hff043b170b4e_fx_room_night.png",
+      "bytes": 74229,
+      "sha256": "ff043b170b4e26444fc6faa9adc1568010141ecd2241010fdbc9828fafec2d8a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_body-twisted_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h0c96b8262228_wraith_none_body-twisted_none_01.webp",
+      "bytes": 64216,
+      "sha256": "0c96b82622286a2c5b4d6439f2c66ed6490c62e996346b1a4292f91512257cf6",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_smoke-sparse_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h1b08763d0dd2_wraith_none_smoke-sparse_none_01.webp",
+      "bytes": 49866,
+      "sha256": "1b08763d0dd2e7c2522695cf92563e48c3ee4d87b9183b4071260eebe997eff2",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_head-front-open_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h23bf36602f30_wraith_none_head-front-open_none_01.webp",
+      "bytes": 7384,
+      "sha256": "23bf36602f30063b93327a586b2ebcbb07ca7049f74668a01f4057a678c77b40",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_body-low_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h2925811fd738_wraith_none_body-low_none_01.webp",
+      "bytes": 62464,
+      "sha256": "2925811fd7384cb99267b3e422121a69823ba57ccb05b0f2c6943af5d051dc78",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_head-threequarter-open_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h4dbad7d24270_wraith_none_head-threequarter-open_none_01.webp",
+      "bytes": 9408,
+      "sha256": "4dbad7d24270001900086298b7a2c2ff8d0152c1bafed2be4c3262724f2ceee4",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_head-threequarter-closed_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h613146eb57c0_wraith_none_head-threequarter-closed_none_01.webp",
+      "bytes": 8734,
+      "sha256": "613146eb57c04fca130845a793ac82b9d56da9a7bac9c8fe5ed7f1f31e8141d0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_smoke-spread_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h6efd1dd0dc41_wraith_none_smoke-spread_none_01.webp",
+      "bytes": 44262,
+      "sha256": "6efd1dd0dc41a8a9aba5feb7fe34e254c9dedf19452edf57eaa57a6448fcfc6b",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_head-tilted_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h731fa3016d44_wraith_none_head-tilted_none_01.webp",
+      "bytes": 8762,
+      "sha256": "731fa3016d447305d752457fd9308f688f841d1e04a29a73096b690896277603",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_body-reaching_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h771bd91ada8b_wraith_none_body-reaching_none_01.webp",
+      "bytes": 52166,
+      "sha256": "771bd91ada8b02648953b56b3304d7b645f3e956af8d83ee112c422375ab0473",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_smoke-cluster-b_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h7de5ef783dec_wraith_none_smoke-cluster-b_none_01.webp",
+      "bytes": 37234,
+      "sha256": "7de5ef783dec9bf34fb316734e6393582beeb90260ac43155cd5c8750b39ae00",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_body-asymmetric_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h862ce9483228_wraith_none_body-asymmetric_none_01.webp",
+      "bytes": 59936,
+      "sha256": "862ce9483228101d02e41bd528bff396ac7a29fbcf3e161487bc9ebb40475c0a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_smoke-cluster-c_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/h9a5306cb6a63_wraith_none_smoke-cluster-c_none_01.webp",
+      "bytes": 44074,
+      "sha256": "9a5306cb6a634f774b3eb87828e5cef3f3ba83abecbc1346e5137dbc9d538dcf",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_head-front-closed_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/hb919c54a0da5_wraith_none_head-front-closed_none_01.webp",
+      "bytes": 9292,
+      "sha256": "b919c54a0da5192d1a03400d88783d30d0095101bc29cf025c7ae7deb2ad3606",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_smoke-cluster-a_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/he5ce1f807a6b_wraith_none_smoke-cluster-a_none_01.webp",
+      "bytes": 49218,
+      "sha256": "e5ce1f807a6ba1cc270c69d325ebc0eced80676e6e65beb4dae573fbaf176382",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/hc/wraith/wraith_none_body-hunched_none_01.webp",
+      "outputPath": "data/fgimage/hc/wraith/he81b06552b51_wraith_none_body-hunched_none_01.webp",
+      "bytes": 51138,
+      "sha256": "e81b06552b515e7eb6f9379bc153ad2ae24afbb7c6d8f336e917a8d9d82d64ca",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_school_standing_serious_01.webp",
+      "outputPath": "data/fgimage/s1/h09146681925c_mami_school_standing_serious_01.webp",
+      "bytes": 252762,
+      "sha256": "09146681925c45befb91bea52fe572772160e57ce8b45c0d4f9119c3be9a0d89",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school-coat_standing_grin_01.webp",
+      "outputPath": "data/fgimage/s1/h0947534a436a_kyoko_school-coat_standing_grin_01.webp",
+      "bytes": 224580,
+      "sha256": "0947534a436a52887e44d49ceccdfa35a60a52e303dbd914db31c883cc226263",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/tatsuya_pajamas_rubbing-eyes_tired_01.webp",
+      "outputPath": "data/fgimage/s1/h09e0ab2254ad_tatsuya_pajamas_rubbing-eyes_tired_01.webp",
+      "bytes": 83222,
+      "sha256": "09e0ab2254ad4d27adc52c93256693a765fe70bb2124774025c14d6eb688deb6",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/junko_pajamas_hand-on-head_yawning_01.webp",
+      "outputPath": "data/fgimage/s1/h0dedcb09b1af_junko_pajamas_hand-on-head_yawning_01.webp",
+      "bytes": 138634,
+      "sha256": "0dedcb09b1afd2b5484c6748f4adc5a15ee634fd7c746f6fb8898008c0678cff",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school-coat_hand-on-head_neutral_01.webp",
+      "outputPath": "data/fgimage/s1/h10d4aa5b19f4_kyoko_school-coat_hand-on-head_neutral_01.webp",
+      "bytes": 218576,
+      "sha256": "10d4aa5b19f4516921b2725df0a5a8c94e8271972d54d7951b0114a462321858",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/tomohisa_apron_hand-on-chin_worried_01.webp",
+      "outputPath": "data/fgimage/s1/h13a5b5578436_tomohisa_apron_hand-on-chin_worried_01.webp",
+      "bytes": 128490,
+      "sha256": "13a5b55784365ef4b6329a216060c4161bccc72412907f6d67c0cc6a79b84cb0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_hand-in-pocket_neutral_01.webp",
+      "outputPath": "data/fgimage/s1/h1637db56679e_sayaka_school-coat_hand-in-pocket_neutral_01.webp",
+      "bytes": 142510,
+      "sha256": "1637db56679e9e1a24fa376bd1a79d648a6e77872782e49e1916aa3312ad39b6",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school_hand-on-head_angry_01.webp",
+      "outputPath": "data/fgimage/s1/h18a9df9c4337_kyoko_school_hand-on-head_angry_01.webp",
+      "bytes": 193666,
+      "sha256": "18a9df9c433789b51f29426a3cc38c4709043f962eb04bad84f395628365be52",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kazuko_teacher_hand-at-mouth_serious_01.webp",
+      "outputPath": "data/fgimage/s1/h1c3a1c026363_kazuko_teacher_hand-at-mouth_serious_01.webp",
+      "bytes": 145814,
+      "sha256": "1c3a1c02636373cd1817f5cea7784afcae42a184c1aacd91d850f53f913060d6",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyubey_none_tail-curled_neutral_01.webp",
+      "outputPath": "data/fgimage/s1/h1d6317c4d77e_kyubey_none_tail-curled_neutral_01.webp",
+      "bytes": 100696,
+      "sha256": "1d6317c4d77ef504c8392189f5083baf837d66accc8774b5f4de864731248eb1",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_palms-open_surprised_01.webp",
+      "outputPath": "data/fgimage/s1/h1fe19e13e5c0_sayaka_school_palms-open_surprised_01.webp",
+      "bytes": 183812,
+      "sha256": "1fe19e13e5c0545ad2e420a664efba2526d39bcd1b02e989f91b20e6ac7142c1",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_magical_reaching_determined_01.webp",
+      "outputPath": "data/fgimage/s1/h2101c99010be_mami_magical_reaching_determined_01.webp",
+      "bytes": 224344,
+      "sha256": "2101c99010beaa75a4563f178d38fc4f9ff22cd0cbc1b50c8f61e852398291bf",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_school_standing_gentle_01.webp",
+      "outputPath": "data/fgimage/s1/h2baf3e3ff4fd_mami_school_standing_gentle_01.webp",
+      "bytes": 240766,
+      "sha256": "2baf3e3ff4fdf425d08eb17ced505360454cd318ad6233104b8162defca14535",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_palms-open_neutral_01.webp",
+      "outputPath": "data/fgimage/s1/h2cc00fb6b3ea_sayaka_school_palms-open_neutral_01.webp",
+      "bytes": 199826,
+      "sha256": "2cc00fb6b3ea3b5ffa737fa3d943c6d8c5e46df6aa6fb6a7462f3f9a05ed7543",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_palms-open_smile_01.webp",
+      "outputPath": "data/fgimage/s1/h30d27468af1a_sayaka_school_palms-open_smile_01.webp",
+      "bytes": 189124,
+      "sha256": "30d27468af1a98260fcf248f74e077981a909e2de620bb703ddd2ae10c44e600",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school_pointing_neutral_01.webp",
+      "outputPath": "data/fgimage/s1/h31e6fbe6a3b7_kyoko_school_pointing_neutral_01.webp",
+      "bytes": 221614,
+      "sha256": "31e6fbe6a3b7694cfd4fcde0c7f697c0d6723933d9d91476f41c6a4b6345432f",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school-coat_looking-down_surprised_01.webp",
+      "outputPath": "data/fgimage/s1/h32c2dfeccae5_kyoko_school-coat_looking-down_surprised_01.webp",
+      "bytes": 224070,
+      "sha256": "32c2dfeccae5efedd7adb00769aaf291b734ced901b26c207d3d9424b14fcbd0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_holding-arm_serious_01.webp",
+      "outputPath": "data/fgimage/s1/h34f45987aa42_sayaka_school_holding-arm_serious_01.webp",
+      "bytes": 184896,
+      "sha256": "34f45987aa42eaf90ce67462d9c68d17fb95db158fda3551bcce663c3f38a347",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_palms-open_shocked_01.webp",
+      "outputPath": "data/fgimage/s1/h36095de36405_sayaka_school_palms-open_shocked_01.webp",
+      "bytes": 244702,
+      "sha256": "36095de364059ccc4376cae8e3590473309b2188353e921f2019d226793c97af",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school_arms-folded_angry_02.webp",
+      "outputPath": "data/fgimage/s1/h3a074e573053_kyoko_school_arms-folded_angry_02.webp",
+      "bytes": 213368,
+      "sha256": "3a074e57305311ebbe85a6b70e30fafed18fb8a0b1e84fa42bcf496a154f8051",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_reaching_worried_01.webp",
+      "outputPath": "data/fgimage/s1/h3ce80e8fc61c_sayaka_school-coat_reaching_worried_01.webp",
+      "bytes": 165212,
+      "sha256": "3ce80e8fc61cff4a2b0a8552811ac17f420aec20e76a153486bbc13e04ba5fc0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_fists-clenched_grin_01.webp",
+      "outputPath": "data/fgimage/s1/h3e49ff24ebbc_sayaka_school_fists-clenched_grin_01.webp",
+      "bytes": 186332,
+      "sha256": "3e49ff24ebbcd3fe99180092882351bd2f52b8d3715761664230fca5e2a8cd63",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_holding-arm_serious_02.webp",
+      "outputPath": "data/fgimage/s1/h3fc922e606e9_sayaka_school_holding-arm_serious_02.webp",
+      "bytes": 159962,
+      "sha256": "3fc922e606e9fd16644d49778a5a1cbc9bc0b36c880abfe8d604b52f1f0f8124",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_kneeling_worried_01.webp",
+      "outputPath": "data/fgimage/s1/h40364e05e022_sayaka_magical_kneeling_worried_01.webp",
+      "bytes": 205066,
+      "sha256": "40364e05e02215656130142610987998f1d15aeba0424b5823f7453fa6d35d95",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school_standing_grin_01.webp",
+      "outputPath": "data/fgimage/s1/h44d806d4f6e6_kyoko_school_standing_grin_01.webp",
+      "bytes": 224596,
+      "sha256": "44d806d4f6e6082019006509d82ee2ba0827045c5c25078323efafd6f103f13c",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_school_hand-on-chin_embarrassed_01.webp",
+      "outputPath": "data/fgimage/s1/h4531ffe3f1f5_mami_school_hand-on-chin_embarrassed_01.webp",
+      "bytes": 207260,
+      "sha256": "4531ffe3f1f5564c40fe4d0ddc9bc554d9eef2cbb56f4669d0c14248cd2206ba",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyubey_none_sitting_neutral_01.webp",
+      "outputPath": "data/fgimage/s1/h45cd85f47c27_kyubey_none_sitting_neutral_01.webp",
+      "bytes": 108650,
+      "sha256": "45cd85f47c27d7d43a262bf0a92e82ee325ef06508970bd0678b4731ef9f5ef9",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/tatsuya_home_arms-raised_grin_01.webp",
+      "outputPath": "data/fgimage/s1/h467b71feeb1d_tatsuya_home_arms-raised_grin_01.webp",
+      "bytes": 92214,
+      "sha256": "467b71feeb1d44dd1f76e677c3ab6efa7bb3b5c280c9d39f0a878ca79cc997b6",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school_hand-on-chin_neutral_01.webp",
+      "outputPath": "data/fgimage/s1/h4a6acd33de4b_kyoko_school_hand-on-chin_neutral_01.webp",
+      "bytes": 212108,
+      "sha256": "4a6acd33de4b5d53bee8ca7d46422be9d300f33b9f87a1a8b1f5bf071ae1f7e5",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/nagisa_pink-dress_eating_neutral_01.webp",
+      "outputPath": "data/fgimage/s1/h4c675a306b12_nagisa_pink-dress_eating_neutral_01.webp",
+      "bytes": 232498,
+      "sha256": "4c675a306b1256240d80594ef7a14e7decdf4ebb490b2d93291afe4299fdaf34",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_hand-on-chest_shocked_02.webp",
+      "outputPath": "data/fgimage/s1/h4da861357b94_sayaka_magical_hand-on-chest_shocked_02.webp",
+      "bytes": 211418,
+      "sha256": "4da861357b94408e1dd1dff67682a7be938ac871158cc3a55500196a322577f8",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_palms-open_shocked_02.webp",
+      "outputPath": "data/fgimage/s1/h59745b7cf91e_sayaka_school_palms-open_shocked_02.webp",
+      "bytes": 233268,
+      "sha256": "59745b7cf91ec480c93653615d45bc85599e014c7471f304e2ecf57259d35031",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_hand-raised_grin_01.webp",
+      "outputPath": "data/fgimage/s1/h5a442ae6ef22_sayaka_school_hand-raised_grin_01.webp",
+      "bytes": 203320,
+      "sha256": "5a442ae6ef22097335acc12600a048d5ae679dce6e74cbdc8ccf960df1eae1de",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/junko_pajamas_holding-cup_smile_01.webp",
+      "outputPath": "data/fgimage/s1/h5b90373589b3_junko_pajamas_holding-cup_smile_01.webp",
+      "bytes": 145800,
+      "sha256": "5b90373589b385b51cefe81611debc031817bd80282069da58410c23bf7e2b20",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_standing_surprised_01.webp",
+      "outputPath": "data/fgimage/s1/h5bdfa75a7f76_sayaka_school_standing_surprised_01.webp",
+      "bytes": 183374,
+      "sha256": "5bdfa75a7f760ae5c0a39c84078ef8f0763357e0f74f722588d37616d112fabc",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyubey_none_sitting_neutral_02.webp",
+      "outputPath": "data/fgimage/s1/h5bfbffa66eb7_kyubey_none_sitting_neutral_02.webp",
+      "bytes": 106922,
+      "sha256": "5bfbffa66eb7f8c04c9d44c76dcc764c5dbfcfabfa3b0742513469237f211911",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kazuko_teacher_fist-raised_comic-rage_01.webp",
+      "outputPath": "data/fgimage/s1/h5db1746dbea4_kazuko_teacher_fist-raised_comic-rage_01.webp",
+      "bytes": 175124,
+      "sha256": "5db1746dbea476b28165c96af51b05645c4d956b9dcf1894e1ccb97a6b19a78a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_home_standing_serious_01.webp",
+      "outputPath": "data/fgimage/s1/h5df0ba390711_mami_home_standing_serious_01.webp",
+      "bytes": 180102,
+      "sha256": "5df0ba39071116c6011b8708ff3155506570467d9c3819c04e37a976aa5487b4",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school_hand-on-head_bored_01.webp",
+      "outputPath": "data/fgimage/s1/h5ed5e0a30217_kyoko_school_hand-on-head_bored_01.webp",
+      "bytes": 209658,
+      "sha256": "5ed5e0a302176581aeaab7349c74d8d7fc2ba2c60ba7cebe7aa49243a4aa77fa",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school-coat_hand-in-pocket_smile_01.webp",
+      "outputPath": "data/fgimage/s1/h63721ec5db7e_kyoko_school-coat_hand-in-pocket_smile_01.webp",
+      "bytes": 209460,
+      "sha256": "63721ec5db7e8b76dc0131954cc72e880544ead05dad254429fbbfa9482e45c2",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_reaching_angry_01.webp",
+      "outputPath": "data/fgimage/s1/h66579a46b01b_sayaka_school_reaching_angry_01.webp",
+      "bytes": 217086,
+      "sha256": "66579a46b01bf4442dd452a5098dd232fde1abb4cbd154a1ef1ad34075d5d243",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/nagisa_pink-dress_hands-on-hips_serious_01.webp",
+      "outputPath": "data/fgimage/s1/h6c5fd5c78dfc_nagisa_pink-dress_hands-on-hips_serious_01.webp",
+      "bytes": 224788,
+      "sha256": "6c5fd5c78dfc1b45067c4e77e89f150b7acc6ec6e121c72f2be5bf15c77b866a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_hand-on-chest_shocked_01.webp",
+      "outputPath": "data/fgimage/s1/h6edd8cef1abd_sayaka_magical_hand-on-chest_shocked_01.webp",
+      "bytes": 192982,
+      "sha256": "6edd8cef1abd917da22c6a3bff17b34be6ad3e6e90525d36a41b08c5500475a2",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school_hand-at-mouth_grin_01.webp",
+      "outputPath": "data/fgimage/s1/h6fd7071fb0b3_kyoko_school_hand-at-mouth_grin_01.webp",
+      "bytes": 219314,
+      "sha256": "6fd7071fb0b37403133676cb0f4d8f99ddd5f18758aeb468168f12b33a800171",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_hand-on-chest_worried_01.webp",
+      "outputPath": "data/fgimage/s1/h709e533b86de_sayaka_school_hand-on-chest_worried_01.webp",
+      "bytes": 175504,
+      "sha256": "709e533b86deedae7104278dbb6b2740c064a29c44530976a42cfc70728c6970",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_home_arms-raised_surprised_01.webp",
+      "outputPath": "data/fgimage/s1/h743ffb8fffcd_mami_home_arms-raised_surprised_01.webp",
+      "bytes": 208590,
+      "sha256": "743ffb8fffcd70efee7441cd23b4bd94a3fb0e4663f25edcd6321f36e1aaf7f5",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_standing_sad_01.webp",
+      "outputPath": "data/fgimage/s1/h756de7a211f7_sayaka_school_standing_sad_01.webp",
+      "bytes": 175450,
+      "sha256": "756de7a211f7f055271332b6dbe3073be5a96c1f0cdc6ba20324e2f061b7a972",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_holding-belly_grin_01.webp",
+      "outputPath": "data/fgimage/s1/h78048be3f140_sayaka_school_holding-belly_grin_01.webp",
+      "bytes": 170162,
+      "sha256": "78048be3f1406938d47ec43fa042c007d607f9493aac1b0c3dcc3c6a3c5a3f90",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_home_standing_surprised_01.webp",
+      "outputPath": "data/fgimage/s1/h849fb541d80d_mami_home_standing_surprised_01.webp",
+      "bytes": 182974,
+      "sha256": "849fb541d80d6f98b3268634f3aa0fc5e50ef8ce350abeff2af2455c2736302b",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_holding-coat_angry_02.webp",
+      "outputPath": "data/fgimage/s1/h8702cb91a8ff_sayaka_school-coat_holding-coat_angry_02.webp",
+      "bytes": 158588,
+      "sha256": "8702cb91a8ff41a5ef5655e3cec8b268fa4f1b12d5a2128dc46817746a00f48c",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_hand-on-chest_worried_02.webp",
+      "outputPath": "data/fgimage/s1/h87067ce79748_sayaka_school-coat_hand-on-chest_worried_02.webp",
+      "bytes": 150760,
+      "sha256": "87067ce797488182862e550d88b9fe130d8b9a472f78484c5073817ba764c3de",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_arms-folded_angry_01.webp",
+      "outputPath": "data/fgimage/s1/h8c2425ca913f_sayaka_school_arms-folded_angry_01.webp",
+      "bytes": 179050,
+      "sha256": "8c2425ca913f6597162d95345215e702cea5d82ec30b960645f7842de41f547a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_pointing_proud_01.webp",
+      "outputPath": "data/fgimage/s1/h8c63b9bc99b0_sayaka_school_pointing_proud_01.webp",
+      "bytes": 191982,
+      "sha256": "8c63b9bc99b0e6482a3d9ee8f6a97d849ed108a52e3f3c9374298aa452ce9b26",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_holding-coat_angry_01.webp",
+      "outputPath": "data/fgimage/s1/h8d5fa452fb4a_sayaka_school-coat_holding-coat_angry_01.webp",
+      "bytes": 156666,
+      "sha256": "8d5fa452fb4adc2e0ed3aab0d158c1091f695661016e308457d5d174374e7221",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/nagisa_pink-dress_standing_sad_01.webp",
+      "outputPath": "data/fgimage/s1/h8dc9de833a42_nagisa_pink-dress_standing_sad_01.webp",
+      "bytes": 240986,
+      "sha256": "8dc9de833a4294651e618d1f6472761111dfdb4e7a21ef0c78ce6daf950e5b58",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_holding-arm_neutral_02.webp",
+      "outputPath": "data/fgimage/s1/h957470707a63_sayaka_school_holding-arm_neutral_02.webp",
+      "bytes": 184668,
+      "sha256": "957470707a63a45fb14f822f412c09740a6025465f14d654a9fee114ff3f6814",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_home_standing_gentle_01.webp",
+      "outputPath": "data/fgimage/s1/h96495e2bd787_mami_home_standing_gentle_01.webp",
+      "bytes": 205584,
+      "sha256": "96495e2bd787213b5c3f77504c7030d19d5141c31dda26ad04098e1cdeb42df0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_home_standing_smile_01.webp",
+      "outputPath": "data/fgimage/s1/h96495e2bd787_mami_home_standing_smile_01.webp",
+      "bytes": 205584,
+      "sha256": "96495e2bd787213b5c3f77504c7030d19d5141c31dda26ad04098e1cdeb42df0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school-coat_hand-in-pocket_worried_01.webp",
+      "outputPath": "data/fgimage/s1/h965f75bf9fce_kyoko_school-coat_hand-in-pocket_worried_01.webp",
+      "bytes": 205790,
+      "sha256": "965f75bf9fce6c3bd85c5ac14a560287a4ea9d543de6989d34ffa5b5cf16a6f1",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_holding-wrist_sad_01.webp",
+      "outputPath": "data/fgimage/s1/h97ab784b0100_sayaka_school_holding-wrist_sad_01.webp",
+      "bytes": 180344,
+      "sha256": "97ab784b0100233143cce7fec0133b6ab79d38fc4652b75b840f785b5ffe82f8",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/nagisa_pink-dress_fists-clenched_proud_01.webp",
+      "outputPath": "data/fgimage/s1/h97aba1230870_nagisa_pink-dress_fists-clenched_proud_01.webp",
+      "bytes": 211788,
+      "sha256": "97aba12308703ecbcd7ba85290db3f83412517d3bbb7886cb74bc5d2a17c1733",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_hand-on-chest_determined_01.webp",
+      "outputPath": "data/fgimage/s1/h9a7707a23386_sayaka_magical_hand-on-chest_determined_01.webp",
+      "bytes": 216412,
+      "sha256": "9a7707a23386a146ace8b4a399aafa541908eac41fb795100bf69707ec830519",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_reaching_worried_01.webp",
+      "outputPath": "data/fgimage/s1/h9ad44be57069_sayaka_magical_reaching_worried_01.webp",
+      "bytes": 235888,
+      "sha256": "9ad44be57069ce194196357732332014b48a6d2be457e794c40e10c66093f0e6",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_healing_crying_01.webp",
+      "outputPath": "data/fgimage/s1/h9b61d76686f6_sayaka_magical_healing_crying_01.webp",
+      "bytes": 238720,
+      "sha256": "9b61d76686f601d7011f71550acfcef9ead181c28cf7292667badf506e952e31",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_winter_hands-clasped_gentle_01.webp",
+      "outputPath": "data/fgimage/s1/h9c40dcb97fff_sayaka_winter_hands-clasped_gentle_01.webp",
+      "bytes": 152950,
+      "sha256": "9c40dcb97fff55e9ece88ded223d7a0e1af65bcffce1bd995f96350cb77aea79",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/nagisa_pink-dress_arms-raised_grin_01.webp",
+      "outputPath": "data/fgimage/s1/h9eabd5c25b6c_nagisa_pink-dress_arms-raised_grin_01.webp",
+      "bytes": 237664,
+      "sha256": "9eabd5c25b6c86a48b78960e4d54cefdc63d8df7e8c5d9d6d57342535a23699f",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kazuko_teacher_arms-folded_serious_01.webp",
+      "outputPath": "data/fgimage/s1/ha49dbaf8eb0b_kazuko_teacher_arms-folded_serious_01.webp",
+      "bytes": 147024,
+      "sha256": "a49dbaf8eb0b45ac130f21064f8ea57a018cd5b87f2b5a343d93cf7ddce87a1e",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_healing_determined_02.webp",
+      "outputPath": "data/fgimage/s1/ha50c744f743b_sayaka_magical_healing_determined_02.webp",
+      "bytes": 230482,
+      "sha256": "a50c744f743b34e2e6e4508e857b0e052a0c14507cf5b2f4eb459d8bb0637c5d",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/junko_home_hand-on-chin_smile_01.webp",
+      "outputPath": "data/fgimage/s1/ha96e24e29517_junko_home_hand-on-chin_smile_01.webp",
+      "bytes": 137098,
+      "sha256": "a96e24e2951716b8e592eb0859381a4db97880e5437ad5f159035c13c6739a43",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_standing_sad_01.webp",
+      "outputPath": "data/fgimage/s1/ha98442e2dfbb_sayaka_school-coat_standing_sad_01.webp",
+      "bytes": 152162,
+      "sha256": "a98442e2dfbbb33a6fa1c1091037e42e57ad6a5bcb86f0dc3213e54fd37d73f6",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school_hand-on-chin_smile_01.webp",
+      "outputPath": "data/fgimage/s1/haa6e46c4e33e_kyoko_school_hand-on-chin_smile_01.webp",
+      "bytes": 211258,
+      "sha256": "aa6e46c4e33e645dd285db7ef2923f7eca94e68b7a97c6a16211f29e34b1b8c8",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/tomohisa_apron_hand-raised_gentle_01.webp",
+      "outputPath": "data/fgimage/s1/haacdcde873b7_tomohisa_apron_hand-raised_gentle_01.webp",
+      "bytes": 138748,
+      "sha256": "aacdcde873b7229d9fcb8dd3b7cca97bbd285430f834dbc3c93654b3a11c7d41",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_school_palms-open_smile_02.webp",
+      "outputPath": "data/fgimage/s1/habf5f1896582_mami_school_palms-open_smile_02.webp",
+      "bytes": 215936,
+      "sha256": "abf5f18965827bd8a1913ed2ba54d0f5e917204ac3466eaae9d766ba97e2c98c",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school-coat_standing_surprised_01.webp",
+      "outputPath": "data/fgimage/s1/hb22cf1684e7d_kyoko_school-coat_standing_surprised_01.webp",
+      "bytes": 214262,
+      "sha256": "b22cf1684e7d92f9c36b5a7d5eca4f64528258ad827b502ea33a713be2e1fbe2",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_home_standing_embarrassed_01.webp",
+      "outputPath": "data/fgimage/s1/hb683e8e2c197_mami_home_standing_embarrassed_01.webp",
+      "bytes": 203252,
+      "sha256": "b683e8e2c19755e8ef07b3b951acd51adf2ebe35363d1523879041cd1878da28",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/junko_suit_hands-clasped_smile_01.webp",
+      "outputPath": "data/fgimage/s1/hb811b8275458_junko_suit_hands-clasped_smile_01.webp",
+      "bytes": 151132,
+      "sha256": "b811b82754580b82e994f72faa76d62f6670e25fbc8f87298705f0074a4ba513",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/nagisa_pink-dress_fists-clenched_proud_02.webp",
+      "outputPath": "data/fgimage/s1/hb824a1ad0c06_nagisa_pink-dress_fists-clenched_proud_02.webp",
+      "bytes": 216470,
+      "sha256": "b824a1ad0c06d9981ec6e4e6901c9e41f7ff5ac0bf73d3e02bf6242e0a9dedf7",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_standing_grin_01.webp",
+      "outputPath": "data/fgimage/s1/hbb08b1003c12_sayaka_school-coat_standing_grin_01.webp",
+      "bytes": 174998,
+      "sha256": "bb08b1003c128085c64d031d2378e25fe9293e00eeb11c712d28b8c339e4bf96",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_school_palms-open_smile_01.webp",
+      "outputPath": "data/fgimage/s1/hbbd5cc538eea_mami_school_palms-open_smile_01.webp",
+      "bytes": 218386,
+      "sha256": "bbd5cc538eeaca89878efcda8c50f3b19a9666a6e045ca932c2ac47ee65e0343",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_home_sitting_gentle_01.webp",
+      "outputPath": "data/fgimage/s1/hbefdaf486801_mami_home_sitting_gentle_01.webp",
+      "bytes": 180102,
+      "sha256": "befdaf486801eeeac8631db4d8fe1f0bb6dca172379a76308578946d76669563",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/junko_home_hands-clasped_grin_01.webp",
+      "outputPath": "data/fgimage/s1/hc1f1b4d44326_junko_home_hands-clasped_grin_01.webp",
+      "bytes": 138306,
+      "sha256": "c1f1b4d443263adc6999d1e2d1175fc24b4645f2cf0dfbe4dbb119635cfe3a76",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/nagisa_pink-dress_hand-raised_sad_01.webp",
+      "outputPath": "data/fgimage/s1/hc41fc8a22af6_nagisa_pink-dress_hand-raised_sad_01.webp",
+      "bytes": 243202,
+      "sha256": "c41fc8a22af6cc8d64e88f7ee06aaafa60ddae50a5fc91b47e4bf5dded47f002",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/tomohisa_apron_hand-on-head_grin_01.webp",
+      "outputPath": "data/fgimage/s1/hc4e34cee3bca_tomohisa_apron_hand-on-head_grin_01.webp",
+      "bytes": 147450,
+      "sha256": "c4e34cee3bca192f05bfae31a97fcd58ea23b614bd815a657099089226ca55a1",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_healing_smile_01.webp",
+      "outputPath": "data/fgimage/s1/hc56a16bd2117_sayaka_magical_healing_smile_01.webp",
+      "bytes": 227650,
+      "sha256": "c56a16bd211712e52b6688cda2019f23df9c1f897d0ae085667b69c872ce32e5",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyubey_none_walking_neutral_02.webp",
+      "outputPath": "data/fgimage/s1/hc8308b490e2a_kyubey_none_walking_neutral_02.webp",
+      "bytes": 108746,
+      "sha256": "c8308b490e2a369dfa20c78fd2248a1dac7434db0ac4defb78f59f5485e49b07",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_palms-open_grin_01.webp",
+      "outputPath": "data/fgimage/s1/hcb5069879c11_sayaka_school-coat_palms-open_grin_01.webp",
+      "bytes": 180766,
+      "sha256": "cb5069879c114dafed79b054e25d597ce9ce8e59068ad990ceab8d1ad984a932",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_healing_determined_01.webp",
+      "outputPath": "data/fgimage/s1/hcbca30c38417_sayaka_magical_healing_determined_01.webp",
+      "bytes": 228172,
+      "sha256": "cbca30c38417cabf9959182dc3823fb984779be55656f49111127caf167a1d49",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_reaching_serious_01.webp",
+      "outputPath": "data/fgimage/s1/hcf8f97a38cbf_sayaka_magical_reaching_serious_01.webp",
+      "bytes": 259402,
+      "sha256": "cf8f97a38cbf77c8aeda81260a0d6e28233a25fc4f3f3b574bb06f60058929de",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/junko_suit_hands-clasped_grin_01.webp",
+      "outputPath": "data/fgimage/s1/hcff166da65df_junko_suit_hands-clasped_grin_01.webp",
+      "bytes": 151672,
+      "sha256": "cff166da65df763fda70e87af32298dd6799cc7da0430e5641159ff627f27f6e",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school_hand-on-chest_angry_01.webp",
+      "outputPath": "data/fgimage/s1/hd17d345d4c97_kyoko_school_hand-on-chest_angry_01.webp",
+      "bytes": 210040,
+      "sha256": "d17d345d4c97276300f3df6866ca2cc9b6e571120d7b042c8b545e3dc701416a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school-coat_standing_neutral_01.webp",
+      "outputPath": "data/fgimage/s1/hd8d1504174c4_kyoko_school-coat_standing_neutral_01.webp",
+      "bytes": 210628,
+      "sha256": "d8d1504174c47a6d451afe14b1de9400b0df4bef91b456d354d112ba9c5c2248",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_fists-clenched_grin_02.webp",
+      "outputPath": "data/fgimage/s1/hd9144e17cd15_sayaka_school_fists-clenched_grin_02.webp",
+      "bytes": 170106,
+      "sha256": "d9144e17cd157a627945b7336c7f5ce4e25090265bb930f1f1bfd181a08130d3",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_hand-at-mouth_embarrassed_01.webp",
+      "outputPath": "data/fgimage/s1/hda79808f62c8_sayaka_school_hand-at-mouth_embarrassed_01.webp",
+      "bytes": 174634,
+      "sha256": "da79808f62c824a27e3d1e4ec10c58df5a3b6d30688c70bb488b2413250b35a7",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_hand-on-chest_worried_01.webp",
+      "outputPath": "data/fgimage/s1/hddb8acd861fd_sayaka_school-coat_hand-on-chest_worried_01.webp",
+      "bytes": 166272,
+      "sha256": "ddb8acd861fd5f5bbcac5ea8405835f5d77ee80c81afb3edb2c3acb881f2e368",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kazuko_teacher_fist-raised_angry_01.webp",
+      "outputPath": "data/fgimage/s1/he47ec673c959_kazuko_teacher_fist-raised_angry_01.webp",
+      "bytes": 170918,
+      "sha256": "e47ec673c95943f1634855d99c986b18859ddd72edd330969eb06f587ae574d8",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_running_surprised_01.webp",
+      "outputPath": "data/fgimage/s1/he52dc5148c04_sayaka_school-coat_running_surprised_01.webp",
+      "bytes": 163168,
+      "sha256": "e52dc5148c0410f4d1d24d5c726b6d564cd867ed558a024a51253dbaebeaf3af",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_hand-raised_surprised_01.webp",
+      "outputPath": "data/fgimage/s1/he6f5af10bf9b_sayaka_school-coat_hand-raised_surprised_01.webp",
+      "bytes": 176460,
+      "sha256": "e6f5af10bf9bcec5e5a1b6817b3772e0c134231496501a5f4fcaa7bc7bbd51b3",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyoko_school-coat_hand-in-pocket_serious_01.webp",
+      "outputPath": "data/fgimage/s1/he9e979fbe1dc_kyoko_school-coat_hand-in-pocket_serious_01.webp",
+      "bytes": 193324,
+      "sha256": "e9e979fbe1dc8afc8417c7a391bea60030d27bf84792349f3fe3c354216bcafc",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kyubey_none_walking_neutral_01.webp",
+      "outputPath": "data/fgimage/s1/heb2376b3776c_kyubey_none_walking_neutral_01.webp",
+      "bytes": 108638,
+      "sha256": "eb2376b3776cf6e48b2f332fc994fec0ef6aa9e183f43f25436bd47a397a8e42",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_school_hands-at-face_embarrassed_01.webp",
+      "outputPath": "data/fgimage/s1/hecfc00f64893_mami_school_hands-at-face_embarrassed_01.webp",
+      "bytes": 188766,
+      "sha256": "ecfc00f648935da0f919663b165f261c7b04b23b3836a89cdb771c6045ae29e8",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school_standing_angry_01.webp",
+      "outputPath": "data/fgimage/s1/hee281ef8382e_sayaka_school_standing_angry_01.webp",
+      "bytes": 206206,
+      "sha256": "ee281ef8382e513057920fd278fb0aef73096df9842921828f0b2790f620c443",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_reaching_serious_01.webp",
+      "outputPath": "data/fgimage/s1/hef9bed543894_sayaka_school-coat_reaching_serious_01.webp",
+      "bytes": 179666,
+      "sha256": "ef9bed543894001b25f2515a0f509bc5b9aa2c3d4af13e85aa54b144f8465197",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_school-coat_standing_smile_01.webp",
+      "outputPath": "data/fgimage/s1/hf0736f9c68c6_sayaka_school-coat_standing_smile_01.webp",
+      "bytes": 149070,
+      "sha256": "f0736f9c68c6d9aef147c84979e6e5c13c64e475402f1922e5e3157a16ee2dda",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/nagisa_pink-dress_hands-on-hips_proud_01.webp",
+      "outputPath": "data/fgimage/s1/hf194731a9fec_nagisa_pink-dress_hands-on-hips_proud_01.webp",
+      "bytes": 236634,
+      "sha256": "f194731a9fece72ce59965f892852cabf66590f565ab166624758490e33afb44",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_school_standing_sad_01.webp",
+      "outputPath": "data/fgimage/s1/hf5031687c7c3_mami_school_standing_sad_01.webp",
+      "bytes": 197598,
+      "sha256": "f5031687c7c32bd926e20cd3ae260ce9c4bd234ab32a54749e61c29024baf435",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/sayaka_magical_standing_gentle_01.webp",
+      "outputPath": "data/fgimage/s1/hf733b9da6134_sayaka_magical_standing_gentle_01.webp",
+      "bytes": 225474,
+      "sha256": "f733b9da613466850386c31ec4a55485044d1d3ed4be4c1c28a661f8a2be4212",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/junko_home_arms-folded_serious_01.webp",
+      "outputPath": "data/fgimage/s1/hf8c054e6e7de_junko_home_arms-folded_serious_01.webp",
+      "bytes": 139780,
+      "sha256": "f8c054e6e7de2b390e0117832cf1d94b98b545a7d3e944507f54da55d1cd60a3",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/kazuko_teacher_hand-on-cheek_gentle_01.webp",
+      "outputPath": "data/fgimage/s1/hf9e79aa415ed_kazuko_teacher_hand-on-cheek_gentle_01.webp",
+      "bytes": 148674,
+      "sha256": "f9e79aa415ed8761a092a14801df6e1175cec3713d540a0b9316a051e1f7a63a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/junko_pajamas_pointing_angry_01.webp",
+      "outputPath": "data/fgimage/s1/hfc75c11b11d5_junko_pajamas_pointing_angry_01.webp",
+      "bytes": 150900,
+      "sha256": "fc75c11b11d58b4940d10d7117ca338ad4af3310f316827f26390c83daccf9cd",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_home_standing_serious_02.webp",
+      "outputPath": "data/fgimage/s1/hfd1d95c75c72_mami_home_standing_serious_02.webp",
+      "bytes": 191020,
+      "sha256": "fd1d95c75c7269461d363c463280889064ba2d570ffb1b508d5b2ef118c5318a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/fgimage/s1/mami_home_standing_worried_01.webp",
+      "outputPath": "data/fgimage/s1/hfe06527f0364_mami_home_standing_worried_01.webp",
+      "bytes": 200354,
+      "sha256": "fe06527f0364d156cc3fd71aa9e75b255ce4a2277aad9cdd7e0ec7dc85c523dc",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_bg_gallery.png",
+      "outputPath": "data/image/config/h01ff742a711e_hc_bg_gallery.png",
+      "bytes": 24379,
+      "sha256": "01ff742a711e1f5fa8cb8982635b64f6317c7d95da04c65c76a519ca9a28a49b",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_close_s.png",
+      "outputPath": "data/image/config/h18059b844820_hc_close_s.png",
+      "bytes": 1185,
+      "sha256": "18059b844820b5a133e4d91680b087e8738ca3c67c2463ba5343772505f60c24",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_bg_config.png",
+      "outputPath": "data/image/config/h26acac41d286_hc_bg_config.png",
+      "bytes": 63789,
+      "sha256": "26acac41d286f5fbc63d66ab670bc64ae85b48cb8b0413566e9b3d748e837cb1",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_off_sel.png",
+      "outputPath": "data/image/config/h384c32736429_hc_off_sel.png",
+      "bytes": 2035,
+      "sha256": "384c327364291f5dbf3f59dacd4b2be61246606e2967b2ec052454b37e7c1f1f",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_back2.png",
+      "outputPath": "data/image/config/h4e064c337408_hc_back2.png",
+      "bytes": 3124,
+      "sha256": "4e064c337408b9106014ed2caedc108f8eb8589ee8ea6f0529a29899ddae1a1c",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_locked.png",
+      "outputPath": "data/image/config/h63d9bbdcccdc_hc_locked.png",
+      "bytes": 2466,
+      "sha256": "63d9bbdcccdc43e498387d6015d98f7209d93f91b8583fed176cff75f2821851",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_back.png",
+      "outputPath": "data/image/config/h67ca772b5ded_hc_back.png",
+      "bytes": 3127,
+      "sha256": "67ca772b5ded4f884c80e65e2718dee982b40bc000691e23f29877aad4a14a2d",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_dot.png",
+      "outputPath": "data/image/config/h7eef860aa172_hc_dot.png",
+      "bytes": 437,
+      "sha256": "7eef860aa17237b28dfefa1fb07110839ee2f9a750d1b1fec10f5443bfd18252",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_bg_config2.png",
+      "outputPath": "data/image/config/h8dc768654ea1_hc_bg_config2.png",
+      "bytes": 72026,
+      "sha256": "8dc768654ea173f2b7cba19e4b0b4d2317619c82b333195588900b08715694a0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_on_sel.png",
+      "outputPath": "data/image/config/h8f0f4b17efd9_hc_on_sel.png",
+      "bytes": 2103,
+      "sha256": "8f0f4b17efd9878f04e991ae49cbfeed9855cc865f9b6319fa2300bd5e85bb43",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_dot_on.png",
+      "outputPath": "data/image/config/h900af1954c9b_hc_dot_on.png",
+      "bytes": 703,
+      "sha256": "900af1954c9b935cef821c253127094a9858e96a94bd94e7ca912f8a8defcb4e",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_on_idle.png",
+      "outputPath": "data/image/config/ha974201d2bbf_hc_on_idle.png",
+      "bytes": 2875,
+      "sha256": "a974201d2bbf4853b11d119ac624f20707febd61eb35de5f6948099a0459265b",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_off_idle.png",
+      "outputPath": "data/image/config/hb25d90201d51_hc_off_idle.png",
+      "bytes": 2833,
+      "sha256": "b25d90201d51326aef565f04956ba44e06eb29342ee8f0967e0ddb1ddfa94c93",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_close_s2.png",
+      "outputPath": "data/image/config/he3feeb2ea1c2_hc_close_s2.png",
+      "bytes": 1186,
+      "sha256": "e3feeb2ea1c2ecebc43d434a1bc3b54a4860a0ed0d9189ee21675b51b531ff91",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/config/hc_bg_replay.png",
+      "outputPath": "data/image/config/hf7f941179f74_hc_bg_replay.png",
+      "bytes": 20552,
+      "sha256": "f7f941179f74c9678bc07f1b790c12211bbac86d75e0099b296c0db8080beee9",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/card_logo.png",
+      "outputPath": "data/image/hc/h1994546e0e8a_card_logo.png",
+      "bytes": 2351367,
+      "sha256": "1994546e0e8a059ac0c85320fca08d3425b91f21aed93ba3fa9241b49916b46d",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/s52_auto.svg",
+      "outputPath": "data/image/hc/h3f4011f5a9b4_s52_auto.svg",
+      "bytes": 481,
+      "sha256": "3f4011f5a9b4d42efeca1c3c55d6377dae38e45aad7bf1e3e25cab68545e2084",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/s52_skip-on.svg",
+      "outputPath": "data/image/hc/h42495c074493_s52_skip-on.svg",
+      "bytes": 489,
+      "sha256": "42495c0744938c1de075ee21d154d25ac2107b6979d902fe1a6d86571cb1068a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/skip-on.svg",
+      "outputPath": "data/image/hc/h4c0f8772c275_skip-on.svg",
+      "bytes": 332,
+      "sha256": "4c0f8772c275ecb2de8ab1c0b571efb778ee391ebcb751109956c639f16bbb68",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/menu.svg",
+      "outputPath": "data/image/hc/h51e2c8275a69_menu.svg",
+      "bytes": 332,
+      "sha256": "51e2c8275a693dd6f80d25293027abdbc058719dee293ed20945ea498d64181f",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/skip.svg",
+      "outputPath": "data/image/hc/h5a6e75237476_skip.svg",
+      "bytes": 343,
+      "sha256": "5a6e752374761d38f219f0bfefe03469dbf0d56446d9477b17dfdfb2bac23f25",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/s52_skip.svg",
+      "outputPath": "data/image/hc/h7036f9319f70_s52_skip.svg",
+      "bytes": 500,
+      "sha256": "7036f9319f7075fc2cd53b6316217a508d8b5541d78f2114153f878e918b2717",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/log.svg",
+      "outputPath": "data/image/hc/h747cd3a1afa9_log.svg",
+      "bytes": 453,
+      "sha256": "747cd3a1afa97afb77d251806dbc97ace2ae41645bc9f087fbc9cfa97fdb3135",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/card_0120_day.png",
+      "outputPath": "data/image/hc/h7b59f4eb013c_card_0120_day.png",
+      "bytes": 2324930,
+      "sha256": "7b59f4eb013c05a90f2baabbe30407b4babc6754bfe26c5c519d6ce435b13ddb",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/auto-on.svg",
+      "outputPath": "data/image/hc/h8fae5ff54fc9_auto-on.svg",
+      "bytes": 313,
+      "sha256": "8fae5ff54fc9d2846eba65712efe819fb23f412d1f8c71d59fcb1310cde0e88d",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/auto.svg",
+      "outputPath": "data/image/hc/h90a673c183ab_auto.svg",
+      "bytes": 324,
+      "sha256": "90a673c183ab134e00c23f87ae210322b611fe600d8e531254cba12b8f28ce40",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/s52_menu.svg",
+      "outputPath": "data/image/hc/ha1e62f0505be_s52_menu.svg",
+      "bytes": 489,
+      "sha256": "a1e62f0505be6cdd266353a5bd4f3a69f8208e5ece5bf53dfea91f98c8e01752",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/s52_auto-on.svg",
+      "outputPath": "data/image/hc/hb0a6dae71c1c_s52_auto-on.svg",
+      "bytes": 470,
+      "sha256": "b0a6dae71c1ca00f0e26d4a8a11dc3c9c551e987da85f6c3db0cc47740695c04",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/s52_log.svg",
+      "outputPath": "data/image/hc/hb359f2b8a6d8_s52_log.svg",
+      "bytes": 615,
+      "sha256": "b359f2b8a6d8771d5b11c37df0b9aa53a2626a64ca4a56444708db6f9c5d3e39",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/hc/card_0120_night.png",
+      "outputPath": "data/image/hc/hbd1d34f7204d_card_0120_night.png",
+      "bytes": 2327471,
+      "sha256": "bd1d34f7204de3261808a25c17862d20eadcdfc744fd9b0e94a7e51aaa92fd74",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_config.png",
+      "outputPath": "data/image/title/h2a1877141231_hc_button_config.png",
+      "bytes": 3531,
+      "sha256": "2a1877141231afb37beac4f1b276d70c7d370ad41bea544e7b86e44fd86163a0",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_credits.png",
+      "outputPath": "data/image/title/h334f5f6cc36c_hc_button_credits.png",
+      "bytes": 2578,
+      "sha256": "334f5f6cc36c1d0aafaa6fc448dc740a372980947fae2f150ac3fcb0b255b6af",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_credits2.png",
+      "outputPath": "data/image/title/h4262875bc427_hc_button_credits2.png",
+      "bytes": 2524,
+      "sha256": "4262875bc427b6bb8188a8de83608706716f1def0b1258006d504adf641aad3c",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_start2.png",
+      "outputPath": "data/image/title/h4439abc9cdc2_hc_button_start2.png",
+      "bytes": 4553,
+      "sha256": "4439abc9cdc26f5b01432d6a425963121fc7e87ddfbe2d32cc001e08b44f38e2",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_load.png",
+      "outputPath": "data/image/title/h5802610b9e28_hc_button_load.png",
+      "bytes": 4577,
+      "sha256": "5802610b9e28ccabb757f3c82a00d6c015f5d26b8f1a4316e9bd17770128de2a",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_replay.png",
+      "outputPath": "data/image/title/h65b6c6e38e9b_hc_button_replay.png",
+      "bytes": 3324,
+      "sha256": "65b6c6e38e9b215963ec35039f7a17310443d2a7d44b8343f483e7607102ad23",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_start.png",
+      "outputPath": "data/image/title/h68545be0090d_hc_button_start.png",
+      "bytes": 4516,
+      "sha256": "68545be0090de4dc5962c56b3b7d08333a7abd9b85b91aa676a94ce9dece2d14",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_replay2.png",
+      "outputPath": "data/image/title/hb3e14403944e_hc_button_replay2.png",
+      "bytes": 3321,
+      "sha256": "b3e14403944e45ffa155b1e8af361022f8d66d02858299131a8b3872da29146f",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_load2.png",
+      "outputPath": "data/image/title/hb85d1a6eca6a_hc_button_load2.png",
+      "bytes": 4585,
+      "sha256": "b85d1a6eca6a60392d44546f085bc1d72cd1303ad39ebca9d3c2f32f1987a536",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_gallery2.png",
+      "outputPath": "data/image/title/hbfbfa05dfb1e_hc_button_gallery2.png",
+      "bytes": 4971,
+      "sha256": "bfbfa05dfb1ef6b0ccb2226562029a129eafc4c604d5c3c24ff9668dd94dc983",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_gallery.png",
+      "outputPath": "data/image/title/hca7d0c18f988_hc_button_gallery.png",
+      "bytes": 4961,
+      "sha256": "ca7d0c18f988f048e88e2a5ab18faaba5488c92a361c0c097c77bcb7bc39f722",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/image/title/hc_button_config2.png",
+      "outputPath": "data/image/title/he6528b7636da_hc_button_config2.png",
+      "bytes": 3512,
+      "sha256": "e6528b7636daa8a9b4a1b35d2b43c3cc9c683c3d6cb1837b80b2c9c80c067662",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/others/fonts/gowunbatang-OFL.txt",
+      "outputPath": "data/others/fonts/gowunbatang-OFL.txt",
+      "bytes": 4397,
+      "sha256": "49a57cc769fa9affd6eefb9070a61e3d3f6b757c97cafb15848bc6d1c81acc78",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/others/fonts/gowundodum-OFL.txt",
+      "outputPath": "data/others/fonts/gowundodum-OFL.txt",
+      "bytes": 4395,
+      "sha256": "a7c73f9521cd646bbdfb6684c99a62311bbd7bce11898dc11ef0b3c69eda1aca",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/others/fonts/GowunBatang-Regular.ttf",
+      "outputPath": "data/others/fonts/h466c593e7147_GowunBatang-Regular.ttf",
+      "bytes": 8433296,
+      "sha256": "466c593e7147412e748af4856d5ad14709b5a860bdf62b9c2546f2c5874e9849",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/others/fonts/GowunDodum-Regular.ttf",
+      "outputPath": "data/others/fonts/ha6e457933227_GowunDodum-Regular.ttf",
+      "bytes": 7229088,
+      "sha256": "a6e457933227483a11758fd0947bc74422a106d46f0bf057fdaa5af94a30067d",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/others/fonts/GowunBatang-Bold.ttf",
+      "outputPath": "data/others/fonts/hdbfcaa646e58_GowunBatang-Bold.ttf",
+      "bytes": 8178712,
+      "sha256": "dbfcaa646e5831e7478524924f02906f550285a5050699b4e38c9950b3ec4b94",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/others/day1-fonts.css",
+      "outputPath": "data/others/h33f8bb3d4879_day1-fonts.css",
+      "bytes": 445,
+      "sha256": "33f8bb3d487949fe8b663f35b1611eb871a25c0f36f7c98db10aa59f701ee7b4",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/others/kyubey-portrait.css",
+      "outputPath": "data/others/h5642164efd43_kyubey-portrait.css",
+      "bytes": 1316,
+      "sha256": "5642164efd438a1fda7cbe3ab94814249af2bdab714fbe099bccd71e644959ee",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/others/hc-ui.css",
+      "outputPath": "data/others/h9b379428a29b_hc-ui.css",
+      "bytes": 13302,
+      "sha256": "9b379428a29b984adee7cdee2378016d9554463fcce02ddc1e07c2277671cb13",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/others/hc-ui.js",
+      "outputPath": "data/others/hbb11ffc2f655_hc-ui.js",
+      "bytes": 4748,
+      "sha256": "bb11ffc2f65553907e6c475f21657d2d4812b7249d56e7a6b2bfccbea2d829dd",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/others/s2e-wraith.js",
+      "outputPath": "data/others/hc2cacfdb47ca_s2e-wraith.js",
+      "bytes": 13259,
+      "sha256": "c2cacfdb47ca6e2730f9e062774b51ce162ae2e36f66fac32cfbc9fe8a854c02",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/others/s2e-motion.js",
+      "outputPath": "data/others/hda874f22bafb_s2e-motion.js",
+      "bytes": 2347,
+      "sha256": "da874f22bafb146ec18e709e22c91bda66804d2f688b98a1f03cc1c801813df7",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/scenario/cg.ks",
+      "outputPath": "data/scenario/cg.ks",
+      "bytes": 2919,
+      "sha256": "88acd793848d2c757fcb633f65d38f4b5ec7b8239fb2589deb27793710d427b2",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/config.ks",
+      "outputPath": "data/scenario/config.ks",
+      "bytes": 25582,
+      "sha256": "89a87365996582665ce9e93e1983433e37a2f465cc6a608602f05b5bda38b79c",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/credits.ks",
+      "outputPath": "data/scenario/credits.ks",
+      "bytes": 3458,
+      "sha256": "d56a0fec2453631cf54bd3ce8956ea3eaa06b8e8abae7986ea6f0be9aebbd295",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_00_prologue.ks",
+      "outputPath": "data/scenario/d1_00_prologue.ks",
+      "bytes": 20211,
+      "sha256": "c3930aee206a2c95c1b3b6a24c6282f214afc02896021d536769192548e48ff2",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_01_bedroom.ks",
+      "outputPath": "data/scenario/d1_01_bedroom.ks",
+      "bytes": 1274,
+      "sha256": "9702883b66fbb3f7eef24dfd73d57e53c0649344b30266b635e707b7fe053bf9",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_02_kitchen.ks",
+      "outputPath": "data/scenario/d1_02_kitchen.ks",
+      "bytes": 7277,
+      "sha256": "7ad8d711dc7b7c44d7f6cb291ef8c04acda77670dd1b676d320ad3e9516b9b42",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_03_road.ks",
+      "outputPath": "data/scenario/d1_03_road.ks",
+      "bytes": 3673,
+      "sha256": "6eaaade45a3b2807d3d40edb66215e853095eeeee6a8192e4d9bdca98c9bad88",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_04_house.ks",
+      "outputPath": "data/scenario/d1_04_house.ks",
+      "bytes": 6448,
+      "sha256": "ac8cfef538bb4ff84999e9ae176b8b62092814ed633601da9e64c59bd4cbf367",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_05_classroom.ks",
+      "outputPath": "data/scenario/d1_05_classroom.ks",
+      "bytes": 4477,
+      "sha256": "4e96d76235bcaf8d1a0f5af98b680e0fb0800ad1049fcd86e4e57b74cea49bb2",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_06_lunch.ks",
+      "outputPath": "data/scenario/d1_06_lunch.ks",
+      "bytes": 7791,
+      "sha256": "f3f82ad3c0a392483adab6586014830c6657ff4fcdb2ba1620befe2d73177568",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_07_patrol.ks",
+      "outputPath": "data/scenario/d1_07_patrol.ks",
+      "bytes": 152086,
+      "sha256": "89f2f5756f015b0479dcd5838e5df0571e7fd0381b1b56aada5445425b538d44",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_08_room.ks",
+      "outputPath": "data/scenario/d1_08_room.ks",
+      "bytes": 18907,
+      "sha256": "c1c9a7ee0c3e3c472f976626c33ccaad065bd42170a59a3a9c8d1fae32e4b2c5",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_09_return.ks",
+      "outputPath": "data/scenario/d1_09_return.ks",
+      "bytes": 4551,
+      "sha256": "41ed4bf1dacab09f8333ff7e895da499cc27ff7de67540e6da7480bc717dfafb",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/d1_10_window.ks",
+      "outputPath": "data/scenario/d1_10_window.ks",
+      "bytes": 7029,
+      "sha256": "4b111edd7b2f1e84ac988fa3be1d26554e4c4841bd59c3afb0f36bafc42a7d97",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/first.ks",
+      "outputPath": "data/scenario/first.ks",
+      "bytes": 504,
+      "sha256": "3d0b33fe334af8791b510b68da758c49b8bce214ad65f0cbef011a39fbb43cb1",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/hc_gauge.ks",
+      "outputPath": "data/scenario/hc_gauge.ks",
+      "bytes": 24921,
+      "sha256": "46bf32a30eefed8a6b8f6beebdbc15eb8c0669f4427244680bbaf0ebffcc9081",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/hc_replay_init.ks",
+      "outputPath": "data/scenario/hc_replay_init.ks",
+      "bytes": 19183,
+      "sha256": "4739697dde04fd5da73c40325dafb3424d3bc8eedb84121a982745a41698feb3",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/make.ks",
+      "outputPath": "data/scenario/make.ks",
+      "bytes": 18,
+      "sha256": "3aad0765686bef9129664fc2aa0f2143a788536a1db4f4a035445fe9aa93c40b",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/replay.ks",
+      "outputPath": "data/scenario/replay.ks",
+      "bytes": 3566,
+      "sha256": "d9f918d57064871aae7e46ce77a440c0f2085d8d64523a814a817f12a2dff28c",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/title.ks",
+      "outputPath": "data/scenario/title.ks",
+      "bytes": 1485,
+      "sha256": "4ecf0f267c24b7cf395eba3b23a1cea63dc4fbb4ee5715505d78985ef9eb481b",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/scenario/tyrano.ks",
+      "outputPath": "data/scenario/tyrano.ks",
+      "bytes": 2947,
+      "sha256": "d5337b6846a97d6934d97c67ac7c330662cdc4387b024e3ebd18b09bf1456a9f",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/sound/hc/ga2_inhale.mp3",
+      "outputPath": "data/sound/hc/h70f627191966_ga2_inhale.mp3",
+      "bytes": 17029,
+      "sha256": "70f627191966dd4ee8c65b40ca494e6b705ea0ca1ec3a644bf2aa8c62b7c671f",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/hc/ga2_glass_tick2.mp3",
+      "outputPath": "data/sound/hc/h811b535ddb4b_ga2_glass_tick2.mp3",
+      "bytes": 10565,
+      "sha256": "811b535ddb4b5939556fc16c506ac7e498dabd505acc13985c961d50062a66a5",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/hc/ga2_glass_tick.mp3",
+      "outputPath": "data/sound/hc/h8c628e225619_ga2_glass_tick.mp3",
+      "bytes": 9939,
+      "sha256": "8c628e225619fbdeb7e750218f38907d5818e2fe27417b469c99b895d935ba9b",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/hc/ga2_glass_crack.mp3",
+      "outputPath": "data/sound/hc/ha9838a815d71_ga2_glass_crack.mp3",
+      "bytes": 10589,
+      "sha256": "a9838a815d71bbfa5cbc0c4d36eaee16e3c77939032546f81ed697182c384170",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/hc/ga2_rise.mp3",
+      "outputPath": "data/sound/hc/haba9b661511c_ga2_rise.mp3",
+      "bytes": 12684,
+      "sha256": "aba9b661511c6af3f46bf5b9c4496f579a241975a47fcfd4faa6cd6ad97d525f",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/soul_gem_absorb.mp3",
+      "outputPath": "data/sound/s1/h1b8b15f90af8_soul_gem_absorb.mp3",
+      "bytes": 109444,
+      "sha256": "1b8b15f90af8cac8c19d3e139a93c348da14e096879e37872ebf9192354c6b86",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/s2d_ambient_classroom.mp3",
+      "outputPath": "data/sound/s1/h27fa4455d2d7_s2d_ambient_classroom.mp3",
+      "bytes": 481220,
+      "sha256": "27fa4455d2d75241aaba19c6dd990f2efd3991f5b55bc255eda7ead10d31c250",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/s2d_inhale.mp3",
+      "outputPath": "data/sound/s1/h28cf22c0cac6_s2d_inhale.mp3",
+      "bytes": 61171,
+      "sha256": "28cf22c0cac6a34f81371eb16862a3bb0a03a15fd17ad9a7ebafd0b4745e290c",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/stairs_down.mp3",
+      "outputPath": "data/sound/s1/h3157951e2c0f_stairs_down.mp3",
+      "bytes": 163444,
+      "sha256": "3157951e2c0fd84295eafdfdca05996beb3fbfb0d3a57954ad6cacd1e9c35b33",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/impact.mp3",
+      "outputPath": "data/sound/s1/h394abd589598_impact.mp3",
+      "bytes": 19437,
+      "sha256": "394abd5895984ea743a4fa4011e0192e70a6fa1702704547dc09f8af40f93319",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/water_boil.mp3",
+      "outputPath": "data/sound/s1/h3ce01af1efcc_water_boil.mp3",
+      "bytes": 538723,
+      "sha256": "3ce01af1efcc0edaa534d63b1f7c01aece52d66f6ad37185f4ccfe966b1cc4e2",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/pm1_burst_short.mp3",
+      "outputPath": "data/sound/s1/h3fbbc64862ab_pm1_burst_short.mp3",
+      "bytes": 13819,
+      "sha256": "3fbbc64862ab448b9f810bb2126aafb53a75070c8501d8d33d43dadd95d52364",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/cough.mp3",
+      "outputPath": "data/sound/s1/h4f38d53260fa_cough.mp3",
+      "bytes": 27699,
+      "sha256": "4f38d53260faeb3738a36e367687926b14c5ed46a1f92f876c6b4e88eeb45a65",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/s2d_ambient_evening_street.mp3",
+      "outputPath": "data/sound/s1/h75e86bb0e745_s2d_ambient_evening_street.mp3",
+      "bytes": 481220,
+      "sha256": "75e86bb0e7459ffbb5bc6cf1ade1a501ee66d01cd3e792a7f1422058b044e1fb",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/footsteps_running_group.mp3",
+      "outputPath": "data/sound/s1/h81840c54e166_footsteps_running_group.mp3",
+      "bytes": 349234,
+      "sha256": "81840c54e166fe76b29713e53c3e46a5726687263f582b3943523b4ef2ed8255",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/school_bell.mp3",
+      "outputPath": "data/sound/s1/h876521c98701_school_bell.mp3",
+      "bytes": 130560,
+      "sha256": "876521c98701e954df749c8afbdda01e106ef18379acd81d2ff32f239fb74537",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/phone_vibrate.mp3",
+      "outputPath": "data/sound/s1/h88921dc6d950_phone_vibrate.mp3",
+      "bytes": 54116,
+      "sha256": "88921dc6d950484a99d082dfe6710b9c2f4929bfb998abe4eb0a998f2a1984ee",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/explosion.mp3",
+      "outputPath": "data/sound/s1/hb3177d9d9e2f_explosion.mp3",
+      "bytes": 65955,
+      "sha256": "b3177d9d9e2fa0675df768a8f1f440416bbae0064b4e2104fb36d15f3ec0d4c1",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/s2d_ambient_night_room.mp3",
+      "outputPath": "data/sound/s1/hc2aa56423655_s2d_ambient_night_room.mp3",
+      "bytes": 481220,
+      "sha256": "c2aa56423655523ff47b0f8757b54b729383467d0304dff8eb6f9c1fd31f2f67",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/pm1_footsteps_half.mp3",
+      "outputPath": "data/sound/s1/hc67a8008de08_pm1_footsteps_half.mp3",
+      "bytes": 105652,
+      "sha256": "c67a8008de0893132c08763f7d99128030c3362ebad6cd84be67bd34219645df",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/sound/s1/s2d_high_five.mp3",
+      "outputPath": "data/sound/s1/hf5d140aaa981_s2d_high_five.mp3",
+      "bytes": 18330,
+      "sha256": "f5d140aaa9817cf64a71a6e0a8640ea965f339befb344ead44d683ba1b688ad7",
+      "fingerprinted": true
+    },
+    {
+      "logicalPath": "data/system/Config.tjs",
+      "outputPath": "data/system/Config.tjs",
+      "bytes": 26533,
+      "sha256": "49018ad5bf37a4448493dc951e322b0b86fa31a01ce880e48bfbd41498a8e2b5",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "data/system/KeyConfig.js",
+      "outputPath": "data/system/KeyConfig.js",
+      "bytes": 19558,
+      "sha256": "a0b4f2a9817a024310584956c6240da01b025a532dff4564c7708a032b59baa1",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "index.html",
+      "outputPath": "index.html",
+      "bytes": 6115,
+      "sha256": "4de616a68342bcd2a721f274ea54d032f672ada47a830ebd1a6ccdaea21d1f31",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/audio/silent.mp3",
+      "outputPath": "tyrano/audio/silent.mp3",
+      "bytes": 75685,
+      "sha256": "a5387ef5eec2d4bbaa6ae7fb5849b6a6d97005aebcf7b967a3aeda914058fe8d",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/css/animate.css",
+      "outputPath": "tyrano/css/animate.css",
+      "bytes": 78836,
+      "sha256": "bbdbcd3b4c0e2dd9fe576922ae09a674656cd52667593be0dbe1152fc35ea153",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/css/font.css",
+      "outputPath": "tyrano/css/font.css",
+      "bytes": 495,
+      "sha256": "70e300eae83809a06dd9f7cfee495267cdeace0a6ba1ff749d59ce9ec136a834",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/css/glink.css",
+      "outputPath": "tyrano/css/glink.css",
+      "bytes": 240892,
+      "sha256": "a7525cddb7a86f28065f65c5fd8c036c404b9cc57da6d612ec8353ffa0f8ea6e",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/css/reset.css",
+      "outputPath": "tyrano/css/reset.css",
+      "bytes": 583,
+      "sha256": "4c6a6d90d20525ec78c7b7620c7dc48495ba5ab532e0fe1274dfd91506fa0296",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/html/backlog.html",
+      "outputPath": "tyrano/html/backlog.html",
+      "bytes": 523,
+      "sha256": "c062061d25d864d34d402ae2ac3e0c3ad850c45704d770ca1cc0c544f5166c46",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/html/load.html",
+      "outputPath": "tyrano/html/load.html",
+      "bytes": 1001,
+      "sha256": "75ce653473f559ce4eaf0642db0cb6fd30fb279f72d80b2d28fe5b18045b0abf",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/html/menu.html",
+      "outputPath": "tyrano/html/menu.html",
+      "bytes": 3371,
+      "sha256": "5133488a47bfee95c278e64402f457ddbfacc28f5816a96e475ef965774df588",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/html/save.html",
+      "outputPath": "tyrano/html/save.html",
+      "bytes": 989,
+      "sha256": "282339f7aa0255eedae26e3dad2124985bf6e5150b65bdfd0ad970e65aa462f2",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/arrow_down.png",
+      "outputPath": "tyrano/images/system/arrow_down.png",
+      "bytes": 4987,
+      "sha256": "a01824eccd6997ffcc06f622dbdf587b1415f9835184fff20790c6a194e012b6",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/arrow_next.png",
+      "outputPath": "tyrano/images/system/arrow_next.png",
+      "bytes": 4961,
+      "sha256": "2b1007b29fcf1d0d31fbf48c0b096b8e7e7fbec9d0a0c0551d914a1490555431",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/arrow_prev.png",
+      "outputPath": "tyrano/images/system/arrow_prev.png",
+      "bytes": 5002,
+      "sha256": "51ffbe3da34eee361de44135303f0a63409bdcd4ee5423bcea29ed60c93a49fc",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/arrow_up.png",
+      "outputPath": "tyrano/images/system/arrow_up.png",
+      "bytes": 5025,
+      "sha256": "394423ff618fe897cbe9f7c29524df90d876ef4988e184d20d35d3fb78ee1cd9",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/bg_base.png",
+      "outputPath": "tyrano/images/system/bg_base.png",
+      "bytes": 22624,
+      "sha256": "a533335bcf4c661692af822e89c9e79fc8a2aeff9a9979739a295904317af7b2",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/bg_config.jpg",
+      "outputPath": "tyrano/images/system/bg_config.jpg",
+      "bytes": 497690,
+      "sha256": "9b5155fe208e358090e030e097fafe2deffbeb8893a82ac749d2af5adc995205",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/button_menu.png",
+      "outputPath": "tyrano/images/system/button_menu.png",
+      "bytes": 3550,
+      "sha256": "a9fc2b900dbfb4c736412e31c9d90b86d8f73d9729e4d5cea697bf33d686e1cb",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/cursor_default.png",
+      "outputPath": "tyrano/images/system/cursor_default.png",
+      "bytes": 156,
+      "sha256": "bf3dd1161d638f7da854a79a1e49e868d8a1ca0f94aa0a0ef6d49d271453f536",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/cursor_pointer.png",
+      "outputPath": "tyrano/images/system/cursor_pointer.png",
+      "bytes": 166,
+      "sha256": "ff2cf621eca844e30040cb6ae716ac00ff1d544554a71fbe9ded3aaf204aeb6d",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/label_backlog.png",
+      "outputPath": "tyrano/images/system/label_backlog.png",
+      "bytes": 57203,
+      "sha256": "854c6e29820d458eb5d16ebb742c8c2ebdf8a35420ba8ef0a51cc491217ba003",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/label_cg.png",
+      "outputPath": "tyrano/images/system/label_cg.png",
+      "bytes": 51052,
+      "sha256": "d073ee69ae95f3256c84d7f256a022e64c5b78253f777df35026cb989cea472d",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/label_cgmode.png",
+      "outputPath": "tyrano/images/system/label_cgmode.png",
+      "bytes": 56639,
+      "sha256": "8311204f3b845b471bc75d476adbdca5f32655d8af9e05b61711d9e0e39240fa",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/label_config.png",
+      "outputPath": "tyrano/images/system/label_config.png",
+      "bytes": 43403,
+      "sha256": "880ce28450d1bfde99ad738972157fb3a187fb163ad701134571688382e29eca",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/label_load.png",
+      "outputPath": "tyrano/images/system/label_load.png",
+      "bytes": 54182,
+      "sha256": "e41e77a0b8b41917d102ec00695a7ccc6e9ec01700d1cc62a23466c824c3e2b4",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/label_menu.png",
+      "outputPath": "tyrano/images/system/label_menu.png",
+      "bytes": 43065,
+      "sha256": "0fb43621a7388768273a3da513ef2ae891e46bd19fd121cf42b010063297701d",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/label_recollection.png",
+      "outputPath": "tyrano/images/system/label_recollection.png",
+      "bytes": 69580,
+      "sha256": "2c2d1cc3b2bfeddb515f4c024c8b7c2ac55f7b7afc772c115b9bb048fcbd3f54",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/label_save.png",
+      "outputPath": "tyrano/images/system/label_save.png",
+      "bytes": 53411,
+      "sha256": "fe68e7f5235c53d91044503f2f27229f8e87655cb224971f831792f53efd89ad",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_button_close.png",
+      "outputPath": "tyrano/images/system/menu_button_close.png",
+      "bytes": 10229,
+      "sha256": "afb8b1a5cba007f434103bf92c1a69de82b9762f4ce7ffb39c1f640f3677786d",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_button_close2.png",
+      "outputPath": "tyrano/images/system/menu_button_close2.png",
+      "bytes": 9684,
+      "sha256": "88d5a029e0878f2a588ba53c824608af1a1d3155a7a4b45db62a9c912334c9a5",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_button_load.png",
+      "outputPath": "tyrano/images/system/menu_button_load.png",
+      "bytes": 6011,
+      "sha256": "fa6523a396730f824ce392e3c33aae1b15b43cff4e84697943e7d2a6060759ef",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_button_load2.png",
+      "outputPath": "tyrano/images/system/menu_button_load2.png",
+      "bytes": 10529,
+      "sha256": "389750e1b848295fd9d26c4d0a4facc9045c063e364951113a535968a1db7e1b",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_button_save.png",
+      "outputPath": "tyrano/images/system/menu_button_save.png",
+      "bytes": 5970,
+      "sha256": "aae86a063b4e8c9eef0b2e171553d7d39d37a542cbb5545228fc430cc1364851",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_button_save2.png",
+      "outputPath": "tyrano/images/system/menu_button_save2.png",
+      "bytes": 10371,
+      "sha256": "8d36b6ec9ff28785e5298ec8dae3620e86253cf25441a8c2038284bc1c472c63",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_button_skip.png",
+      "outputPath": "tyrano/images/system/menu_button_skip.png",
+      "bytes": 9607,
+      "sha256": "8fa657582329ba9693cb21e07fbb03576a1e0edabe658f5760097b66b8f83783",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_button_skip2.png",
+      "outputPath": "tyrano/images/system/menu_button_skip2.png",
+      "bytes": 18964,
+      "sha256": "7cf204e56bc62c6a1f1f217c3e473fa1af2cd5630f5b897944f9d45455a810dc",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_button_title.png",
+      "outputPath": "tyrano/images/system/menu_button_title.png",
+      "bytes": 8278,
+      "sha256": "bd222d341908d07746e3e457eca41ab4a4e1f21d96196a2b276408af719713c8",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_button_title2.png",
+      "outputPath": "tyrano/images/system/menu_button_title2.png",
+      "bytes": 18010,
+      "sha256": "132c51a43d02b571e9972d83d59d9afde748b358976897752f1800d94627f9f5",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_message_close.png",
+      "outputPath": "tyrano/images/system/menu_message_close.png",
+      "bytes": 9049,
+      "sha256": "6972a625f0a70b006424c2f1d188d9ed16517a0d1d437defaa353738da7e5712",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/menu_message_close2.png",
+      "outputPath": "tyrano/images/system/menu_message_close2.png",
+      "bytes": 18937,
+      "sha256": "ea5b34d9d0d81f5d17ed876202927dd1be6fa99ae57c3cd89487aa5d4036ba46",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/nextpage.gif",
+      "outputPath": "tyrano/images/system/nextpage.gif",
+      "bytes": 529,
+      "sha256": "828d2e830e08b3979d12fab2be32065b874bfa9ba5b8ac02a70bc74da99fd28d",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/nextpage2.gif",
+      "outputPath": "tyrano/images/system/nextpage2.gif",
+      "bytes": 1466,
+      "sha256": "167f0bf74cf9e7bf3cc20759d566e7afcae7714622d958b1c8c6b7296125f105",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/noimage.png",
+      "outputPath": "tyrano/images/system/noimage.png",
+      "bytes": 2798,
+      "sha256": "39557dec37ccd6205b6be317186bbc099e34df7256159ad847e2b4ee7ae9273e",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/saveslot.png",
+      "outputPath": "tyrano/images/system/saveslot.png",
+      "bytes": 4430,
+      "sha256": "5da5d66d9b49f0bf73dcb8fbd7695920d575b13b969f92ffc5143c506efd770f",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/saveslot1.png",
+      "outputPath": "tyrano/images/system/saveslot1.png",
+      "bytes": 3889,
+      "sha256": "1676a4f678ea241fb44e4255ff25e390e59a236aae6d5e500b8e3500cd4d5e8d",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/saveslot2.png",
+      "outputPath": "tyrano/images/system/saveslot2.png",
+      "bytes": 3303,
+      "sha256": "d4a9359e04a2cde6125dd8ae6661316375a07cb9adbd816a18e6b640e233009a",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/thumbnail.png",
+      "outputPath": "tyrano/images/system/thumbnail.png",
+      "bytes": 2915,
+      "sha256": "e883a1b51c20234ea8653cdc905013289073d21cb36da1c95c065e0c3863251b",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/thumbnail_save.png",
+      "outputPath": "tyrano/images/system/thumbnail_save.png",
+      "bytes": 2358,
+      "sha256": "5c029a5302f34ba0652d77ef0241e1cc06161154e036bb2f01d7247f9c02487b",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/images/system/transparent.png",
+      "outputPath": "tyrano/images/system/transparent.png",
+      "bytes": 997,
+      "sha256": "f4538220ee51d61048f3ab52b3c02bf05365819266de5ce69ea9fd65697b099b",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/lang.js",
+      "outputPath": "tyrano/lang.js",
+      "bytes": 6243,
+      "sha256": "b97d77e356b013b677041b7cbf717a01387a721717670c527d5d7d22228c07ad",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/.DS_Store",
+      "outputPath": "tyrano/libs/.DS_Store",
+      "bytes": 6148,
+      "sha256": "487ca691eb12fa891d13a50daae2bd7d61fee0eb15894a39217155e66a111c02",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/alertify/alertify.core.css",
+      "outputPath": "tyrano/libs/alertify/alertify.core.css",
+      "bytes": 3569,
+      "sha256": "17e7a4d24f3ba378fc018d757499f1a5166aeb77fdd223a10999f16780609921",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/alertify/alertify.default.css",
+      "outputPath": "tyrano/libs/alertify/alertify.default.css",
+      "bytes": 2552,
+      "sha256": "04fea5c460c672a85ea448a74b562dad54c3c6f2c6eac9aa857b366504f8d66c",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/alertify/alertify.min.js",
+      "outputPath": "tyrano/libs/alertify/alertify.min.js",
+      "bytes": 8653,
+      "sha256": "31301946f34ff56005e7120b0a1595ddb2033e45bab75a99708957dca0afa349",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/anime.min.js",
+      "outputPath": "tyrano/libs/anime.min.js",
+      "bytes": 17741,
+      "sha256": "5cbda29ea5096ac9404c59c77493a2f467d0eb4a27f16c750b61fc0d888dd716",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/howler.js",
+      "outputPath": "tyrano/libs/howler.js",
+      "bytes": 36137,
+      "sha256": "0febfd99e2733b690ecac2dc36c82885f581a6b5c73b65895898ff8548415f5b",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/html2canvas.js",
+      "outputPath": "tyrano/libs/html2canvas.js",
+      "bytes": 200459,
+      "sha256": "ed9690619e232d5a1f13a6a8e7f2d820e1bf99a0317f08c8d075218140b2b655",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery-3.6.0.min.js",
+      "outputPath": "tyrano/libs/jquery-3.6.0.min.js",
+      "bytes": 89501,
+      "sha256": "ff1523fb7389539c84c65aba19260648793bb4f5e29329d2ee8804bc37a3fe6e",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery-migrate-1.4.1.js",
+      "outputPath": "tyrano/libs/jquery-migrate-1.4.1.js",
+      "bytes": 9909,
+      "sha256": "ed352d20fba52e6b09d1b464e5c094d8792b46bff4f79e1a6daa521cd56e42be",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery-ui/images/ui-icons_444444_256x240.png",
+      "outputPath": "tyrano/libs/jquery-ui/images/ui-icons_444444_256x240.png",
+      "bytes": 7006,
+      "sha256": "eaf7c7ee2747275dda6c53e731a10db1a7b15f4fbb46e1b69d6bb2056bc9fd81",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery-ui/images/ui-icons_555555_256x240.png",
+      "outputPath": "tyrano/libs/jquery-ui/images/ui-icons_555555_256x240.png",
+      "bytes": 7074,
+      "sha256": "5d04051dfd9d2d740355404f98a683d1ec0feb2fca7d76e533c1a6e5ce92dd2e",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery-ui/images/ui-icons_777620_256x240.png",
+      "outputPath": "tyrano/libs/jquery-ui/images/ui-icons_777620_256x240.png",
+      "bytes": 4676,
+      "sha256": "9dbe4a0d03feed6f65eb2560a0a8b4ba4264545ee8fd31c1763a3b219d0328d6",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery-ui/images/ui-icons_777777_256x240.png",
+      "outputPath": "tyrano/libs/jquery-ui/images/ui-icons_777777_256x240.png",
+      "bytes": 7013,
+      "sha256": "e75b27211e16fcf94715168001bb7055ca376d46f928110ba3d0825232452e5a",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery-ui/images/ui-icons_cc0000_256x240.png",
+      "outputPath": "tyrano/libs/jquery-ui/images/ui-icons_cc0000_256x240.png",
+      "bytes": 4632,
+      "sha256": "02891575d4358e9edde3e42d94057f8e9f82a9d64376f71ee86cef149d30537e",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery-ui/images/ui-icons_ffffff_256x240.png",
+      "outputPath": "tyrano/libs/jquery-ui/images/ui-icons_ffffff_256x240.png",
+      "bytes": 6313,
+      "sha256": "b6b06deef2b924cc3835d63f4883d47882734a33e71b212d917a68cede3b8e9d",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery-ui/jquery-ui.css",
+      "outputPath": "tyrano/libs/jquery-ui/jquery-ui.css",
+      "bytes": 37326,
+      "sha256": "a7ac54f58ba507b13621ceb6fcf5fe879f5ac9bdcf049d16153110c6ad048c7c",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery-ui/jquery-ui.min.js",
+      "outputPath": "tyrano/libs/jquery-ui/jquery-ui.min.js",
+      "bytes": 253669,
+      "sha256": "28ce75d953678c4942df47a11707a15e3c756021cf89090e3e6aa7ad6b6971c3",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery.a3d.js",
+      "outputPath": "tyrano/libs/jquery.a3d.js",
+      "bytes": 12343,
+      "sha256": "99ebf8f8d99a209bdfbeab9dfe05b51168d8f1379bcc0263938a802b4d9cfce6",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery.a3d.min.js",
+      "outputPath": "tyrano/libs/jquery.a3d.min.js",
+      "bytes": 4437,
+      "sha256": "82b0aeeeae884b0711b6372c45028afcbabf511be686ef8fd147894fc2ebb473",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jquery.touchSwipe.min.js",
+      "outputPath": "tyrano/libs/jquery.touchSwipe.min.js",
+      "bytes": 20441,
+      "sha256": "2501a8c94205bf39dd9df8e1dbe935d54e7b3bdb2d1f4a193d1076ed0302b363",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jsQR.js",
+      "outputPath": "tyrano/libs/jsQR.js",
+      "bytes": 253653,
+      "sha256": "d3f499490d1f70abbff5a07f3baa941470645365508ff00c837438bc190ca9b9",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/jsrender.min.js",
+      "outputPath": "tyrano/libs/jsrender.min.js",
+      "bytes": 12917,
+      "sha256": "11d59e1631f24eaf67854c967470803132a03277c02f1fe8b5c8c7d6a4caf640",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/lz-string.min.js",
+      "outputPath": "tyrano/libs/lz-string.min.js",
+      "bytes": 4719,
+      "sha256": "9d1a0ef07a2ea5faa8cd4afb60a0518075e6771e341e5ff4e0e481cefedeecbf",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/remodal/remodal-default-theme.css",
+      "outputPath": "tyrano/libs/remodal/remodal-default-theme.css",
+      "bytes": 5718,
+      "sha256": "55681c3b26695c642575f9b2574aeb3b99daaa41ed26b722378496b81aaa0600",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/remodal/remodal.css",
+      "outputPath": "tyrano/libs/remodal/remodal.css",
+      "bytes": 1614,
+      "sha256": "edda34437f50beae53fa7f621a6f0ae83cf094b29a3c54f7bc6eb81e7b181f27",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/remodal/remodal.js",
+      "outputPath": "tyrano/libs/remodal/remodal.js",
+      "bytes": 19468,
+      "sha256": "6a24a0af28dce270f82b20d91f07e0e3cc08a832e4bd30e417fbe8957c856211",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/textillate/assets/animate.css",
+      "outputPath": "tyrano/libs/textillate/assets/animate.css",
+      "bytes": 61429,
+      "sha256": "eca82d24145631657ec4759a54fab94f1c42ccd20b7679b2dea77abecabd91d4",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/textillate/assets/jquery.fittext.js",
+      "outputPath": "tyrano/libs/textillate/assets/jquery.fittext.js",
+      "bytes": 1068,
+      "sha256": "53aa05a6d14e2767100b14ca0cf16a8ebbc6d577c8e821c99bc6046bf765a3e7",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/textillate/assets/jquery.lettering.js",
+      "outputPath": "tyrano/libs/textillate/assets/jquery.lettering.js",
+      "bytes": 1715,
+      "sha256": "69c08060a7398e0b545f2b9a3ab739333b6908cdef049c83fb131cd935028237",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/textillate/assets/style.css",
+      "outputPath": "tyrano/libs/textillate/assets/style.css",
+      "bytes": 7271,
+      "sha256": "703fd191cba289ae5459532dc4f2511f539a526a044b135b2eb6bad385749c58",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/textillate/jquery.textillate.js",
+      "outputPath": "tyrano/libs/textillate/jquery.textillate.js",
+      "bytes": 7902,
+      "sha256": "64a1395d928c1e15b8d76f19e32dff5707cb449f14ff371da63cc96c79caaf60",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/.DS_Store",
+      "outputPath": "tyrano/libs/three/.DS_Store",
+      "bytes": 6148,
+      "sha256": "1f0496ce42f77ab2ea19da9e1b61b0e1a6bdef545b7fd687b1e83925e5f82171",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/classes/ThreeModel.js",
+      "outputPath": "tyrano/libs/three/classes/ThreeModel.js",
+      "bytes": 6631,
+      "sha256": "2189dc8e8eb0c161a96c257c6c300b55fce22be0b9eedf5232ee82be5bef1112",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/controls/DeviceOrientationControls.js",
+      "outputPath": "tyrano/libs/three/controls/DeviceOrientationControls.js",
+      "bytes": 3687,
+      "sha256": "a704abbffd17ea18c676b7d45cb675ed73687755c3cb42bfdaf4b08eecf04281",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/controls/OrbitControls.js",
+      "outputPath": "tyrano/libs/three/controls/OrbitControls.js",
+      "bytes": 26609,
+      "sha256": "d4f83a29526ad5a805f1671a000b2a27b4564a7efde47226c8d28fc8e07ea4f4",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/controls/TrackballControls.js",
+      "outputPath": "tyrano/libs/three/controls/TrackballControls.js",
+      "bytes": 17792,
+      "sha256": "8fff9465f33353ffc0e1fefba6fd65afab1d3183a595df84c2ef7579f26a2813",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/controls/TransformControls.js",
+      "outputPath": "tyrano/libs/three/controls/TransformControls.js",
+      "bytes": 41722,
+      "sha256": "868c205615e614182ed92aed4f2906282369c38aee525719c5f71e280227dd24",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/controls/TransformControls.js.bk",
+      "outputPath": "tyrano/libs/three/controls/TransformControls.js.bk",
+      "bytes": 44561,
+      "sha256": "56e3cdc13e8b6ded9b1ff833e601c47cb2252740d67822d865f933e641dfa3d1",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/etc/ar.js",
+      "outputPath": "tyrano/libs/three/etc/ar.js",
+      "bytes": 1606035,
+      "sha256": "21ed903aebf5585a18a9381d382c46926787246ed21a00d2b031deddd83d730d",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/etc/CSS3DRenderer.js",
+      "outputPath": "tyrano/libs/three/etc/CSS3DRenderer.js",
+      "bytes": 6716,
+      "sha256": "10fa147e42c20a435a918a7630df8cc3b768e088ca98a23b2afbed3259c50db6",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/etc/stats.min.js",
+      "outputPath": "tyrano/libs/three/etc/stats.min.js",
+      "bytes": 1966,
+      "sha256": "8bb227a9971bbaa538b2732e1fec53a5dac300a494458a0324b9df55ab03f330",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/loader/GLTFLoader.js",
+      "outputPath": "tyrano/libs/three/loader/GLTFLoader.js",
+      "bytes": 101796,
+      "sha256": "3581c89bc6f7fc242e1bbaa0ad35f476436e235af398f4e01d5dcffa3421f8cb",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/loader/MMDLoader.js",
+      "outputPath": "tyrano/libs/three/loader/MMDLoader.js",
+      "bytes": 51763,
+      "sha256": "9cd66a59440e65ff6d0be350bf96ddd8f26885474f8d3ebe424d32db8c18b3d0",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/loader/MTLLoader.js",
+      "outputPath": "tyrano/libs/three/loader/MTLLoader.js",
+      "bytes": 10576,
+      "sha256": "cc11c50f0a3c2a9d92b0447378718819b6d6d8ab92a872062d9e6926e94c648f",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/loader/OBJLoader.js",
+      "outputPath": "tyrano/libs/three/loader/OBJLoader.js",
+      "bytes": 21560,
+      "sha256": "e3c4cf3a6b061b6956e8e8d5cc360cf95da456dcced32961f859c8be6849a579",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/postprocessing/EffectComposer.js",
+      "outputPath": "tyrano/libs/three/postprocessing/EffectComposer.js",
+      "bytes": 6271,
+      "sha256": "4fc320fa3185847797332bc2b0125b1a39b9cf5fc4170a2f180cfa54fb057a2b",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/postprocessing/OutlinePass.js",
+      "outputPath": "tyrano/libs/three/postprocessing/OutlinePass.js",
+      "bytes": 20503,
+      "sha256": "a72bf64397375804229995a3ec6fc60f5cac049980559f6766fe39827fb00023",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/postprocessing/RenderPass.js",
+      "outputPath": "tyrano/libs/three/postprocessing/RenderPass.js",
+      "bytes": 1746,
+      "sha256": "57a549b2d6a947cddf0385a804dc70c3b2d155663d908e99e35d42274b3878be",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/postprocessing/ShaderPass.js",
+      "outputPath": "tyrano/libs/three/postprocessing/ShaderPass.js",
+      "bytes": 1416,
+      "sha256": "2e64890b8e4c4dafcfd796d5c84877f2ad36a101c83263211c500ec40eaf1240",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/shader/CopyShader.js",
+      "outputPath": "tyrano/libs/three/shader/CopyShader.js",
+      "bytes": 606,
+      "sha256": "6b5da4fe3b410286974590885f82fe4a446f25c728f7d6c888e2a2a331333949",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/three/three.js",
+      "outputPath": "tyrano/libs/three/three.js",
+      "bytes": 1162990,
+      "sha256": "59836c50c0373232765759bfd3f863e044438d3fcea1993594b86cf57c3a546e",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs/tyrano-update-v6.js",
+      "outputPath": "tyrano/libs/tyrano-update-v6.js",
+      "bytes": 505,
+      "sha256": "25bb65675e8cd6a7b18ca5ce18b7a9edc5da13646f9a7621c1daa2ddd612c19f",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/libs.js",
+      "outputPath": "tyrano/libs.js",
+      "bytes": 95151,
+      "sha256": "3798953d62f3d42822014c34a7ed55ab2dbebeb586abe7e8026e35f702948d5c",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.event.js",
+      "outputPath": "tyrano/plugins/kag/kag.event.js",
+      "bytes": 1157,
+      "sha256": "b5d137bc98e29b40fced13231d3c1c9bc38260615ff03a3b8efe05072bf726f2",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.js",
+      "outputPath": "tyrano/plugins/kag/kag.js",
+      "bytes": 57894,
+      "sha256": "2c2497c97c24ac4b9f40708a16c549d2dafa89848cfe6cf9f6beb8796166aea3",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.key_mouse.js",
+      "outputPath": "tyrano/plugins/kag/kag.key_mouse.js",
+      "bytes": 48063,
+      "sha256": "b9023d8ab8fb57784e8dcc0674df9d0c610981d7a0ff2c283e7249796108e1f1",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.layer.js",
+      "outputPath": "tyrano/plugins/kag/kag.layer.js",
+      "bytes": 10324,
+      "sha256": "333d6c919426895e04b082daba67031b21e5ead96e38d73e438a4a37320c6203",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.menu.js",
+      "outputPath": "tyrano/plugins/kag/kag.menu.js",
+      "bytes": 22229,
+      "sha256": "430a15167e6959f019596d8c9b344918201c5ac863c21dede33d39f73b62174b",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.parser.js",
+      "outputPath": "tyrano/plugins/kag/kag.parser.js",
+      "bytes": 5301,
+      "sha256": "4f244cc84c8ee8eee720983d67dc9047b6c4d1ca0366c3db904c23241540a0b6",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.rider.js",
+      "outputPath": "tyrano/plugins/kag/kag.rider.js",
+      "bytes": 2152,
+      "sha256": "f6a34e36b75e4d64a47302aeb13e4dd4e6f324dfc2f865bcde2cc9e03062a26b",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.studio_v6.js",
+      "outputPath": "tyrano/plugins/kag/kag.studio_v6.js",
+      "bytes": 4233,
+      "sha256": "5ba1f57e028195d4a31ffada21c6bdb98a46f19c739c0c1836823ed756766c2c",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.tag.js",
+      "outputPath": "tyrano/plugins/kag/kag.tag.js",
+      "bytes": 99532,
+      "sha256": "5894489ea20e1cb8f420be0caed9ba314eb6e7d3e4be0218ebf84b21aba93cde",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.tag_ar.js",
+      "outputPath": "tyrano/plugins/kag/kag.tag_ar.js",
+      "bytes": 4441,
+      "sha256": "bb2cf931bfbbde0bea66a905d7bc7eb7574d68c0ef8149eaf056febc6d4e27e0",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.tag_audio.js",
+      "outputPath": "tyrano/plugins/kag/kag.tag_audio.js",
+      "bytes": 25374,
+      "sha256": "4906990934b666c967a8bf2f4bed2ee65a80a4bab0923ec3969f74d91b507dcc",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.tag_camera.js",
+      "outputPath": "tyrano/plugins/kag/kag.tag_camera.js",
+      "bytes": 5414,
+      "sha256": "d61654cea5194939e774dac9033e498080b95b2d665d3fbf35407042272bd96d",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.tag_ext.js",
+      "outputPath": "tyrano/plugins/kag/kag.tag_ext.js",
+      "bytes": 44412,
+      "sha256": "1017e0180b768dda17fd3cad0747466868c61816178b7c95b1923c68aacc0709",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.tag_system.js",
+      "outputPath": "tyrano/plugins/kag/kag.tag_system.js",
+      "bytes": 35496,
+      "sha256": "b893d392c48bbfd41ef28bbdfdace9bb61688f4f6412a4a390c472905d1b26e0",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.tag_three.js",
+      "outputPath": "tyrano/plugins/kag/kag.tag_three.js",
+      "bytes": 93363,
+      "sha256": "56c956b834660ca41658150f7303275854dfdf11d330c620d84cb7574b5d7ba5",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/plugins/kag/kag.tag_vchat.js",
+      "outputPath": "tyrano/plugins/kag/kag.tag_vchat.js",
+      "bytes": 1699,
+      "sha256": "a0b8e2588b5589509f13a1436f75d494e7aca2e0ac774e7e95bbb3ed42444e20",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/tyrano.base.js",
+      "outputPath": "tyrano/tyrano.base.js",
+      "bytes": 11211,
+      "sha256": "ffc473443f751266e0e94263ccb8ad47f311076a474d015d87f05666b8bfc656",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/tyrano.css",
+      "outputPath": "tyrano/tyrano.css",
+      "bytes": 25648,
+      "sha256": "1797bd9b7a42a24eb3997bef461f45afb6750f5705cad999205763267bc5ca89",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": "tyrano/tyrano.js",
+      "outputPath": "tyrano/tyrano.js",
+      "bytes": 2646,
+      "sha256": "4d5611ddfdd9cb196fd32d9c3dcb012d2293456f1a84014ee8ab851cf66403d5",
+      "fingerprinted": false
+    },
+    {
+      "logicalPath": ".nojekyll",
+      "outputPath": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fingerprinted": false
+    }
+  ],
+  "totalFiles": 427,
+  "totalBytes": 130321078,
+  "fixedNameReason": "official runtime contracts, entry HTML and scenario loading (cache:false); af112e11",
+  "manifestSelf": "excluded from self-referential checksum; all other output files covered",
+  "templateDataKept": [],
+  "deploymentOverride": "public: debug disabled; trial UI/audio, QA map and comments excluded; explicit relative favicon"
+}
