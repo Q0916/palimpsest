@@ -278,8 +278,8 @@
     "data/sound/s1/stairs_down.mp3": "data/sound/s1/h3157951e2c0f_stairs_down.mp3",
     "data/sound/s1/water_boil.mp3": "data/sound/s1/h3ce01af1efcc_water_boil.mp3",
     "data/others/day1-fonts.css": "data/others/h33f8bb3d4879_day1-fonts.css",
-    "data/others/hc-ui.css": "data/others/h0c50b73e88d3_hc-ui.css",
-    "data/others/hc-ui.js": "data/others/h2d511544438f_hc-ui.js",
+    "data/others/hc-ui.css": "data/others/h32f8411c09d6_hc-ui.css",
+    "data/others/hc-ui.js": "data/others/hc307bffc370f_hc-ui.js",
     "data/others/kyubey-portrait.css": "data/others/h5642164efd43_kyubey-portrait.css",
     "data/others/s2e-motion.js": "data/others/hda874f22bafb_s2e-motion.js",
     "data/others/s2e-wraith.js": "data/others/hc2cacfdb47ca_s2e-wraith.js"
@@ -2086,16 +2086,16 @@
     },
     {
       "logicalPath": "data/others/hc-ui.css",
-      "outputPath": "data/others/h0c50b73e88d3_hc-ui.css",
-      "bytes": 16191,
-      "sha256": "0c50b73e88d32bc47eeb5434b2818a8a2dc585d973b815af6e94d71b285ec7fa",
+      "outputPath": "data/others/h32f8411c09d6_hc-ui.css",
+      "bytes": 16210,
+      "sha256": "32f8411c09d6e7efadfc25b6ab63cf1ea01ace482a5faa68072cb35e17d1b158",
       "fingerprinted": true
     },
     {
       "logicalPath": "data/others/hc-ui.js",
-      "outputPath": "data/others/h2d511544438f_hc-ui.js",
-      "bytes": 12054,
-      "sha256": "2d511544438f4056e9e3036774e4146ab865ec0919a78794a0e7d7f6acbef32f",
+      "outputPath": "data/others/hc307bffc370f_hc-ui.js",
+      "bytes": 12499,
+      "sha256": "c307bffc370fcc80bcad41e81ea960bdda176531194dc37788291fd44fa98cc3",
       "fingerprinted": true
     },
     {
@@ -2214,7 +2214,7 @@
       "logicalPath": "data/scenario/first.ks",
       "outputPath": "data/scenario/first.ks",
       "bytes": 504,
-      "sha256": "d5fa080f6588843134b94893477fb8244e1eef084a6639f17911da29f075119f",
+      "sha256": "46d282b5a17fe8db2e820757bbaf79886fb69c393a94acbb6c269661a3441667",
       "fingerprinted": false
     },
     {
@@ -2248,8 +2248,8 @@
     {
       "logicalPath": "data/scenario/title.ks",
       "outputPath": "data/scenario/title.ks",
-      "bytes": 1285,
-      "sha256": "2377e7d130cd5f093375f651e6b1296ed8055606aa470a0cfaf9591f31c43d3d",
+      "bytes": 1303,
+      "sha256": "58d0e606fbfcd8a9865b42a014de230df1ecf3b214364db28c075512fe15f2bc",
       "fingerprinted": false
     },
     {
@@ -3276,7 +3276,7 @@
     }
   ],
   "totalFiles": 427,
-  "totalBytes": 130278029,
+  "totalBytes": 130278511,
   "fixedNameReason": "official runtime contracts, entry HTML and scenario loading (cache:false); af112e11",
   "manifestSelf": "excluded from self-referential checksum; all other output files covered",
   "templateDataKept": [],

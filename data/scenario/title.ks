@@ -1,3 +1,4 @@
+[stop_keyconfig]
 [chara_hide_all layer="message0" time="0"]
 [clearfix]
 [layopt layer=message0 visible=false]

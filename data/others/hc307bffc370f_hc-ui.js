@@ -38,6 +38,14 @@
     press(btn);
   },true);
 
+  // Stock mobile noScroll protects the game page. Native credits scrolling
+  // stays inside its own overflow area and does not invoke game gestures.
+  function creditsScroll(e){
+    if(e.target&&e.target.closest&&e.target.closest('.hc_credits'))e.stopPropagation();
+  }
+  document.addEventListener('touchmove',creditsScroll,{capture:true,passive:true});
+  document.addEventListener('wheel',creditsScroll,{capture:true,passive:true});
+
   // Mobile framing lives outside the authored 1280x720 stage. Engine files stay stock.
   var ROT_KEY='hc_rotate', rot=0, frame=null, shell, stage, panel, safeProbe, dismissed=false;
   try { rot=Number(localStorage.getItem(ROT_KEY)||0); } catch(e) {}
