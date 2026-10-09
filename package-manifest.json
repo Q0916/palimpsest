@@ -278,8 +278,8 @@
     "data/sound/s1/stairs_down.mp3": "data/sound/s1/h3157951e2c0f_stairs_down.mp3",
     "data/sound/s1/water_boil.mp3": "data/sound/s1/h3ce01af1efcc_water_boil.mp3",
     "data/others/day1-fonts.css": "data/others/h33f8bb3d4879_day1-fonts.css",
-    "data/others/hc-ui.css": "data/others/h9b379428a29b_hc-ui.css",
-    "data/others/hc-ui.js": "data/others/hbb11ffc2f655_hc-ui.js",
+    "data/others/hc-ui.css": "data/others/h0c50b73e88d3_hc-ui.css",
+    "data/others/hc-ui.js": "data/others/h2d511544438f_hc-ui.js",
     "data/others/kyubey-portrait.css": "data/others/h5642164efd43_kyubey-portrait.css",
     "data/others/s2e-motion.js": "data/others/hda874f22bafb_s2e-motion.js",
     "data/others/s2e-wraith.js": "data/others/hc2cacfdb47ca_s2e-wraith.js"
@@ -2086,16 +2086,16 @@
     },
     {
       "logicalPath": "data/others/hc-ui.css",
-      "outputPath": "data/others/h9b379428a29b_hc-ui.css",
-      "bytes": 13302,
-      "sha256": "9b379428a29b984adee7cdee2378016d9554463fcce02ddc1e07c2277671cb13",
+      "outputPath": "data/others/h0c50b73e88d3_hc-ui.css",
+      "bytes": 16191,
+      "sha256": "0c50b73e88d32bc47eeb5434b2818a8a2dc585d973b815af6e94d71b285ec7fa",
       "fingerprinted": true
     },
     {
       "logicalPath": "data/others/hc-ui.js",
-      "outputPath": "data/others/hbb11ffc2f655_hc-ui.js",
-      "bytes": 4748,
-      "sha256": "bb11ffc2f65553907e6c475f21657d2d4812b7249d56e7a6b2bfccbea2d829dd",
+      "outputPath": "data/others/h2d511544438f_hc-ui.js",
+      "bytes": 12054,
+      "sha256": "2d511544438f4056e9e3036774e4146ab865ec0919a78794a0e7d7f6acbef32f",
       "fingerprinted": true
     },
     {
@@ -2214,7 +2214,7 @@
       "logicalPath": "data/scenario/first.ks",
       "outputPath": "data/scenario/first.ks",
       "bytes": 504,
-      "sha256": "3d0b33fe334af8791b510b68da758c49b8bce214ad65f0cbef011a39fbb43cb1",
+      "sha256": "d5fa080f6588843134b94893477fb8244e1eef084a6639f17911da29f075119f",
       "fingerprinted": false
     },
     {
@@ -2423,8 +2423,8 @@
     {
       "logicalPath": "index.html",
       "outputPath": "index.html",
-      "bytes": 6115,
-      "sha256": "4de616a68342bcd2a721f274ea54d032f672ada47a830ebd1a6ccdaea21d1f31",
+      "bytes": 6291,
+      "sha256": "bb0404c3ba9536911dfcb8107c341776b35556e296e72055621dab5f13d12525",
       "fingerprinted": false
     },
     {
@@ -2479,8 +2479,8 @@
     {
       "logicalPath": "tyrano/html/menu.html",
       "outputPath": "tyrano/html/menu.html",
-      "bytes": 3371,
-      "sha256": "5133488a47bfee95c278e64402f457ddbfacc28f5816a96e475ef965774df588",
+      "bytes": 3368,
+      "sha256": "ed87bf000cd12368f513adf6d396b51e6ff4543e5ca2715668391d8afff555b8",
       "fingerprinted": false
     },
     {
@@ -3276,7 +3276,7 @@
     }
   ],
   "totalFiles": 427,
-  "totalBytes": 130267861,
+  "totalBytes": 130278229,
   "fixedNameReason": "official runtime contracts, entry HTML and scenario loading (cache:false); af112e11",
   "manifestSelf": "excluded from self-referential checksum; all other output files covered",
   "templateDataKept": [],
