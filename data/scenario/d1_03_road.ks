@@ -9,7 +9,7 @@
 [chara_hide name="kyubey_portrait" layer="message0" time="0" pos_mode="false"]
 
 [stopse buf="8"]
-[bg storage="s1/h1144f25a4c7a_school_route_day.webp" time="1000"]
+[bg storage="s1/hdf9983261fed_school_route_day.webp" time="1000"]
 
 
 

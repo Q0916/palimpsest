@@ -30,7 +30,7 @@
     "data/bgimage/s1/mami_living_night.webp": "data/bgimage/s1/hc39183a87218_mami_living_night.webp",
     "data/bgimage/s1/miki_house_day.webp": "data/bgimage/s1/hb6eeddca9e6b_miki_house_day.webp",
     "data/bgimage/s1/outskirts_passage_evening.webp": "data/bgimage/s1/h9d2966c30bc7_outskirts_passage_evening.webp",
-    "data/bgimage/s1/school_route_day.webp": "data/bgimage/s1/h1144f25a4c7a_school_route_day.webp",
+    "data/bgimage/s1/school_route_day.webp": "data/bgimage/s1/hdf9983261fed_school_route_day.webp",
     "data/bgm/s1/foreboding.mp3": "data/bgm/s1/he2775e16311f_foreboding.mp3",
     "data/bgm/s1/last_embrace.mp3": "data/bgm/s1/h5e8d4afd281a_last_embrace.mp3",
     "data/bgm/s1/mu1_crisis.mp3": "data/bgm/s1/h1bbdbe71d325_mu1_crisis.mp3",
@@ -378,9 +378,9 @@
     },
     {
       "logicalPath": "data/bgimage/s1/school_route_day.webp",
-      "outputPath": "data/bgimage/s1/h1144f25a4c7a_school_route_day.webp",
-      "bytes": 934186,
-      "sha256": "1144f25a4c7a1f05c17c08202a708e9d817be32ff24e120bdf5ff014d4506f44",
+      "outputPath": "data/bgimage/s1/hdf9983261fed_school_route_day.webp",
+      "bytes": 506862,
+      "sha256": "df9983261feda8f4b497a593c4fc8e605aa4a35556c2ac1e66371423e39efe40",
       "fingerprinted": true
     },
     {
@@ -2158,14 +2158,14 @@
       "logicalPath": "data/scenario/d1_03_road.ks",
       "outputPath": "data/scenario/d1_03_road.ks",
       "bytes": 3673,
-      "sha256": "6eaaade45a3b2807d3d40edb66215e853095eeeee6a8192e4d9bdca98c9bad88",
+      "sha256": "5aeb201d4c564dbc4a0ae50dd8c656af1f95ddd340458c9dc79f60d05f60b507",
       "fingerprinted": false
     },
     {
       "logicalPath": "data/scenario/d1_04_house.ks",
       "outputPath": "data/scenario/d1_04_house.ks",
       "bytes": 6448,
-      "sha256": "ac8cfef538bb4ff84999e9ae176b8b62092814ed633601da9e64c59bd4cbf367",
+      "sha256": "8145afafdd713a639cf23bbc4639f67a85835d3d0ed78644fce4303d06591a5a",
       "fingerprinted": false
     },
     {
@@ -3276,7 +3276,7 @@
     }
   ],
   "totalFiles": 427,
-  "totalBytes": 130267937,
+  "totalBytes": 129840613,
   "fixedNameReason": "official runtime contracts, entry HTML and scenario loading (cache:false); af112e11",
   "manifestSelf": "excluded from self-referential checksum; all other output files covered",
   "templateDataKept": [],
