@@ -2129,8 +2129,8 @@
     {
       "logicalPath": "data/scenario/credits.ks",
       "outputPath": "data/scenario/credits.ks",
-      "bytes": 3458,
-      "sha256": "d56a0fec2453631cf54bd3ce8956ea3eaa06b8e8abae7986ea6f0be9aebbd295",
+      "bytes": 3441,
+      "sha256": "95f09509c59dac4ece0cbb242c8d6acb0d37994d25369ddfc291e003ca892bd8",
       "fingerprinted": false
     },
     {
@@ -3276,7 +3276,7 @@
     }
   ],
   "totalFiles": 427,
-  "totalBytes": 130321078,
+  "totalBytes": 130321061,
   "fixedNameReason": "official runtime contracts, entry HTML and scenario loading (cache:false); af112e11",
   "manifestSelf": "excluded from self-referential checksum; all other output files covered",
   "templateDataKept": [],
