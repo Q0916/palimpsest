@@ -86,6 +86,7 @@
     Object.assign(stage.style,{width:lw+'px',height:lh+'px',transform:angle===90?'translate('+w+'px,0) rotate(90deg)':angle===-90?'translate(0,'+h+'px) rotate(-90deg)':'none'});
     var b=document.getElementById('tyrano_base');
     Object.assign(b.style,{position:'absolute',left:x+'px',top:y+'px',margin:'0',transformOrigin:'0 0',transform:'scale('+scale+')'});
+    frame.transform=b.style.transform;
     k.tmp.base_scale=scale;
     k.tyrano.base.updateScreenInfo({scale_x:scale,scale_y:scale,top:y,left:x,original_width:Number(k.config.scWidth),original_height:Number(k.config.scHeight),viewport_width:lw,viewport_height:lh});
     document.documentElement.classList.remove('hc-rot90','hc-rot-90');
@@ -162,6 +163,12 @@
     new MutationObserver(function(records){
       if(records.some(function(r){return Array.from(r.addedNodes).some(function(n){return n.nodeType===1&&(n.matches('.hc_fx2_choice')||n.querySelector('.hc_fx2_choice'));});}))layoutChoices();
     }).observe(document.getElementById('tyrano_base'),{childList:true,subtree:true});
+    // A stock fit callback queued before this adapter can still write margins/scale.
+    // Reconcile only overwritten fitting styles; our own layout writes are already equal.
+    var fittedBase=document.getElementById('tyrano_base');
+    new MutationObserver(function(){
+      if(frame&&(fittedBase.style.marginLeft!=='0px'||fittedBase.style.marginTop!=='0px'||fittedBase.style.transform!==frame.transform))schedule();
+    }).observe(fittedBase,{attributes:true,attributeFilter:['style']});
     window.hcOpenDisplaySettings=function(){showPanel('settings');};
     // Keep callers of the old entry point working, without silently cycling directions.
     window.hcRotateCycle=window.hcOpenDisplaySettings;

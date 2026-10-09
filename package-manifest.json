@@ -279,7 +279,7 @@
     "data/sound/s1/water_boil.mp3": "data/sound/s1/h3ce01af1efcc_water_boil.mp3",
     "data/others/day1-fonts.css": "data/others/h33f8bb3d4879_day1-fonts.css",
     "data/others/hc-ui.css": "data/others/h32f8411c09d6_hc-ui.css",
-    "data/others/hc-ui.js": "data/others/hc307bffc370f_hc-ui.js",
+    "data/others/hc-ui.js": "data/others/h162489fc457a_hc-ui.js",
     "data/others/kyubey-portrait.css": "data/others/h5642164efd43_kyubey-portrait.css",
     "data/others/s2e-motion.js": "data/others/hda874f22bafb_s2e-motion.js",
     "data/others/s2e-wraith.js": "data/others/hc2cacfdb47ca_s2e-wraith.js"
@@ -2093,9 +2093,9 @@
     },
     {
       "logicalPath": "data/others/hc-ui.js",
-      "outputPath": "data/others/hc307bffc370f_hc-ui.js",
-      "bytes": 12499,
-      "sha256": "c307bffc370fcc80bcad41e81ea960bdda176531194dc37788291fd44fa98cc3",
+      "outputPath": "data/others/h162489fc457a_hc-ui.js",
+      "bytes": 13038,
+      "sha256": "162489fc457a31a99372d3d5e850ebc04de8120965b7fbc11bb29f6607751d62",
       "fingerprinted": true
     },
     {
@@ -2214,7 +2214,7 @@
       "logicalPath": "data/scenario/first.ks",
       "outputPath": "data/scenario/first.ks",
       "bytes": 504,
-      "sha256": "46d282b5a17fe8db2e820757bbaf79886fb69c393a94acbb6c269661a3441667",
+      "sha256": "aa83299f3ca57c16cde74cd494cddddfb33359e2cc2785c34df8bc3a2b551bb1",
       "fingerprinted": false
     },
     {
@@ -3276,7 +3276,7 @@
     }
   ],
   "totalFiles": 427,
-  "totalBytes": 130278511,
+  "totalBytes": 130279050,
   "fixedNameReason": "official runtime contracts, entry HTML and scenario loading (cache:false); af112e11",
   "manifestSelf": "excluded from self-referential checksum; all other output files covered",
   "templateDataKept": [],
