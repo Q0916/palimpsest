@@ -29,7 +29,7 @@
     "data/bgimage/s1/kaname_kitchen_night.png": "data/bgimage/s1/h56d9bb756250_kaname_kitchen_night.png",
     "data/bgimage/s1/mami_living_night.webp": "data/bgimage/s1/hc39183a87218_mami_living_night.webp",
     "data/bgimage/s1/miki_house_day.webp": "data/bgimage/s1/hb6eeddca9e6b_miki_house_day.webp",
-    "data/bgimage/s1/outskirts_passage_evening.webp": "data/bgimage/s1/hfaf3b5018782_outskirts_passage_evening.webp",
+    "data/bgimage/s1/outskirts_passage_evening.webp": "data/bgimage/s1/h9d2966c30bc7_outskirts_passage_evening.webp",
     "data/bgimage/s1/school_route_day.webp": "data/bgimage/s1/h1144f25a4c7a_school_route_day.webp",
     "data/bgm/s1/foreboding.mp3": "data/bgm/s1/he2775e16311f_foreboding.mp3",
     "data/bgm/s1/last_embrace.mp3": "data/bgm/s1/h5e8d4afd281a_last_embrace.mp3",
@@ -476,9 +476,9 @@
     },
     {
       "logicalPath": "data/bgimage/s1/outskirts_passage_evening.webp",
-      "outputPath": "data/bgimage/s1/hfaf3b5018782_outskirts_passage_evening.webp",
-      "bytes": 515410,
-      "sha256": "faf3b5018782e21bce6beceef44b7624faeac8829c0390019211bea4cdfe8c1a",
+      "outputPath": "data/bgimage/s1/h9d2966c30bc7_outskirts_passage_evening.webp",
+      "bytes": 462286,
+      "sha256": "9d2966c30bc70b34bbf073b34489694379417227a3936e3e2db95158af17cb68",
       "fingerprinted": true
     },
     {
@@ -2186,7 +2186,7 @@
       "logicalPath": "data/scenario/d1_07_patrol.ks",
       "outputPath": "data/scenario/d1_07_patrol.ks",
       "bytes": 152086,
-      "sha256": "89f2f5756f015b0479dcd5838e5df0571e7fd0381b1b56aada5445425b538d44",
+      "sha256": "5a2f695dbece3b245270773c1dbe873c8eed675e2ef67f01c821b45dcaec1483",
       "fingerprinted": false
     },
     {
@@ -3276,7 +3276,7 @@
     }
   ],
   "totalFiles": 427,
-  "totalBytes": 130321061,
+  "totalBytes": 130267937,
   "fixedNameReason": "official runtime contracts, entry HTML and scenario loading (cache:false); af112e11",
   "manifestSelf": "excluded from self-referential checksum; all other output files covered",
   "templateDataKept": [],

@@ -30,7 +30,7 @@ window.__hcS2eWraith.preload(["./data/fgimage/hc/wraith/h862ce9483228_wraith_non
 [xchgbgm storage="s1/h828afc2f15d7_obsession.mp3" time="2000" volume="100"]
 
 [stopse buf="8"]
-[bg storage="s1/hfaf3b5018782_outskirts_passage_evening.webp" time="3000"]
+[bg storage="s1/h9d2966c30bc7_outskirts_passage_evening.webp" time="3000"]
 [fadeinse storage="s1/h75e86bb0e745_s2d_ambient_evening_street.mp3" buf="8" loop="true" time="600" volume="12"]
 
 
